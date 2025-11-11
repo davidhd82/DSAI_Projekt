@@ -1,1685 +1,1065 @@
 Stats_Player,FIFA_Player,Last_Name,Stats_Squad,FIFA_Club,FIFA_Overall,Confidence,VALIDIERT
-Patrick Cutrone,P. Cutrone,cutrone,Empoli,Wolverhampton Wanderers,72,high,✅
-Aleksandr Kokorin,A. Kokorin,kokorin,Fiorentina,Fiorentina,72,high,✅
-David Raya,David Raya,raya,Brentford,Brentford,76,high,✅
-Jason Denayer,J. Denayer,denayer,Lyon,,77,high,✅
-Hannes Wolf,H. Wolf,wolf,M'Gladbach,Borussia MÃ¶nchengladbach,72,high,✅
-Marius Wolf,M. Wolf,wolf,Dortmund,Borussia Dortmund,77,high,✅
-Francisco Sierralta,F. Sierralta,sierralta,Watford,Watford,72,high,✅
-Luca Vignali,L. Vignali,vignali,Spezia,Spezia,69,high,✅
-Javier Manquillo,Manquillo,manquillo,Newcastle Utd,Newcastle United,74,unique_lastname,✅
-Oihan Sancet,Sancet,sancet,Athletic Club,Athletic Club de Bilbao,76,unique_lastname,✅
-Kevin Strootman,K. Strootman,strootman,Cagliari,Olympique de Marseille,73,high,✅
-Aymen Barkok,A. Barkok,barkok,Eint Frankfurt,1. FSV Mainz 05,72,high,✅
-Jeffrey Gouweleeuw,J. Gouweleeuw,gouweleeuw,Augsburg,FC Augsburg,75,high,✅
-Marten Winkler,M. Winkler,winkler,Hertha BSC,SV Waldhof Mannheim 07,61,high,✅
-John Stones,J. Stones,stones,Manchester City,Manchester City,83,high,✅
-Andrei Girotto,Andrei Girotto,girotto,Nantes,FC Nantes,78,high,✅
-Mamadou Coulibaly,M. Coulibaly,coulibaly,Salernitana,US Salernitana 1919,67,high,✅
-Tanguy Coulibaly,T. Coulibaly,coulibaly,Stuttgart,VfB Stuttgart,69,high,✅
-Joseph Scally,J. Scally,scally,M'Gladbach,Borussia MÃ¶nchengladbach,71,high,✅
-Dennis Geiger,D. Geiger,geiger,Hoffenheim,TSG Hoffenheim,75,high,✅
-Reece Oxford,R. Oxford,oxford,Augsburg,FC Augsburg,76,high,✅
-Gianluca Mancini,G. Mancini,mancini,Roma,Roma,81,high,✅
-Colin Dagba,C. Dagba,dagba,Paris S-G,RC Strasbourg Alsace,74,high,✅
-Boulaye Dia,B. Dia,dia,Villarreal,Villarreal CF,79,high,✅
-Nicolas Haas,21Â T. Haas,haas,Empoli,TÃ¼rkgÃ¼cÃ¼ MÃ¼nchen,61,unique_lastname,✅
-Andreas Voglsammer,A. Voglsammer,voglsammer,Union Berlin,1. FC Union Berlin,73,high,✅
-Daniele Rugani,D. Rugani,rugani,Juventus,Juventus,76,high,✅
-Keita Endo,K. Endo,endo,Union Berlin,Eintracht Braunschweig,68,high,✅
-Wataru Endo,W. Endo,endo,Stuttgart,VfB Stuttgart,78,high,✅
-Kieran Tierney,K. Tierney,tierney,Arsenal,Arsenal,81,high,✅
-Mohamed Elneny,M. Elneny,elneny,Arsenal,Arsenal,76,high,✅
-James McArthur,J. McArthur,mcarthur,Crystal Palace,Crystal Palace,75,high,✅
-Joï¿½o Cancelo,JoÃ£o Cancelo,cancelo,Manchester City,Manchester City,88,high,✅
-Stefan Lainer,S. Lainer,lainer,M'Gladbach,Borussia MÃ¶nchengladbach,77,high,✅
-Dimitri Payet,D. Payet,payet,Marseille,Olympique de Marseille,82,high,✅
-Leandro Trossard,L. Trossard,trossard,Brighton,Brighton & Hove Albion,79,high,✅
-Hans Nunoo Sarpei,H. Sarpei,sarpei,Greuther Fï¿½rth,FC Ingolstadt 04,67,high,✅
-Martin Adeline,M. Adeline,adeline,Reims,Stade de Reims,65,high,✅
-Gerrit Holtmann,G. Holtmann,holtmann,Bochum,VfL Bochum 1848,74,high,✅
-Jesï¿½s Navas,J. Navas,navas,Sevilla,Arsenal de SarandÃ­,66,high,✅
-Keylor Navas,K. Navas,navas,Paris S-G,Paris Saint-Germain,88,high,✅
-Marten de Roon,M. de Roon,roon,Atalanta,Atalanta,80,high,✅
-Kalidou Koulibaly,K. Koulibaly,koulibaly,Napoli,Chelsea,87,high,✅
-Fabian Kunze,L. Kunze,kunze,Arminia,VfL OsnabrÃ¼ck,65,unique_lastname,✅
-Berat Djimsiti,B. Djimsiti,djimsiti,Atalanta,Atalanta,79,high,✅
-Giorgos Kyriakopoulos,G. Kyriakopoulos,kyriakopoulos,Sassuolo,U.S. Sassuolo Calcio,72,high,✅
-Filippo Terracciano,P. Terracciano,terracciano,Hellas Verona,Fiorentina,76,unique_lastname,✅
-Wahbi Khazri,W. Khazri,khazri,Saint-ï¿½tienne,Montpellier HÃ©rault SC,75,high,✅
-Divock Origi,D. Origi,origi,Liverpool,AC Milan,76,high,✅
-Jadon Sancho,J. Sancho,sancho,Manchester Utd,Manchester United,84,high,✅
-Mohammed Salisu,M. Salisu,salisu,Southampton,Southampton,77,high,✅
-Guglielmo Vicario,G. Vicario,vicario,Empoli,Empoli,78,high,✅
-ï¿½lex Berenguer,Ãlex Berenguer,berenguer,Athletic Club,Athletic Club de Bilbao,80,unique_lastname,✅
-David Nemeth,D. Nemeth,nemeth,Mainz 05,FC St. Pauli,68,high,✅
-Adam Forshaw,A. Forshaw,forshaw,Leeds United,Leeds United,73,high,✅
-Julian Draxler,J. Draxler,draxler,Paris S-G,Paris Saint-Germain,79,high,✅
-Giorgio Scalvini,G. Scalvini,scalvini,Atalanta,Atalanta,70,high,✅
-Portu,Portu,portu,Real Sociedad,Getafe CF,78,high,✅
-Wayne Hennessey,W. Hennessey,hennessey,Burnley,Nottingham Forest,74,high,✅
-Hugo Siquet,H. Siquet,siquet,Freiburg,Sport-Club Freiburg,70,high,✅
-Chris Smalling,C. Smalling,smalling,Roma,Roma,81,high,✅
-Benno Schmitz,B. Schmitz,schmitz,Kï¿½ln,1. FC KÃ¶ln,75,high,✅
-Alberto Grassi,A. Grassi,grassi,Cagliari,Parma,72,high,✅
-Anthony Gordon,A. Gordon,gordon,Everton,Everton,75,high,✅
-Kaide Gordon,K. Gordon,gordon,Liverpool,Liverpool,62,high,✅
-Alessio Cragno,A. Cragno,cragno,Cagliari,AC Monza,80,high,✅
-Luis Muriel,L. Muriel,muriel,Atalanta,Atalanta,82,high,✅
-Enzo Crivelli,E. Crivelli,crivelli,Saint-ï¿½tienne,Ä°stanbul BaÅakÅehir FK,71,high,✅
-Takuma Asano,22Â Y. Asano,asano,Bochum,Sanfrecce Hiroshima,67,unique_lastname,✅
-Nicola Murru,N. Murru,murru,Sampdoria,U.C. Sampdoria,72,high,✅
-Wesley Fofana,W. Fofana,fofana,Leicester City,Leicester City,79,high,✅
-Thomas Partey,T. Partey,partey,Arsenal,Arsenal,84,high,✅
-Marcelo Saracchi,M. Saracchi,saracchi,Levante,Levante UniÃ³n Deportiva,74,high,✅
-Vï¿½ctor Chust,VÃ­ctor Chust,chust,Cï¿½diz,CÃ¡diz CF,74,high,✅
-Rafa Mir,Rafa Mir,mir,Sevilla,Sevilla FC,79,high,✅
-Jonathan Bamba,J. Bamba,bamba,Lille,LOSC Lille,76,high,✅
-Manuel Riemann,M. Riemann,riemann,Bochum,VfL Bochum 1848,79,high,✅
-Thibault Klidje,22Â T. Klidje,klidje,Bordeaux,FC Girondins de Bordeaux,64,unique_lastname,✅
-Sandro Tonali,S. Tonali,tonali,Milan,AC Milan,84,high,✅
-Lucas Alario,L. Alario,alario,Leverkusen,Eintracht Frankfurt,78,high,✅
-Etienne Green,E. Green,green,Saint-ï¿½tienne,AS Saint-Ãtienne,73,high,✅
-Reece James,R. James,james,Chelsea,Chelsea,84,high,✅
-Tommaso Pobega,T. Pobega,pobega,Torino,AC Milan,76,high,✅
-Sven Ulreich,S. Ulreich,ulreich,Bayern Munich,FC Bayern MÃ¼nchen,75,high,✅
-Kevin Volland,K. Volland,volland,Monaco,AS Monaco,82,high,✅
-Diego Lainez,D. Lainez,lainez,Betis,SC Braga,74,high,✅
-Adriï¿½n Butzke,Butzke,butzke,Granada,Granada CF,65,unique_lastname,✅
-Renaud Ripart,R. Ripart,ripart,Troyes,ESTAC Troyes,73,high,✅
-Alvaro Sanz,22Â Ãlvaro Sanz,sanz,Barcelona,FC Barcelona,65,unique_lastname,✅
-Jï¿½rï¿½me Boateng,J. Boateng,boateng,Lyon,Olympique Lyonnais,79,high,✅
-Walace,Walace,walace,Udinese,Udinese Calcio,74,high,✅
-Ivï¿½n Alejo,IvÃ¡n Alejo,alejo,Cï¿½diz,CÃ¡diz CF,75,high,✅
-Bryan Mbeumo,B. Mbeumo,mbeumo,Brentford,Brentford,75,high,✅
-Dylan Bronn,D. Bronn,bronn,Metz,FC Metz,71,high,✅
-Afimico Pululu,P. Pululu,pululu,Greuther Fï¿½rth,Sportclub Verl,57,unique_lastname,✅
-Lorenzo De Silvestri,L. De Silvestri,silvestri,Bologna,Bologna,76,high,✅
-Marco Silvestri,M. Silvestri,silvestri,Udinese,Udinese Calcio,79,high,✅
-Unai Vencedor Paris,21Â J. Paris,paris,Athletic Club,KFC Uerdingen 05,52,unique_lastname,✅
-Nicolï¿½ Casale,N. Casale,casale,Hellas Verona,Lazio,76,high,✅
-Bukayo Saka,B. Saka,saka,Arsenal,Arsenal,82,high,✅
-Martin Terrier,M. Terrier,terrier,Rennes,Stade Rennais FC,81,high,✅
-Oier Zarraga,Zarraga,zarraga,Athletic Club,Athletic Club de Bilbao,73,unique_lastname,✅
-Aaron Ramsdale,A. Ramsdale,ramsdale,Arsenal,Arsenal,82,high,✅
-Christos Kourfalidis,C. Kourfalidis,kourfalidis,Cagliari,Cagliari,60,high,✅
-Benjamin Pavard,B. Pavard,pavard,Bayern Munich,FC Bayern MÃ¼nchen,79,high,✅
-Federico Ceccherini,F. Ceccherini,ceccherini,Hellas Verona,Hellas Verona,75,high,✅
-Ernesto Torregrossa,E. Torregrossa,torregrossa,Sampdoria,Pisa,71,high,✅
-Mason Mount,M. Mount,mount,Chelsea,Chelsea,84,high,✅
-Eric Dier,E. Dier,dier,Tottenham,Tottenham Hotspur,80,high,✅
-James Tarkowski,J. Tarkowski,tarkowski,Burnley,Everton,79,high,✅
-Thuler,22Â Matheus Thuler,thuler,Montpellier,Montpellier HÃ©rault SC,71,unique_lastname,✅
-Pedrosa,AdriÃ  Pedrosa,pedrosa,Espanyol,RCD Espanyol de Barcelona,76,unique_lastname,✅
-Serge Aurier,22Â S. Aurier,aurier,Villarreal,Villarreal CF,79,unique_lastname,✅
-Iker Muniain,Muniain,muniain,Athletic Club,Athletic Club de Bilbao,84,unique_lastname,✅
-Mamadou Sakho,M. Sakho,sakho,Montpellier,Montpellier HÃ©rault SC,76,high,✅
-Alessandro Buongiorno,A. Buongiorno,buongiorno,Torino,Torino F.C.,68,high,✅
-Lewis Dobbin,L. Dobbin,dobbin,Everton,Derby County,59,high,✅
-Timothy Castagne,T. Castagne,castagne,Leicester City,Leicester City,78,high,✅
-Javier Serrano,21Â J. Serrano,serrano,Atlï¿½tico Madrid,Zamora FÃºtbol Club,58,unique_lastname,✅
-Jean Onana,J. Onana,onana,Bordeaux,FC Girondins de Bordeaux,73,high,✅
-Mickey van de Ven,M. van de Ven,ven,Wolfsburg,VfL Wolfsburg,69,high,✅
-Angelo Ogbonna,A. Ogbonna,ogbonna,West Ham,West Ham United,79,high,✅
-Denso Kasius,D. Kasius,kasius,Bologna,Bologna,62,high,✅
-Marco Modolo,M. Modolo,modolo,Venezia,Venezia FC,69,high,✅
-Yerry Mina,Y. Mina,mina,Everton,Everton,77,high,✅
-Simeon Nwankwo,S. Nwankwo,nwankwo,Salernitana,MjÃ¤llby AIF,61,high,✅
-Youcef Atal,Y. Atal,atal,Nice,OGC Nice,75,high,✅
-Nathan Redmond,N. Redmond,redmond,Southampton,Southampton,75,high,✅
-Moussa Diaby,M. Diaby,diaby,Leverkusen,Bayer 04 Leverkusen,84,high,✅
-Yadaly Diaby,Y. Diaby,diaby,Clermont Foot,Clermont Foot 63,62,high,✅
-David Okereke,D. Okereke,okereke,Venezia,US Cremonese,72,high,✅
-Hugo Mallo,Hugo Mallo,mallo,Celta Vigo,RC Celta de Vigo,77,high,✅
-Patrick Osterhage,P. Osterhage,osterhage,Bochum,VfL Bochum 1848,69,high,✅
-Janis Antiste,J. Antiste,antiste,Spezia,Spezia,68,high,✅
-Javier Ontiveros,Ontiveros,ontiveros,Osasuna,Villarreal Club de FÃºtbol B,73,unique_lastname,✅
-Marvelous Nakamba,M. Nakamba,nakamba,Aston Villa,Aston Villa,75,high,✅
-Sydney van Hooijdonk,S. van Hooijdonk,hooijdonk,Bologna,SC Heerenveen,67,high,✅
-Taiwo Awoniyi,T. Awoniyi,awoniyi,Union Berlin,Nottingham Forest,77,high,✅
-Andre-Frank Zambo Anguissa,A. Zambo Anguissa,anguissa,Napoli,Napoli,81,high,✅
-Denis Cheryshev,22Â D. Cheryshev,cheryshev,Valencia,Valencia CF,75,unique_lastname,✅
-Moses Simon,M. Simon,simon,Nantes,FC Nantes,77,high,✅
-Yannick Gerhardt,Y. Gerhardt,gerhardt,Wolfsburg,VfL Wolfsburg,76,high,✅
-Ionu? Radu,I. Radu,radu,Inter,US Cremonese,74,high,✅
-Gregor Kobel,G. Kobel,kobel,Dortmund,Borussia Dortmund,83,high,✅
-Olivier Giroud,O. Giroud,giroud,Milan,AC Milan,82,high,✅
-Liam Delap,L. Delap,delap,Manchester City,Manchester City,66,high,✅
-Jack Butland,J. Butland,butland,Crystal Palace,Crystal Palace,73,high,✅
-Jordan Veretout,J. Veretout,veretout,Roma,Olympique de Marseille,79,high,✅
-Aaron Cresswell,A. Cresswell,cresswell,West Ham,West Ham United,78,high,✅
-Charlie Cresswell,C. Cresswell,cresswell,Leeds United,Millwall,67,high,✅
-Philippe Koffi,E. Koffi,koffi,Reims,Pau FC,67,unique_lastname,✅
-Adam Obert,A. Obert,obert,Cagliari,Cagliari,63,high,✅
-Max Kilman,M. Kilman,kilman,Wolves,Wolverhampton Wanderers,77,high,✅
-Alisson,Alisson,alisson,Liverpool,Liverpool,89,high,✅
-Adam Idah,A. Idah,idah,Norwich City,Norwich City,68,high,✅
-Jack Cork,J. Cork,cork,Burnley,Burnley,74,high,✅
-Robert Gumny,R. Gumny,gumny,Augsburg,FC Augsburg,71,high,✅
-Marcus Forss,M. Forss,forss,Brentford,Middlesbrough,68,high,✅
-Matty Cash,M. Cash,cash,Aston Villa,Aston Villa,79,high,✅
-El Chadaille Bitshiabu,E. Bitshiabu,bitshiabu,Paris S-G,Paris Saint-Germain,62,high,✅
-Dominik Greif,D. Greif,greif,Mallorca,RCD Mallorca,72,high,✅
-Ludwig Augustinsson,L. Augustinsson,augustinsson,Sevilla,Aston Villa,77,high,✅
-Leon Goretzka,L. Goretzka,goretzka,Bayern Munich,FC Bayern MÃ¼nchen,87,high,✅
-Donyell Malen,D. Malen,malen,Dortmund,Borussia Dortmund,79,high,✅
-Ken Sema,K. Sema,sema,Watford,Watford,72,high,✅
-Amine Gouiri,A. Gouiri,gouiri,Nice,OGC Nice,79,high,✅
-Ismaï¿½lben Boura,I. Boura,boura,Lens,Racing Club de Lens,69,high,✅
-Tanner Tessmann,T. Tessmann,tessmann,Venezia,Venezia FC,66,high,✅
-Christian Benteke,C. Benteke,benteke,Crystal Palace,D.C. United,74,high,✅
-Jerdy Schouten,J. Schouten,schouten,Bologna,Bologna,74,high,✅
-Morgan Schneiderlin,M. Schneiderlin,schneiderlin,Nice,OGC Nice,74,high,✅
-Angelo Fulgini,A. Fulgini,fulgini,Angers,1. FSV Mainz 05,77,high,✅
-Kristoffer Ajer,K. Ajer,ajer,Brentford,Brentford,75,high,✅
-Caoimhï¿½n Kelleher,C. Kelleher,kelleher,Liverpool,Liverpool,73,high,✅
-Josuï¿½ Albert,22Â J. Albert,albert,Clermont Foot,Clermont Foot 63,61,unique_lastname,✅
-Kevin Schade,K. Schade,schade,Freiburg,Sport-Club Freiburg,70,high,✅
-Andrea Belotti,A. Belotti,belotti,Torino,,80,high,✅
-Elif Elmas,E. Elmas,elmas,Napoli,Napoli,78,high,✅
-Nani,Nani,nani,Venezia,Melbourne Victory,77,high,✅
-Joel Pohjanpalo,J. Pohjanpalo,pohjanpalo,Leverkusen,Bayer 04 Leverkusen,73,high,✅
-Moanes Dabbur,M. Dabbur,dabbur,Hoffenheim,TSG Hoffenheim,75,high,✅
-Charlie Goode,C. Goode,goode,Brentford,Brentford,67,high,✅
-Oghenekaro Etebo,O. Etebo,etebo,Watford,Stoke City,72,high,✅
-Isaac Success,I. Success,success,Udinese,Udinese Calcio,74,high,✅
-Evann Guessand,E. Guessand,guessand,Nice,FC Nantes,70,high,✅
-Filippo Delli Carri,F. Delli Carri,carri,Salernitana,Como,63,high,✅
-Falaye Sacko,F. Sacko,sacko,Saint-ï¿½tienne,Montpellier HÃ©rault SC,74,high,✅
-Mickael Malsa,M. Malsa,malsa,Levante,Levante UniÃ³n Deportiva,73,high,✅
-Jacopo Dezi,22Â J. Dezi,dezi,Venezia,Venezia FC,69,unique_lastname,✅
-Harrison Ashby,H. Ashby,ashby,West Ham,West Ham United,62,high,✅
-Kamory Doumbia,K. Doumbia,doumbia,Reims,Stade de Reims,63,high,✅
-Moussa Doumbia,M. Doumbia,doumbia,Reims,FC NordsjÃ¦lland,55,high,✅
-Souleyman Doumbia,S. Doumbia,doumbia,Angers,Angers SCO,73,high,✅
-Antonio Raillo,Raillo,raillo,Mallorca,RCD Mallorca,73,unique_lastname,✅
-Danny Ings,D. Ings,ings,Aston Villa,Aston Villa,79,high,✅
-Wilfred Ndidi,W. Ndidi,ndidi,Leicester City,Leicester City,84,high,✅
-Mykola Kukharevych,M. Kukharevych,kukharevych,Troyes,Oud-Heverlee Leuven,61,high,✅
-Raoul Bellanova,R. Bellanova,bellanova,Cagliari,Inter,74,high,✅
-Raï¿½l Torrente,Torrente,torrente,Granada,Granada CF,67,unique_lastname,✅
-Pedri,Pedri,pedri,Barcelona,FC Barcelona,85,high,✅
-Manolo Gabbiadini,M. Gabbiadini,gabbiadini,Sampdoria,U.C. Sampdoria,75,high,✅
-Roberto Massimo,22Â R. Massimo,massimo,Stuttgart,VfB Stuttgart,69,unique_lastname,✅
-Jamal Musiala,J. Musiala,musiala,Bayern Munich,FC Bayern MÃ¼nchen,81,high,✅
-Birger Meling,B. Meling,meling,Rennes,Stade Rennais FC,76,high,✅
-Luca Stanga,L. Stanga,stanga,Milan,AC Milan,60,high,✅
-Ashley Westwood,A. Westwood,westwood,Burnley,Burnley,76,high,✅
-Thomas Fontaine,22Â J. Fontaine,fontaine,Lorient,Le Havre AC,67,unique_lastname,✅
-Stefano Sturaro,S. Sturaro,sturaro,Genoa,Genoa,72,high,✅
-Vicente Iborra,Iborra,iborra,Villarreal,Levante UniÃ³n Deportiva,75,unique_lastname,✅
-Adam Lallana,A. Lallana,lallana,Brighton,Brighton & Hove Albion,75,high,✅
-Jean-Philippe Gbamin,J. Gbamin,gbamin,Everton,Everton,75,high,✅
-Ander Barrenetxea,Barrenetxea,barrenetxea,Real Sociedad,Real Sociedad,74,unique_lastname,✅
-Alessandro Deiola,A. Deiola,deiola,Cagliari,Cagliari,67,high,✅
-Fidel,Fidel,fidel,Elche,Elche CF,77,high,✅
-Elseid Hysaj,E. Hysaj,hysaj,Lazio,Lazio,75,high,✅
-Carlos Gruezo,C. Gruezo,gruezo,Augsburg,FC Augsburg,72,high,✅
-Giacomo Raspadori,G. Raspadori,raspadori,Sassuolo,U.S. Sassuolo Calcio,79,high,✅
-Adrien Tameze,A. Tameze,tameze,Hellas Verona,Hellas Verona,77,high,✅
-Ebenezer Annan,I. Annan,annan,Bologna,Kristiansund BK,59,unique_lastname,✅
-Pere Pons,22Â Xavi Pons,pons,Alavï¿½s,FC Cartagena,61,unique_lastname,✅
-Ishak Belfodil,22Â I. Belfodil,belfodil,Hertha BSC,Hertha BSC,75,unique_lastname,✅
-Franco Cervi,F. Cervi,cervi,Celta Vigo,RC Celta de Vigo,78,high,✅
-Dale Stephens,J. Stephens,stephens,Burnley,Southampton,74,unique_lastname,✅
-William Smallbone,W. Smallbone,smallbone,Southampton,Stoke City,67,high,✅
-Ridle Baku,R. Baku,baku,Wolfsburg,VfL Wolfsburg,80,high,✅
-Dennis Jastrzembski,D. Jastrzembski,jastrzembski,Hertha BSC,ÅlÄsk WrocÅaw,66,high,✅
-Grant Hanley,G. Hanley,hanley,Norwich City,Norwich City,74,high,✅
-Issa Diop,I. Diop,diop,West Ham,West Ham United,77,high,✅
-Sofiane Diop,S. Diop,diop,Monaco,AS Monaco,78,high,✅
-Leo Fuhr Hjelde,L. Hjelde,hjelde,Leeds United,Leeds United,65,high,✅
-Joris Chotard,J. Chotard,chotard,Montpellier,Montpellier HÃ©rault SC,74,high,✅
-Mohamed Achi,M. Achi,achi,Nantes,FC Nantes,60,high,✅
-Alban Lafont,A. Lafont,lafont,Nantes,FC Nantes,80,high,✅
-Andrew Gravillon,A. Gravillon,gravillon,Reims,Stade de Reims,74,high,✅
-Ethan Ampadu,E. Ampadu,ampadu,Venezia,Chelsea,73,high,✅
-Roberto Gagliardini,R. Gagliardini,gagliardini,Inter,Inter,76,high,✅
-Paul Dummett,P. Dummett,dummett,Newcastle Utd,Newcastle United,73,high,✅
-Fernando Pacheco,F. Pacheco,pacheco,Alavï¿½s,FC Emmen,66,high,✅
-Azor Matusiwa,A. Matusiwa,matusiwa,Reims,Stade de Reims,74,high,✅
-Danny Rose,L. Rose,rose,Watford,Macarthur FC,59,unique_lastname,✅
-Sacha Delaye,S. Delaye,delaye,Montpellier,Montpellier HÃ©rault SC,61,high,✅
-Ezri Konsa,E. Konsa,konsa,Aston Villa,Aston Villa,79,high,✅
-Junior Dina Ebimbe,J. Dina Ebimbe,ebimbe,Paris S-G,Paris Saint-Germain,71,high,✅
-Pawe? Dawidowicz,P. Dawidowicz,dawidowicz,Hellas Verona,Hellas Verona,75,high,✅
-Lorenz Assignon,L. Assignon,assignon,Rennes,Stade Rennais FC,69,high,✅
-Gian-Luca Itter,L. Itter,itter,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,69,unique_lastname,✅
-Salvatore Sirigu,S. Sirigu,sirigu,Genoa,,78,high,✅
-Emil Bohinen,E. Bohinen,bohinen,Salernitana,US Salernitana 1919,72,high,✅
-Adrian Fein,A. Fein,fein,Greuther Fï¿½rth,FC Bayern MÃ¼nchen,68,high,✅
-Fabio Quagliarella,F. Quagliarella,quagliarella,Sampdoria,U.C. Sampdoria,76,high,✅
-Kenedy,Kenedy,kenedy,Chelsea,Chelsea,76,high,✅
-Jurgen Ekkelenkamp,J. Ekkelenkamp,ekkelenkamp,Hertha BSC,Royal Antwerp FC,71,high,✅
-Radamel Falcao,Falcao,falcao,Rayo Vallecano,Rayo Vallecano,76,unique_lastname,✅
-Lucas Calodat,L. Calodat,calodat,Saint-ï¿½tienne,AS Saint-Ãtienne,62,high,✅
-Luke Ayling,L. Ayling,ayling,Leeds United,Leeds United,75,high,✅
-Morten Frendrup,M. Frendrup,frendrup,Genoa,Genoa,72,high,✅
-Thï¿½o Le Bris,T. Le Bris,bris,Lorient,FC Lorient,57,high,✅
-Pape Matar Sarr,P. Sarr,sarr,Metz,Tottenham Hotspur,71,high,✅
-Bouna Sarr,B. Sarr,sarr,Bayern Munich,FC Bayern MÃ¼nchen,73,high,✅
-Ismaila Sarr,I. Sarr,sarr,Watford,Watford,77,high,✅
-Malang Sarr,M. Sarr,sarr,Chelsea,Chelsea,75,high,✅
-Francesco Di Mariano,F. Di Mariano,mariano,Venezia,Lecce,71,high,✅
-Philippe Sandler,22Â P. Sandler,sandler,Troyes,Feyenoord,69,unique_lastname,✅
-Luca Netz,L. Netz,netz,M'Gladbach,Borussia MÃ¶nchengladbach,73,high,✅
-Domenico Criscito,D. Criscito,criscito,Genoa,Toronto FC,75,high,✅
-Christopher Nkunku,C. Nkunku,nkunku,RB Leipzig,RB Leipzig,86,high,✅
-Romain Salin,R. Salin,salin,Rennes,Stade Rennais FC,70,high,✅
-Djeidi Gassama,S. Gassama,gassama,Paris S-G,Real Valladolid CF,69,unique_lastname,✅
-Gianluca Gaetano,G. Gaetano,gaetano,Napoli,Napoli,71,high,✅
-Cï¿½sar Azpilicueta,Azpilicueta,azpilicueta,Chelsea,Chelsea,82,unique_lastname,✅
-Jarrad Branthwaite,J. Branthwaite,branthwaite,Everton,PSV,68,high,✅
-Pablo Sarabia,Pablo Sarabia,sarabia,Paris S-G,Paris Saint-Germain,81,high,✅
-Raphaï¿½l Guerreiro,R. Guerreiro,guerreiro,Dortmund,Borussia Dortmund,82,high,✅
-Xeka,22Â Xeka,xeka,Lille,LOSC Lille,76,unique_lastname,✅
-Iyenoma Udogie,D. Udogie,udogie,Udinese,Udinese Calcio,74,unique_lastname,✅
-Marc Bartra,Marc Bartra,bartra,Betis,Real Betis BalompiÃ©,81,high,✅
-Ghislain Konan,G. Konan,konan,Reims,Al Nassr,76,high,✅
-Gianluca Frabotta,G. Frabotta,frabotta,Hellas Verona,Lecce,70,high,✅
-Adrien Thomasson,A. Thomasson,thomasson,Strasbourg,RC Strasbourg Alsace,77,high,✅
-Ansu Fati,Ansu Fati,fati,Barcelona,FC Barcelona,79,high,✅
-Yuri Berchiche,Yuri Berchiche,berchiche,Athletic Club,Athletic Club de Bilbao,82,high,✅
-Nicolas Galazzi,N. Galazzi,galazzi,Venezia,Brescia,65,high,✅
-Jimmy Cabot,J. Cabot,cabot,Angers,Racing Club de Lens,75,high,✅
-Thomas Foket,T. Foket,foket,Reims,Stade de Reims,75,high,✅
-Andrea Pinamonti,A. Pinamonti,pinamonti,Empoli,Inter,75,high,✅
-Kerem Demirbay,K. Demirbay,demirbay,Leverkusen,Bayer 04 Leverkusen,81,high,✅
-Igor Zubeldia,Zubeldia,zubeldia,Real Sociedad,Real Sociedad,78,unique_lastname,✅
-Saï¿½d Benrahma,S. Benrahma,benrahma,West Ham,West Ham United,78,high,✅
-Joelinton,Joelinton,joelinton,Newcastle Utd,Newcastle United,75,high,✅
-Jï¿½rï¿½my Le Douaron,J. Le Douaron,douaron,Brest,Stade Brestois 29,72,high,✅
-Matondo-Merveille Papela,M. Papela,papela,Mainz 05,1. FSV Mainz 05,61,high,✅
-Ebrima Colley,E. Colley,colley,Spezia,Atalanta,67,high,✅
-Jon Bautista,21Â B. Bautista,bautista,Real Sociedad,Club AtlÃ©tico Rentistas,53,unique_lastname,✅
-Lucas Tousart,L. Tousart,tousart,Hertha BSC,Hertha BSC,75,high,✅
-Paul Pogba,P. Pogba,pogba,Manchester Utd,Juventus,85,high,✅
-Isco,Isco,isco,Real Madrid,Sevilla FC,82,high,✅
-Jordan Ferri,J. Ferri,ferri,Montpellier,Montpellier HÃ©rault SC,77,high,✅
-Mikael,22Â Mikael,mikael,Salernitana,US Salernitana 1919,62,unique_lastname,✅
-Jesï¿½s Owono,Owono,owono,Alavï¿½s,Deportivo AlavÃ©s,59,unique_lastname,✅
-Aster Vranckx,A. Vranckx,vranckx,Wolfsburg,VfL Wolfsburg,73,high,✅
-Matï¿½as Vecino,T. Vecino,vecino,Inter,Liverpool FÃºtbol Club,66,unique_lastname,✅
-Bjarki Bjarkason,B. Bjarkason,bjarkason,Venezia,Venezia FC,61,high,✅
-Geoffrey Kondogbia,G. Kondogbia,kondogbia,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,82,high,✅
-Remi Oudin,R. Oudin,oudin,Bordeaux,FC Girondins de Bordeaux,73,high,✅
-Kostas Manolas,22Â K. Manolas,manolas,Napoli,Olympiacos CFP,82,unique_lastname,✅
-Lewis Bate,L. Bate,bate,Leeds United,Oxford United,65,high,✅
-Kaj Sierhuis,K. Sierhuis,sierhuis,Reims,Stade de Reims,68,high,✅
-Declan Rice,D. Rice,rice,West Ham,West Ham United,84,high,✅
-Liberato Cacace,L. Cacace,cacace,Empoli,Empoli,72,high,✅
-Ola Aina,O. Aina,aina,Torino,Torino F.C.,74,high,✅
-Banzouzi Locko,B. Locko,locko,Reims,Stade de Reims,70,high,✅
-Nacho,20Â Nacho,nacho,Real Madrid,CD Numancia,66,unique_lastname,✅
-Jonathan Burkardt,J. Burkardt,burkardt,Mainz 05,1. FSV Mainz 05,76,high,✅
-Niklas Dorsch,N. Dorsch,dorsch,Augsburg,FC Augsburg,77,high,✅
-Andrea Petagna,A. Petagna,petagna,Napoli,Napoli,76,high,✅
-Vitaly Janelt,V. Janelt,janelt,Brentford,Brentford,74,high,✅
-Bram Nuytinck,B. Nuytinck,nuytinck,Udinese,Udinese Calcio,75,high,✅
-Nicholas Gioacchini,N. Gioacchini,gioacchini,Montpellier,Orlando City Soccer Club,67,high,✅
-Genki Haraguchi,G. Haraguchi,haraguchi,Union Berlin,1. FC Union Berlin,74,high,✅
-Manuel Lazzari,M. Lazzari,lazzari,Lazio,Lazio,79,high,✅
-Dennis Johnsen,D. Johnsen,johnsen,Venezia,Venezia FC,73,high,✅
-Rayan Cherki,R. Cherki,cherki,Lyon,Olympique Lyonnais,73,high,✅
-Erik Durm,E. Durm,durm,Eint Frankfurt,1. FC Kaiserslautern,72,high,✅
-Joaquï¿½n Correa,J. Correa,correa,Inter,Inter,80,high,✅
-Daichi Kamada,D. Kamada,kamada,Eint Frankfurt,Eintracht Frankfurt,80,high,✅
-Mario Lemina,M. Lemina,lemina,Nice,OGC Nice,75,high,✅
-Erick Pulgar,22Â E. Pulgar,pulgar,Fiorentina,Galatasaray SK,75,unique_lastname,✅
-Sambou Soumano,S. Soumano,soumano,Lorient,FC Lorient,67,high,✅
-Cristian Volpato,C. Volpato,volpato,Roma,Roma,64,high,✅
-Stuart Dallas,S. Dallas,dallas,Leeds United,Leeds United,75,high,✅
-Aimen Moueffek,A. Moueffek,moueffek,Saint-ï¿½tienne,AS Saint-Ãtienne,67,high,✅
-Eldor Shomurodov,E. Shomurodov,shomurodov,Roma,Roma,75,high,✅
-Fraser Forster,F. Forster,forster,Southampton,Tottenham Hotspur,76,high,✅
-Francis Coquelin,F. Coquelin,coquelin,Villarreal,Villarreal CF,80,high,✅
-Luca Zidane,22Â L. Zidane,zidane,Rayo Vallecano,Rayo Vallecano,69,unique_lastname,✅
-Alphonso Davies,A. Davies,davies,Bayern Munich,FC Bayern MÃ¼nchen,84,high,✅
-Tom Davies,T. Davies,davies,Everton,Everton,75,high,✅
-Ivï¿½n Marcone,I. Marcone,marcone,Elche,Club AtlÃ©tico Independiente,76,high,✅
-Dion Moise Sahi,M. Sahi,sahi,Strasbourg,FC Annecy,68,unique_lastname,✅
-Giorgi Mamardashvili,G. Mamardashvili,mamardashvili,Valencia,Valencia CF,77,high,✅
-Mohamed Sankoh,M. Sankoh,sankoh,Stuttgart,Vitesse,62,high,✅
-Dani Carvajal,Carvajal,carvajal,Real Madrid,Real Madrid CF,84,unique_lastname,✅
-Harold Moukoudi,H. Moukoudi,moukoudi,Saint-ï¿½tienne,AS Saint-Ãtienne,72,high,✅
-Patric,Patric,patric,Lazio,Lazio,75,high,✅
-Phil Foden,P. Foden,foden,Manchester City,Manchester City,85,high,✅
-Daniel Chesters,22Â D. Chesters,chesters,West Ham,West Ham United,57,unique_lastname,✅
-Steve Mandanda,S. Mandanda,mandanda,Marseille,Stade Rennais FC,79,high,✅
-Marcus Rashford,M. Rashford,rashford,Manchester Utd,Manchester United,81,high,✅
-Charalambos Lykogiannis,C. Lykogiannis,lykogiannis,Cagliari,Bologna,73,high,✅
-Andrew Omobamidele,A. Omobamidele,omobamidele,Norwich City,Norwich City,68,high,✅
-Mahmoud Dahoud,M. Dahoud,dahoud,Dortmund,Borussia Dortmund,80,high,✅
-Crysencio Summerville,C. Summerville,summerville,Leeds United,Leeds United,69,high,✅
-Federico Bernardeschi,F. Bernardeschi,bernardeschi,Juventus,Toronto FC,79,high,✅
-Mato Jajalo,M. Jajalo,jajalo,Udinese,Udinese Calcio,72,high,✅
-Kostas Stafylidis,K. Stafylidis,stafylidis,Bochum,VfL Bochum 1848,72,high,✅
-Yvan Neyou,Y. Neyou,neyou,Saint-ï¿½tienne,AS Saint-Ãtienne,71,high,✅
-Anthony Modeste,A. Modeste,modeste,Kï¿½ln,Borussia Dortmund,79,high,✅
-Jessic Ngankam,J. Ngankam,ngankam,Greuther Fï¿½rth,Hertha BSC,69,high,✅
-Cody Drameh,C. Drameh,drameh,Leeds United,Leeds United,68,high,✅
-Manuel Neuer,M. Neuer,neuer,Bayern Munich,FC Bayern MÃ¼nchen,90,high,✅
-Lewis Dunk,H. Dunk,dunk,Brighton,Cambridge United,64,unique_lastname,✅
-Denis Bouanga,D. Bouanga,bouanga,Saint-ï¿½tienne,Los Angeles FC,75,high,✅
-John McGinn,J. McGinn,mcginn,Aston Villa,Aston Villa,79,high,✅
-Gabriel Paulista,Gabriel Paulista,paulista,Valencia,Valencia CF,82,high,✅
-Charles Boli,21Â Y. Boli,boli,Lens,,73,unique_lastname,✅
-Riccardo Gagliolo,R. Gagliolo,gagliolo,Salernitana,Urbs Reggina 1914 ,69,high,✅
-Stephy Mavididi,S. Mavididi,mavididi,Montpellier,Montpellier HÃ©rault SC,77,high,✅
-Henrikh Mkhitaryan,H. Mkhitaryan,mkhitaryan,Roma,Inter,81,high,✅
-Jamaal Lascelles,J. Lascelles,lascelles,Newcastle Utd,Newcastle United,75,high,✅
-Luca Koleosho,22Â L. Koleosho,koleosho,Espanyol,RCD Espanyol de Barcelona,60,unique_lastname,✅
-Samuel Moutoussamy,S. Moutoussamy,moutoussamy,Nantes,FC Nantes,72,high,✅
-Silvan Hefti,S. Hefti,hefti,Genoa,Genoa,74,high,✅
-Marko Rog,M. Rog,rog,Cagliari,Cagliari,72,high,✅
-Oriol Romeu,Oriol Romeu,romeu,Southampton,Southampton,78,high,✅
-John Ruddy,J. Ruddy,ruddy,Wolves,Birmingham City,70,high,✅
-Hans Hateboer,H. Hateboer,hateboer,Atalanta,Atalanta,80,high,✅
-Ederson,Ederson,ederson,Manchester City,Manchester City,89,high,✅
-Federico Bonazzoli,F. Bonazzoli,bonazzoli,Salernitana,US Salernitana 1919,73,high,✅
-Georginio Rutter,G. Rutter,rutter,Hoffenheim,TSG Hoffenheim,75,high,✅
-Gabriele Zappa,G. Zappa,zappa,Cagliari,Cagliari,68,high,✅
-Unai Dufur,Unai Dufur,dufur,Osasuna,CA Osasuna,62,high,✅
-Ludovic Blas,L. Blas,blas,Nantes,FC Nantes,79,high,✅
-Lucas Copado,22Â L. Copado,copado,Bayern Munich,FC Bayern MÃ¼nchen,60,unique_lastname,✅
-Ruslan Malinovskyi,R. Malinovskyi,malinovskyi,Atalanta,Atalanta,82,high,✅
-Beï¿½at Turrientes,Turrientes,turrientes,Real Sociedad,Real Sociedad,68,unique_lastname,✅
-Gianluca Scamacca,G. Scamacca,scamacca,Sassuolo,West Ham United,80,high,✅
-Mads Bidstrup,M. Bidstrup,bidstrup,Brentford,FC NordsjÃ¦lland,67,high,✅
-Chapela,Chapela,chapela,Cï¿½diz,CÃ¡diz CF,66,high,✅
-Louis Mafouta,L. Mafouta,mafouta,Metz,US Quevilly Rouen MÃ©tropole,68,high,✅
-Abdoulaye Bakayoko,A. Bakayoko,bakayoko,Saint-ï¿½tienne,AS Saint-Ãtienne,64,high,✅
-Tiemouï¿½ Bakayoko,T. Bakayoko,bakayoko,Milan,AC Milan,75,high,✅
-Nayef Aguerd,N. Aguerd,aguerd,Rennes,West Ham United,80,high,✅
-Tï¿½ji Savanier,T. Savanier,savanier,Montpellier,Montpellier HÃ©rault SC,81,high,✅
-Dominik Szoboszlai,D. Szoboszlai,szoboszlai,RB Leipzig,RB Leipzig,79,high,✅
-Adrien Rabiot,A. Rabiot,rabiot,Juventus,Juventus,80,high,✅
-Robin Olsen,R. Olsen,olsen,Aston Villa,Aston Villa,75,high,✅
-Andreas Skov Olsen,A. Skov Olsen,olsen,Bologna,Club Brugge KV,76,high,✅
-Tobias Sippel,T. Sippel,sippel,M'Gladbach,Borussia MÃ¶nchengladbach,73,high,✅
-Xherdan Shaqiri,X. Shaqiri,shaqiri,Lyon,Chicago Fire Football Club,76,high,✅
-Petar Zovko,P. Zovko,zovko,Spezia,Spezia,58,high,✅
-Manuel Prietl,M. Prietl,prietl,Arminia,DSC Arminia Bielefeld,72,high,✅
-Wout Faes,W. Faes,faes,Reims,Stade de Reims,77,high,✅
-Juanmi,Juanmi,juanmi,Betis,Real Betis BalompiÃ©,79,high,✅
-Kurt Zouma,K. Zouma,zouma,West Ham,West Ham United,80,high,✅
-Giorgio Altare,G. Altare,altare,Cagliari,Cagliari,70,high,✅
-Alex Iwobi,A. Iwobi,iwobi,Everton,Everton,75,high,✅
-Jonas Wind,J. Wind,wind,Wolfsburg,VfL Wolfsburg,76,high,✅
-Kostas Tsimikas,K. Tsimikas,tsimikas,Liverpool,Liverpool,77,high,✅
-Paolo Ghiglione,P. Ghiglione,ghiglione,Genoa,US Cremonese,69,high,✅
-Karl Toko Ekambi,K. Toko Ekambi,ekambi,Lyon,Olympique Lyonnais,78,high,✅
-Pascal Struijk,P. Struijk,struijk,Leeds United,Leeds United,76,high,✅
-Oliver Skipp,O. Skipp,skipp,Tottenham,Tottenham Hotspur,77,high,✅
-Alexander Schwolow,A. Schwolow,schwolow,Hertha BSC,FC Schalke 04,75,high,✅
-Thiago Silva,T. Silva,silva,Chelsea,San Lorenzo de Almagro,61,high,✅
-Gonï¿½alo Guedes,GonÃ§alo Guedes,guedes,Valencia,Wolverhampton Wanderers,82,high,✅
-Ricardo Mangas,Ricardo Mangas,mangas,Bordeaux,Boavista FC,71,high,✅
-Azzedine Ounahi,A. Ounahi,ounahi,Angers,Angers SCO,70,high,✅
-Lohann Doucet,L. Doucet,doucet,Nantes,FC Nantes,58,high,✅
-Hatem Ben Arfa,22Â H. Ben Arfa,arfa,Lille,LOSC Lille,75,unique_lastname,✅
-Enric Franquesa,Franquesa,franquesa,Levante,Levante UniÃ³n Deportiva,68,unique_lastname,✅
-Tyrone Mings,T. Mings,mings,Aston Villa,Aston Villa,78,high,✅
-Pablo Maffeo,Pablo Maffeo,maffeo,Mallorca,RCD Mallorca,78,high,✅
-Mauro Icardi,M. Icardi,icardi,Paris S-G,Paris Saint-Germain,77,high,✅
-Lyanco,Lyanco,lyanco,Southampton,Southampton,72,high,✅
-Marwin Hitz,M. Hitz,hitz,Dortmund,FC Basel 1893,78,high,✅
-Fredrik Jensen,F. Jensen,jensen,Augsburg,FC Augsburg,70,high,✅
-Mathias Jensen,M. Jensen,jensen,Brentford,AC Horsens,64,high,✅
-ï¿½rik Lamela,E. Lamela,lamela,Sevilla,Sevilla FC,79,unique_lastname,✅
-Matï¿½as Dituro,22Â M. Dituro,dituro,Celta Vigo,RC Celta de Vigo,78,unique_lastname,✅
-Alessandro Berardi,D. Berardi,berardi,Hellas Verona,U.S. Sassuolo Calcio,84,unique_lastname,✅
-Mateusz Praszelik,M. Praszelik,praszelik,Hellas Verona,Hellas Verona,68,high,✅
-Jesï¿½s Areso,Areso,areso,Osasuna,CA Osasuna,67,unique_lastname,✅
-Martin Hinteregger,22Â M. Hinteregger,hinteregger,Eint Frankfurt,,79,unique_lastname,✅
-Nicolï¿½ Rovella,N. Rovella,rovella,Genoa,Juventus,73,high,✅
-Ibrahima Niane,I. Niane,niane,Metz,FC Metz,73,high,✅
-Julian Ryerson,J. Ryerson,ryerson,Union Berlin,1. FC Union Berlin,72,high,✅
-Stanislav Lobotka,S. Lobotka,lobotka,Napoli,Napoli,81,high,✅
-Patrik Schick,P. Schick,schick,Leverkusen,Bayer 04 Leverkusen,85,high,✅
-Giorgio Chiellini,G. Chiellini,chiellini,Juventus,Los Angeles FC,84,high,✅
-Hianga Mananga Mbock,H. Mbock,mbock,Brest,Stade Brestois 29,67,high,✅
-Jason Mbock,J. Mbock,mbock,Angers,Angers SCO,57,high,✅
-Eric Bailly,E. Bailly,bailly,Manchester Utd,Manchester United,76,high,✅
-Edoardo Bove,E. Bove,bove,Roma,Roma,68,high,✅
-Shkodran Mustafi,S. Mustafi,mustafi,Levante,Levante UniÃ³n Deportiva,73,high,✅
-Arber Zeneli,B. Zeneli,zeneli,Reims,IF Elfsborg,55,unique_lastname,✅
-Karim Bellarabi,K. Bellarabi,bellarabi,Leverkusen,Bayer 04 Leverkusen,79,high,✅
-Georges Mikautadze,G. Mikautadze,mikautadze,Metz,FC Metz,69,high,✅
-Nikita Iosifov,N. Iosifov,iosifov,Villarreal,Villarreal Club de FÃºtbol B,64,high,✅
-Jon Guridi,Guridi,guridi,Real Sociedad,Deportivo AlavÃ©s,74,unique_lastname,✅
-Alexander Isak,A. Isak,isak,Real Sociedad,Real Sociedad,80,high,✅
-Pablo Rosario,P. Rosario,rosario,Nice,OGC Nice,78,high,✅
-Maxence Caqueret,M. Caqueret,caqueret,Lyon,Olympique Lyonnais,79,high,✅
-Nathaniel Clyne,N. Clyne,clyne,Crystal Palace,Crystal Palace,74,high,✅
-Nordi Mukiele,N. Mukiele,mukiele,RB Leipzig,Paris Saint-Germain,79,high,✅
-Alexandre Letellier,A. Letellier,letellier,Paris S-G,Paris Saint-Germain,68,high,✅
-Sascha Burchert,S. Burchert,burchert,Greuther Fï¿½rth,FC St. Pauli,70,high,✅
-Kelvin Amian,K. Amian,amian,Spezia,Spezia,74,high,✅
-Rï¿½my Cabella,R. Cabella,cabella,Montpellier,LOSC Lille,74,high,✅
-Enzo Roco,22Â B. Roco,roco,Elche,CD Huachipato,56,unique_lastname,✅
-Sehrou Guirassy,S. Guirassy,guirassy,Rennes,Stade Rennais FC,76,high,✅
-ï¿½ngel Montoro,Montoro,montoro,Granada,Real Oviedo,77,unique_lastname,✅
-Valon Behrami,V. Behrami,behrami,Genoa,Servette FC,55,high,✅
-Georginio Wijnaldum,G. Wijnaldum,wijnaldum,Paris S-G,Roma,80,high,✅
-Benoï¿½t Costil,B. Costil,costil,Bordeaux,AJ Auxerre,75,high,✅
-Karol Fila,D. Fila,fila,Strasbourg,SK Slavia Praha,68,unique_lastname,✅
-Alessio Romagnoli,A. Romagnoli,romagnoli,Milan,Lazio,80,high,✅
-Simone Romagnoli,S. Romagnoli,romagnoli,Empoli,Parma,73,high,✅
-Julen Lobete,Lobete,lobete,Real Sociedad,RKC Waalwijk,65,unique_lastname,✅
-Zidan Sertdemir,Z. Sertdemir,sertdemir,Leverkusen,Bayer 04 Leverkusen,62,high,✅
-Davide Zappacosta,D. Zappacosta,zappacosta,Atalanta,Atalanta,79,high,✅
-Mohamed Simakan,M. Simakan,simakan,RB Leipzig,RB Leipzig,78,high,✅
-Jamie Leweling,J. Leweling,leweling,Greuther Fï¿½rth,1. FC Union Berlin,73,high,✅
-Allan,Allan,allan,Everton,Everton,80,high,✅
-Jannes Horn,J. Horn,horn,Kï¿½ln,VfL Bochum 1848,72,high,✅
-Timo Horn,T. Horn,horn,Kï¿½ln,1. FC KÃ¶ln,75,high,✅
-Fikayo Tomori,F. Tomori,tomori,Milan,AC Milan,84,high,✅
-Philipp Klement,P. Klement,klement,Stuttgart,VfB Stuttgart,71,high,✅
-Joshua Kimmich,J. Kimmich,kimmich,Bayern Munich,FC Bayern MÃ¼nchen,89,high,✅
-Maghnes Akliouche,M. Akliouche,akliouche,Monaco,AS Monaco,65,high,✅
-Kiliann Sildillia,K. Sildillia,sildillia,Freiburg,Sport-Club Freiburg,65,high,✅
-Riccardo Sottil,R. Sottil,sottil,Fiorentina,Fiorentina,75,high,✅
-Josh Maja,J. Maja,maja,Bordeaux,FC Girondins de Bordeaux,71,high,✅
-Alberth Elis,A. Elis,elis,Bordeaux,FC Girondins de Bordeaux,75,high,✅
-Facundo Pellistri,F. Pellistri,pellistri,Alavï¿½s,Manchester United,70,high,✅
-Pol Lirola,Pol Lirola,lirola,Marseille,Olympique de Marseille,75,high,✅
-Luï¿½s Maximiano,LuÃ­s Maximiano,maximiano,Granada,Lazio,79,high,✅
-Josema,Josema,josema,Elche,FC Cartagena,63,high,✅
-Anthony Elanga,A. Elanga,elanga,Manchester Utd,Manchester United,74,high,✅
-Reinier,Reinier,reinier,Dortmund,Real Madrid CF,69,high,✅
-Leonardo Bonucci,L. Bonucci,bonucci,Juventus,Juventus,84,high,✅
-Presnel Kimpembe,P. Kimpembe,kimpembe,Paris S-G,Paris Saint-Germain,83,high,✅
-Rober,Rober,rober,Levante,Real Betis BalompiÃ©,69,high,✅
-Cristian Romero,C. Romero,romero,Tottenham,Tottenham Hotspur,83,high,✅
-Luka Romero,L. Romero,romero,Lazio,Lazio,67,high,✅
-Sergio Romero,S. Romero,romero,Venezia,Boca Juniors,78,high,✅
-Raï¿½l Albiol,RaÃºl Albiol,albiol,Villarreal,Villarreal CF,82,high,✅
-Leandro Barreiro Martins,L. Barreiro Martins,martins,Mainz 05,1. FSV Mainz 05,73,high,✅
-Gelson Martins,G. Martins,martins,Monaco,FC Goa,56,high,✅
-Kevin Kampl,K. Kampl,kampl,RB Leipzig,RB Leipzig,80,high,✅
-Morgan Sanson,M. Sanson,sanson,Aston Villa,Aston Villa,76,high,✅
-Przemys?aw Frankowski,P. Frankowski,frankowski,Lens,Racing Club de Lens,76,high,✅
-Jetro Willems,J. Willems,willems,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,72,high,✅
-Troy Deeney,T. Deeney,deeney,Watford,Birmingham City,71,high,✅
-Mateo Klimowicz,M. Klimowicz,klimowicz,Stuttgart,VfB Stuttgart,67,high,✅
-ï¿½lvaro Negredo,Negredo,negredo,Cï¿½diz,CÃ¡diz CF,77,unique_lastname,✅
-Paulo Dybala,P. Dybala,dybala,Juventus,Roma,86,high,✅
-Roberto Soldado,Soldado,soldado,Levante,Levante UniÃ³n Deportiva,73,unique_lastname,✅
-Youri Tielemans,Y. Tielemans,tielemans,Leicester City,Leicester City,84,high,✅
-Lukas Klostermann,L. Klostermann,klostermann,RB Leipzig,RB Leipzig,80,high,✅
-Charles Abi,C. Abi,abi,Saint-ï¿½tienne,AS Saint-Ãtienne,66,high,✅
-ï¿½lvaro Odriozola,Odriozola,odriozola,Fiorentina,Real Madrid CF,78,unique_lastname,✅
-Nick Pope,N. Pope,pope,Burnley,Newcastle United,81,high,✅
-Mattia Caldara,M. Caldara,caldara,Venezia,Spezia,75,high,✅
 Juan Foyth,J. Foyth,foyth,Villarreal,Villarreal CF,79,high,✅
-Alfonso Espino,A. Espino,espino,Cï¿½diz,CÃ¡diz CF,78,high,✅
-Lucas Ocampos,L. Ocampos,ocampos,Sevilla,Sevilla FC,81,high,✅
-Stian Rode Gregersen,S. Gregersen,gregersen,Bordeaux,FC Girondins de Bordeaux,71,high,✅
-Keven Schlotterbeck,K. Schlotterbeck,schlotterbeck,Freiburg,Sport-Club Freiburg,72,high,✅
-Nico Schlotterbeck,N. Schlotterbeck,schlotterbeck,Freiburg,Borussia Dortmund,82,high,✅
-Samuel Chukwueze,S. Chukwueze,chukwueze,Villarreal,Villarreal CF,79,high,✅
-Kevin Mbabu,K. Mbabu,mbabu,Wolfsburg,Fulham,77,high,✅
-Nicolas Pallois,N. Pallois,pallois,Nantes,FC Nantes,77,high,✅
-Emmanuel Amankwaa Akurugu,A. Akurugu,akurugu,Getafe,Getafe CF,62,unique_lastname,✅
-Anthony Ujah,A. Ujah,ujah,Union Berlin,Eintracht Braunschweig,69,high,✅
-Gonzalo Melero,Melero,melero,Levante,Levante UniÃ³n Deportiva,74,unique_lastname,✅
-Orel Mangala,O. Mangala,mangala,Stuttgart,Nottingham Forest,75,high,✅
-Mikel Merino,Merino,merino,Real Sociedad,Real Sociedad,83,high,✅
-Dennis Praet,D. Praet,praet,Torino,Leicester City,78,high,✅
-Mohamed Fares,M. Fares,fares,Genoa,Lazio,72,high,✅
-Ellyes Skhiri,E. Skhiri,skhiri,Kï¿½ln,1. FC KÃ¶ln,79,high,✅
-Idrissa Gana Gueye,I. Gueye,gueye,Paris S-G,Paris Saint-Germain,82,high,✅
-Lamine Gueye,L. Gueye,gueye,Metz,FC Metz,72,high,✅
-Ignatius Ganago,I. Ganago,ganago,Lens,Racing Club de Lens,73,high,✅
-Finn Dahmen,F. Dahmen,dahmen,Mainz 05,1. FSV Mainz 05,71,high,✅
-Jude Bellingham,J. Bellingham,bellingham,Dortmund,Borussia Dortmund,84,high,✅
-Todd Cantwell,T. Cantwell,cantwell,Norwich City,Norwich City,74,high,✅
-John Guidetti,J. Guidetti,guidetti,Alavï¿½s,AIK,71,high,✅
-Corentin Tolisso,C. Tolisso,tolisso,Bayern Munich,Olympique Lyonnais,81,high,✅
-Mikel Vesga,Vesga,vesga,Athletic Club,Athletic Club de Bilbao,74,unique_lastname,✅
-Federico Chiesa,F. Chiesa,chiesa,Juventus,Juventus,84,high,✅
-Arthur Desmas,A. Desmas,desmas,Clermont Foot,Le Havre AC,69,high,✅
-Jamie Shackleton,J. Shackleton,shackleton,Leeds United,Millwall,71,high,✅
-Marko Pjaca,M. Pjaca,pjaca,Torino,Juventus,75,high,✅
-Ciro Immobile,C. Immobile,immobile,Lazio,Lazio,86,high,✅
-Craig Dawson,K. Dawson,dawson,West Ham,Club AtlÃ©tico PeÃ±arol,74,unique_lastname,✅
-Anderson Lucoqui,A. Lucoqui,lucoqui,Mainz 05,1. FSV Mainz 05,71,high,✅
-Christos Tzolis,C. Tzolis,tzolis,Norwich City,FC Twente,72,high,✅
-Lilian Brassier,L. Brassier,brassier,Brest,Stade Brestois 29,72,high,✅
-Luca Fiordilino,L. Fiordilino,fiordilino,Venezia,Venezia FC,70,high,✅
-Amos Pieper,A. Pieper,pieper,Arminia,SV Werder Bremen,75,high,✅
-Philipp Lienhart,P. Lienhart,lienhart,Freiburg,Sport-Club Freiburg,78,high,✅
-Ramy Bensebaini,R. Bensebaini,bensebaini,M'Gladbach,Borussia MÃ¶nchengladbach,78,high,✅
-Youssoufa Moukoko,Y. Moukoko,moukoko,Dortmund,Borussia Dortmund,69,high,✅
-Mark Flekken,M. Flekken,flekken,Freiburg,Sport-Club Freiburg,80,high,✅
-Harry Winks,H. Winks,winks,Tottenham,Tottenham Hotspur,76,high,✅
-Banhie Zoukrou,T. Zoukrou,zoukrou,Troyes,ESTAC Troyes,59,unique_lastname,✅
-Baptiste Mouazan,22Â B. Mouazan,mouazan,Lorient,FC Lorient,59,unique_lastname,✅
-Dï¿½vid Strelec,D. Strelec,strelec,Spezia,Spezia,64,high,✅
-Bï¿½ni Makouana,B. Makouana,makouana,Montpellier,Montpellier HÃ©rault SC,65,high,✅
-Romain Perraud,R. Perraud,perraud,Southampton,Southampton,76,high,✅
-Manu Morlanes,Manu Morlanes,morlanes,Espanyol,Villarreal CF,73,high,✅
 Robert Andrich,R. Andrich,andrich,Leverkusen,Bayer 04 Leverkusen,81,high,✅
-Dickson Abiama,D. Abiama,abiama,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,68,high,✅
-Danny da Costa,D. da Costa,costa,Eint Frankfurt,1. FSV Mainz 05,74,high,✅
-Suat Serdar,S. Serdar,serdar,Hertha BSC,Hertha BSC,77,high,✅
-Adrien Truffert,A. Truffert,truffert,Rennes,Stade Rennais FC,75,high,✅
-Aritz Elustondo,Aritz Elustondo,elustondo,Real Sociedad,Real Sociedad,82,high,✅
-Ardian Ismajli,A. Ismajli,ismajli,Empoli,Empoli,71,high,✅
-Memphis Depay,M. Depay,depay,Barcelona,FC Barcelona,85,high,✅
-Virgil van Dijk,V. van Dijk,dijk,Liverpool,Liverpool,90,high,✅
-Delano Burgzorg,D. Burgzorg,burgzorg,Mainz 05,1. FSV Mainz 05,68,high,✅
-Liam McCarron,L. McCarron,mccarron,Leeds United,Stoke City,61,high,✅
-Filippo Melegoni,F. Melegoni,melegoni,Genoa,Genoa,67,high,✅
-Dedryck Boyata,D. Boyata,boyata,Hertha BSC,Hertha BSC,76,high,✅
-Shola Shoretire,S. Shoretire,shoretire,Manchester Utd,Manchester United,64,high,✅
-Armando Broja,A. Broja,broja,Southampton,Chelsea,75,high,✅
-Ondrej Duda,O. Duda,duda,Kï¿½ln,1. FC KÃ¶ln,73,high,✅
-Jonny Castro,J. Castro,castro,Wolves,La Equidad,67,high,✅
-Jï¿½rï¿½me Hergault,22Â J. Hergault,hergault,Lorient,FC Lorient,71,unique_lastname,✅
-Solomon Bonnah,S. Bonnah,bonnah,RB Leipzig,RB Leipzig,62,high,✅
-Leonardo Spinazzola,L. Spinazzola,spinazzola,Roma,Roma,82,high,✅
-Jean-Philippe Krasso,J. Krasso,krasso,Saint-ï¿½tienne,AS Saint-Ãtienne,67,high,✅
-Kamaldeen Sulemana,K. Sulemana,sulemana,Rennes,Stade Rennais FC,75,high,✅
-Jorginho,Jorginho,jorginho,Chelsea,Chelsea,85,high,✅
-Javier Pastore,J. Pastore,pastore,Elche,Elche CF,76,high,✅
-Valï¿½re Germain,V. Germain,germain,Montpellier,Montpellier HÃ©rault SC,73,high,✅
-Brandon Soppy,B. Soppy,soppy,Udinese,Udinese Calcio,70,high,✅
-Mads Roerslev,M. Roerslev,roerslev,Brentford,Brentford,69,high,✅
-Ezequiel Ponce,E. Ponce,ponce,Elche,Elche CF,74,high,✅
-Marc-Aurï¿½le Caillard,M. Caillard,caillard,Metz,FC Metz,68,high,✅
-ï¿½scar Melendo,Melendo,melendo,Espanyol,Granada CF,78,unique_lastname,✅
-Christopher Trimmel,C. Trimmel,trimmel,Union Berlin,1. FC Union Berlin,77,high,✅
-Eliot Matazo,E. Matazo,matazo,Monaco,AS Monaco,72,high,✅
-Tuta,Tuta,tuta,Eint Frankfurt,Eintracht Frankfurt,77,high,✅
-Tete Morente,Tete Morente,morente,Elche,Elche CF,73,high,✅
-Nicola Zalewski,N. Zalewski,zalewski,Roma,Roma,74,high,✅
-Jean-Clair Todibo,J. Todibo,todibo,Nice,OGC Nice,78,high,✅
-William Mikelbrencis,W. Mikelbrencis,mikelbrencis,Metz,FC Metz,65,high,✅
-Justin Che,J. Che,che,Hoffenheim,TSG Hoffenheim,66,high,✅
-Denzel Dumfries,D. Dumfries,dumfries,Inter,Inter,82,high,✅
-Karim Onisiwo,K. Onisiwo,onisiwo,Mainz 05,1. FSV Mainz 05,74,high,✅
-Vï¿½ctor Camarasa,Camarasa,camarasa,Betis,Real Betis BalompiÃ©,71,unique_lastname,✅
-Arthur Masuaku,A. Masuaku,masuaku,West Ham,BeÅiktaÅ JK,75,high,✅
-Miguel Trauco,22Â J. Trauco,trauco,Saint-ï¿½tienne,Sport Huancayo,62,unique_lastname,✅
-Jaï¿½ro Riedewald,J. Riedewald,riedewald,Crystal Palace,Crystal Palace,74,high,✅
-Giovanni Di Lorenzo,G. Di Lorenzo,lorenzo,Napoli,Napoli,82,high,✅
-Kelechi Iheanacho,K. Iheanacho,iheanacho,Leicester City,Leicester City,77,high,✅
-Leo Dubois,L. Dubois,dubois,Lyon,Galatasaray SK,76,high,✅
-Lorenzo Tonelli,L. Tonelli,tonelli,Empoli,Empoli,72,high,✅
-ï¿½lvaro Bastida,Bastida,bastida,Cï¿½diz,CÃ¡diz CF,65,unique_lastname,✅
-Ismaï¿½l Bennacer,I. Bennacer,bennacer,Milan,AC Milan,82,high,✅
-Davide Calabria,D. Calabria,calabria,Milan,AC Milan,80,high,✅
-Giulio Maggiore,G. Maggiore,maggiore,Spezia,Spezia,77,high,✅
-Nicolï¿½ Barella,N. Barella,barella,Inter,Inter,86,high,✅
-Andriy Yarmolenko,A. Yarmolenko,yarmolenko,West Ham,Al Ain FC,75,high,✅
-Riccardo Orsolini,R. Orsolini,orsolini,Bologna,Bologna,76,high,✅
-Daniel Podence,Daniel Podence,podence,Wolves,Wolverhampton Wanderers,78,high,✅
-Joe Gelhardt,J. Gelhardt,gelhardt,Leeds United,Leeds United,72,high,✅
-Andreas Luthe,A. Luthe,luthe,Union Berlin,1. FC Kaiserslautern,75,high,✅
-Alexander Hack,A. Hack,hack,Mainz 05,1. FSV Mainz 05,74,high,✅
-Robin Hack,R. Hack,hack,Arminia,DSC Arminia Bielefeld,70,high,✅
-Jordan Tell,J. Tell,tell,Clermont Foot,Grenoble Foot 38,66,high,✅
-Fabian Delph,22Â F. Delph,delph,Everton,Everton,75,unique_lastname,✅
-Mathias Olesen,M. Olesen,olesen,Kï¿½ln,1. FC KÃ¶ln,59,high,✅
-Aimar Sher,A. Sher,sher,Spezia,Spezia,62,high,✅
-Carlos Akapo,Akapo,akapo,Cï¿½diz,San Jose Earthquakes,75,unique_lastname,✅
-Sardar Azmoun,S. Azmoun,azmoun,Leverkusen,Bayer 04 Leverkusen,80,high,✅
-Abdelhamid Sabiri,A. Sabiri,sabiri,Sampdoria,U.C. Sampdoria,72,high,✅
-Casemiro,Casemiro,casemiro,Real Madrid,Real Madrid CF,89,high,✅
-Xaver Schlager,X. Schlager,schlager,Wolfsburg,RB Leipzig,80,high,✅
-Alfre? Finnbogason,22Â A. Finnbogason,finnbogason,Augsburg,FC Augsburg,73,unique_lastname,✅
-Wahidullah Faghir,W. Faghir,faghir,Stuttgart,VfB Stuttgart,64,high,✅
-Brayann Pereira,B. Pereira,pereira,Lens,AJ Auxerre,61,high,✅
-Andrea Consigli,A. Consigli,consigli,Sassuolo,U.S. Sassuolo Calcio,80,high,✅
-Niklas Tauer,N. Tauer,tauer,Mainz 05,1. FSV Mainz 05,68,high,✅
-Alex Meret,A. Meret,meret,Napoli,Napoli,78,high,✅
-Suso,Suso,suso,Sevilla,Sevilla FC,79,high,✅
-Salva Sevilla,Salva Sevilla,sevilla,Mallorca,Deportivo AlavÃ©s,75,high,✅
-Jamie Vardy,J. Vardy,vardy,Leicester City,Leicester City,85,high,✅
-Stefan Strandberg,S. Strandberg,strandberg,Salernitana,VÃ¥lerenga Fotball,71,high,✅
-Cedric Itten,C. Itten,itten,Greuther Fï¿½rth,BSC Young Boys,69,high,✅
-Antonin Bobichon,A. Bobichon,bobichon,Angers,Angers SCO,71,high,✅
-James Justin,J. Justin,justin,Leicester City,Leicester City,76,high,✅
-Manuel Lanzini,M. Lanzini,lanzini,West Ham,West Ham United,79,high,✅
-Jonathan Tah,J. Tah,tah,Leverkusen,Bayer 04 Leverkusen,82,high,✅
-Lucas Torreira,L. Torreira,torreira,Fiorentina,Galatasaray SK,81,high,✅
-Luca Gemello,L. Gemello,gemello,Torino,Torino F.C.,64,high,✅
-Junior Mwanga,J. Mwanga,mwanga,Bordeaux,FC Girondins de Bordeaux,63,high,✅
-Vitaliy Mykolenko,V. Mykolenko,mykolenko,Everton,Everton,76,high,✅
-Dwight Gayle,D. Gayle,gayle,Newcastle Utd,Stoke City,72,high,✅
-Daley Sinkgraven,D. Sinkgraven,sinkgraven,Leverkusen,Bayer 04 Leverkusen,73,high,✅
-Giacomo Bonaventura,G. Bonaventura,bonaventura,Fiorentina,Fiorentina,78,high,✅
-Connor Roberts,C. Roberts,roberts,Burnley,Burnley,75,high,✅
-Patrick Roberts,P. Roberts,roberts,Troyes,Sunderland,69,high,✅
-Renaud Emond,R. Emond,emond,Nantes,Standard de LiÃ¨ge,67,high,✅
-Juan Cuadrado,J. Cuadrado,cuadrado,Juventus,Juventus,83,high,✅
-Brian Brobbey,B. Brobbey,brobbey,RB Leipzig,Ajax,76,high,✅
-Remo Freuler,R. Freuler,freuler,Atalanta,Atalanta,80,high,✅
-Bali Mumba,B. Mumba,mumba,Norwich City,Plymouth Argyle,66,high,✅
-Moussa Djenepo,M. Djenepo,djenepo,Southampton,Southampton,74,high,✅
-Dimitrios Keramitsis,22Â D. Keramitsis,keramitsis,Roma,Roma,62,unique_lastname,✅
-Armel Bella Kotchap,A. Bella Kotchap,kotchap,Bochum,Southampton,73,high,✅
-Carlos Soler,Carlos Soler,soler,Valencia,Valencia CF,83,high,✅
-Louis Schaub,L. Schaub,schaub,Kï¿½ln,Hannover 96,73,high,✅
-Maximilian Arnold,M. Arnold,arnold,Wolfsburg,VfL Wolfsburg,80,high,✅
-Luka Bogdan,L. Bogdan,bogdan,Salernitana,Ternana,66,high,✅
-Lucas Olaza,L. Olaza,olaza,Elche,Real Valladolid CF,75,high,✅
-Edoardo Vergani,E. Vergani,vergani,Salernitana,US Salernitana 1919,64,high,✅
-Alphonse Areola,A. Areola,areola,West Ham,West Ham United,81,high,✅
-Axel Witsel,A. Witsel,witsel,Dortmund,AtlÃ©tico de Madrid,79,high,✅
-Ridgeciano Haps,R. Haps,haps,Venezia,Venezia FC,73,high,✅
-Wylan Cyprien,W. Cyprien,cyprien,Nantes,Parma,72,high,✅
-Jakub Kiwior,J. Kiwior,kiwior,Spezia,Spezia,71,high,✅
-Coke,22Â Coke,coke,Levante,Levante UniÃ³n Deportiva,70,unique_lastname,✅
-Landry Dimata,L. Dimata,dimata,Espanyol,RCD Espanyol de Barcelona,72,high,✅
-Matteo Pessina,M. Pessina,pessina,Atalanta,AC Monza,77,high,✅
-Cristiano Piccini,22Â C. Piccini,piccini,Valencia,Valencia CF,74,unique_lastname,✅
-Ethan Pinnock,M. Pinnock,pinnock,Brentford,Northampton Town,65,unique_lastname,✅
-Kortney Hause,K. Hause,hause,Aston Villa,Aston Villa,75,high,✅
-Luke Cundle,L. Cundle,cundle,Wolves,Wolverhampton Wanderers,60,high,✅
-Teemu Pukki,T. Pukki,pukki,Norwich City,Norwich City,75,high,✅
-Andrï¿½ Gomes,A. Gomes,gomes,Everton,LOSC Lille,73,high,✅
-Pierrick Capelle,P. Capelle,capelle,Angers,Angers SCO,74,high,✅
-Aleksei Miranchuk,A. Miranchuk,miranchuk,Atalanta,Atalanta,78,high,✅
-Moussa Sissoko,M. Sissoko,sissoko,Watford,FC Nantes,77,high,✅
-Vladimï¿½r Coufal,V. Coufal,coufal,West Ham,West Ham United,80,high,✅
-Cristiano Biraghi,C. Biraghi,biraghi,Fiorentina,Fiorentina,80,high,✅
-Sergio Postigo,Postigo,postigo,Levante,Levante UniÃ³n Deportiva,71,unique_lastname,✅
-Jon Rowe,J. Rowe,rowe,Norwich City,Norwich City,65,high,✅
-Emile Smith Rowe,E. Smith Rowe,rowe,Arsenal,Arsenal,80,high,✅
-Nicolï¿½ Zaniolo,N. Zaniolo,zaniolo,Roma,Roma,81,high,✅
-Dï¿½nys Bain,S. Bain,bain,Brest,Celtic,67,unique_lastname,✅
-Maxence Lacroix,M. Lacroix,lacroix,Wolfsburg,VfL Wolfsburg,77,high,✅
-Alexis Tibidi,22Â A. Tibidi,tibidi,Stuttgart,VfB Stuttgart,64,unique_lastname,✅
-Kenny McLean,22Â B. McLean,mclean,Norwich City,Burton Albion,52,unique_lastname,✅
-Erik Thommy,E. Thommy,thommy,Stuttgart,Sporting Kansas City,72,high,✅
-Edon Zhegrova,E. Zhegrova,zhegrova,Lille,LOSC Lille,74,high,✅
-Tony Springett,22Â T. Springett,springett,Norwich City,Norwich City,62,unique_lastname,✅
-Osman Bukari,22Â O. Bukari,bukari,Nantes,FC Nantes,69,unique_lastname,✅
-Maximilian Ullmann,M. Ullmann,ullmann,Venezia,Venezia FC,72,high,✅
-Rob Holding,R. Holding,holding,Arsenal,Arsenal,77,high,✅
-Benoï¿½t Badiashile,B. Badiashile,badiashile,Monaco,AS Monaco,77,high,✅
-Pietro Ceccaroni,P. Ceccaroni,ceccaroni,Venezia,Venezia FC,72,high,✅
-Eddie Nketiah,E. Nketiah,nketiah,Arsenal,Arsenal,73,high,✅
-Che Adams,C. Adams,adams,Southampton,Southampton,76,high,✅
-Tyler Adams,T. Adams,adams,RB Leipzig,Leeds United,76,high,✅
-Jeanuel Belocian,J. Belocian,belocian,Rennes,Stade Rennais FC,61,high,✅
-Tony Jantschke,T. Jantschke,jantschke,M'Gladbach,Borussia MÃ¶nchengladbach,72,high,✅
-Yoane Wissa,Y. Wissa,wissa,Brentford,Brentford,75,high,✅
-Kevin Akpoguma,K. Akpoguma,akpoguma,Hoffenheim,TSG Hoffenheim,75,high,✅
-Mikel Balenziaga,Balenziaga,balenziaga,Athletic Club,Athletic Club de Bilbao,75,unique_lastname,✅
-Leonardo Mancuso,E. Mancuso,mancuso,Empoli,Estudiantes de La Plata,64,unique_lastname,✅
-Tim Lemperle,T. Lemperle,lemperle,Kï¿½ln,1. FC KÃ¶ln,66,high,✅
-Victor Osimhen,V. Osimhen,osimhen,Napoli,Napoli,83,high,✅
-Merih Demiral,M. Demiral,demiral,Atalanta,Atalanta,77,high,✅
-Dimitris Giannoulis,D. Giannoulis,giannoulis,Norwich City,Norwich City,73,high,✅
-Dane Scarlett,D. Scarlett,scarlett,Tottenham,Portsmouth,64,high,✅
-Vladimï¿½r Darida,V. Darida,darida,Hertha BSC,Hertha BSC,75,high,✅
-Gianluca Caprari,G. Caprari,caprari,Hellas Verona,AC Monza,78,high,✅
-Daniel Parejo,Parejo,parejo,Villarreal,Villarreal CF,86,unique_lastname,✅
-Kingsley Schindler,C. Schindler,schindler,Kï¿½ln,1. FC NÃ¼rnberg,72,unique_lastname,✅
-Thomas Monconduit,T. Monconduit,monconduit,Lorient,FC Lorient,72,high,✅
-Jï¿½rï¿½my Morel,J. Morel,morel,Lorient,Estudiantes de La Plata,70,high,✅
-Willi Orban,W. Orban,orban,RB Leipzig,RB Leipzig,82,high,✅
-Justin Hoogma,22Â J. Hoogma,hoogma,Greuther Fï¿½rth,Heracles Almelo,68,unique_lastname,✅
-Wissam Ben Yedder,W. Ben Yedder,yedder,Monaco,AS Monaco,84,high,✅
-Koke,Koke,koke,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,83,high,✅
-Martinelli,Gabriel Martinelli,martinelli,Arsenal,Arsenal,78,unique_lastname,✅
-Terem Moffi,T. Moffi,moffi,Lorient,FC Lorient,72,high,✅
 Jens Cajuste,J. Cajuste,cajuste,Reims,Stade de Reims,72,high,✅
-Japhet Tanganga,J. Tanganga,tanganga,Tottenham,Tottenham Hotspur,74,high,✅
-Rico Henry,R. Henry,henry,Brentford,Brentford,75,high,✅
-Jonathan Gradit,J. Gradit,gradit,Lens,Racing Club de Lens,75,high,✅
-Elhadji Dieye,E. Dieye,dieye,Saint-ï¿½tienne,AS Saint-Ãtienne,64,high,✅
-Nassim Chadli,22Â N. Chadli,chadli,Troyes,ESTAC Troyes,63,unique_lastname,✅
-Lï¿½o Leroy,L. Leroy,leroy,Montpellier,Montpellier HÃ©rault SC,67,high,✅
-Ben Lhassine Kone,B. Kone,kone,Torino,Frosinone,60,high,✅
-Houssem Aouar,H. Aouar,aouar,Lyon,Olympique Lyonnais,79,high,✅
-Matteo Politano,M. Politano,politano,Napoli,Napoli,81,high,✅
-Nadir Zortea,N. Zortea,zortea,Salernitana,Atalanta,68,high,✅
-Suf Podgoreanu,S. Podgoreanu,podgoreanu,Spezia,Spezia,61,high,✅
-Maxime Le Marchand,22Â J. Marchand,marchand,Strasbourg,Pachuca,56,unique_lastname,✅
-Jan Oblak,J. Oblak,oblak,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,89,high,✅
-Ouparine Djoco,O. Djoco,djoco,Clermont Foot,Clermont Foot 63,69,high,✅
-Ander Capa,Capa,capa,Athletic Club,Athletic Club de Bilbao,77,unique_lastname,✅
-Youssouf Sabaly,Y. Sabaly,sabaly,Betis,Real Betis BalompiÃ©,76,high,✅
-Illan Meslier,I. Meslier,meslier,Leeds United,Leeds United,77,high,✅
-Erling Haaland,E. Haaland,haaland,Dortmund,Manchester City,88,high,✅
-Christian Kabasele,C. Kabasele,kabasele,Watford,Watford,74,high,✅
-Immanuel Pherai,I. Pherai,pherai,Dortmund,Eintracht Braunschweig,68,high,✅
-Daniel Didavi,22Â D. Didavi,didavi,Stuttgart,VfB Stuttgart,71,unique_lastname,✅
-Serge Gnabry,S. Gnabry,gnabry,Bayern Munich,FC Bayern MÃ¼nchen,85,high,✅
-Adam Armstrong,A. Armstrong,armstrong,Southampton,Southampton,74,high,✅
-Stuart Armstrong,S. Armstrong,armstrong,Southampton,Southampton,76,high,✅
-Tom Lacoux,T. Lacoux,lacoux,Bordeaux,FC Girondins de Bordeaux,68,high,✅
-Ivor Pandur,I. Pandur,pandur,Hellas Verona,Fortuna Sittard,72,high,✅
-Mohamed Elyounoussi,M. Elyounoussi,elyounoussi,Southampton,Southampton,76,high,✅
-John Donald,John Donald,donald,Elche,Elche CF,60,high,✅
-Riccardo Saponara,R. Saponara,saponara,Fiorentina,Fiorentina,76,high,✅
-Florian Sotoca,F. Sotoca,sotoca,Lens,Racing Club de Lens,75,high,✅
-Abdel Jalil Medioub,A. Medioub,medioub,Bordeaux,FC Girondins de Bordeaux,67,high,✅
-Hakim Ziyech,H. Ziyech,ziyech,Chelsea,Chelsea,83,high,✅
-Borja Iglesias,22Â B. Iglesias,iglesias,Betis,Universidad CatÃ³lica,55,unique_lastname,✅
-Koen Casteels,K. Casteels,casteels,Wolfsburg,VfL Wolfsburg,84,high,✅
-Naouirou Ahamada,N. Ahamada,ahamada,Stuttgart,VfB Stuttgart,64,high,✅
-Ebrima Darboe,E. Darboe,darboe,Roma,Roma,68,high,✅
-Vincenzo Grifo,V. Grifo,grifo,Freiburg,Sport-Club Freiburg,81,high,✅
-Omar Alderete,O. Alderete,alderete,Valencia,Hertha BSC,76,high,✅
-Enzo Ebosse,E. Ebosse,ebosse,Angers,Udinese Calcio,70,high,✅
-Pedro Chirivella,Pedro Chirivella,chirivella,Nantes,FC Nantes,77,high,✅
-Sï¿½bastien Corchia,S. Corchia,corchia,Nantes,FC Nantes,72,high,✅
-Freddie Woodman,F. Woodman,woodman,Newcastle Utd,Preston North End,74,high,✅
-Alberto Soro,I. Soro,soro,Granada,FC Arouca,67,unique_lastname,✅
-Riyad Mahrez,R. Mahrez,mahrez,Manchester City,Manchester City,86,high,✅
-Maxim Leitsch,M. Leitsch,leitsch,Bochum,1. FSV Mainz 05,74,high,✅
-Mateusz Klich,M. Klich,klich,Leeds United,Leeds United,74,high,✅
-Jordan Pickford,J. Pickford,pickford,Everton,Everton,82,high,✅
-Axel Disasi,A. Disasi,disasi,Monaco,AS Monaco,77,high,✅
-Tyler Onyango,T. Onyango,onyango,Everton,Burton Albion,60,high,✅
-Myrto Uzuni,M. Uzuni,uzuni,Granada,Granada CF,75,high,✅
-Aleksandr Golovin,A. Golovin,golovin,Monaco,AS Monaco,79,high,✅
-Juan Musso,J. Musso,musso,Atalanta,Atalanta,81,high,✅
-Kasey McAteer,22Â K. McAteer,mcateer,Leicester City,Forest Green Rovers,59,unique_lastname,✅
-Jasper Cillessen,J. Cillessen,cillessen,Valencia,N.E.C. Nijmegen,80,high,✅
-Lars Stindl,L. Stindl,stindl,M'Gladbach,Borussia MÃ¶nchengladbach,79,high,✅
-Carlos Dominguez,B. Dominguez,dominguez,Celta Vigo,Gimnasia y Esgrima La Plata,63,unique_lastname,✅
-Ben Chilwell,B. Chilwell,chilwell,Chelsea,Chelsea,82,high,✅
-Gareth Bale,G. Bale,bale,Real Madrid,Los Angeles FC,81,high,✅
-Jean-Kï¿½vin Augustin,J. Augustin,augustin,Nantes,FC Basel 1893,65,high,✅
-Hugo Lloris,H. Lloris,lloris,Tottenham,Tottenham Hotspur,87,high,✅
-Florent Mollet,F. Mollet,mollet,Montpellier,FC Schalke 04,76,high,✅
-Jan Thielmann,J. Thielmann,thielmann,Kï¿½ln,1. FC KÃ¶ln,73,high,✅
-Steven Alzate,S. Alzate,alzate,Brighton,Brighton & Hove Albion,71,high,✅
-Gerson,Gerson,gerson,Marseille,Olympique de Marseille,78,high,✅
-Aï¿½ssa Mandi,S. Mandi,mandi,Villarreal,Jamshedpur FC,47,unique_lastname,✅
+Mads Roerslev,M. Roerslev,roerslev,Brentford,Brentford,69,high,✅
+Joris Chotard,J. Chotard,chotard,Montpellier,Montpellier HÃ©rault SC,74,high,✅
+Mike Maignan,M. Maignan,maignan,Milan,AC Milan,87,high,✅
+Kamaldeen Sulemana,K. Sulemana,sulemana,Rennes,Stade Rennais FC,75,high,✅
+Ibrahima Niane,I. Niane,niane,Metz,FC Metz,73,high,✅
+Pedrosa,AdriÃ  Pedrosa,pedrosa,Espanyol,RCD Espanyol de Barcelona,76,unique_lastname,✅
+Dedryck Boyata,D. Boyata,boyata,Hertha BSC,Hertha BSC,76,high,✅
+Nathanael Mbuku,N. Mbuku,mbuku,Reims,Stade de Reims,72,high,✅
+Amine Gouiri,A. Gouiri,gouiri,Nice,OGC Nice,79,high,✅
+Viktor Kovalenko,V. Kovalenko,kovalenko,Spezia,Spezia,71,high,✅
+Victor Osimhen,V. Osimhen,osimhen,Napoli,Napoli,83,high,✅
+Martin Terrier,M. Terrier,terrier,Rennes,Stade Rennais FC,81,high,✅
+Giorgos Kyriakopoulos,G. Kyriakopoulos,kyriakopoulos,Sassuolo,U.S. Sassuolo Calcio,72,high,✅
+Ansu Fati,Ansu Fati,fati,Barcelona,FC Barcelona,79,high,✅
+Matteo Ruggeri,M. Ruggeri,ruggeri,Salernitana,Atalanta,69,high,✅
+Martï¿½n Zubimendi,Zubimendi,zubimendi,Real Sociedad,Real Sociedad,79,unique_lastname,✅
+Malo Gusto,M. Gusto,gusto,Lyon,Olympique Lyonnais,75,high,✅
+Reece Oxford,R. Oxford,oxford,Augsburg,FC Augsburg,76,high,✅
+Andrea Conti,A. Conti,conti,Sampdoria,U.C. Sampdoria,73,high,✅
+Ivan Toney,I. Toney,toney,Brentford,Brentford,77,high,✅
+Jonathan Clauss,J. Clauss,clauss,Lens,Olympique de Marseille,80,high,✅
+Patrick Osterhage,P. Osterhage,osterhage,Bochum,VfL Bochum 1848,69,high,✅
+Alex Iwobi,A. Iwobi,iwobi,Everton,Everton,75,high,✅
 Simone Zaza,S. Zaza,zaza,Torino,Torino F.C.,73,high,✅
-Fisnik Asllani,F. Asllani,asllani,Hoffenheim,TSG Hoffenheim,61,high,✅
-Kristjan Asllani,K. Asllani,asllani,Empoli,Inter,72,high,✅
-Davide Frattesi,D. Frattesi,frattesi,Sassuolo,U.S. Sassuolo Calcio,77,high,✅
-Christopher Lenz,C. Lenz,lenz,Eint Frankfurt,Eintracht Frankfurt,74,high,✅
-Junior Messias,Junior Messias,messias,Milan,AC Milan,78,high,✅
-Nabil Fekir,N. Fekir,fekir,Betis,Real Betis BalompiÃ©,85,high,✅
-Ivan Provedel,I. Provedel,provedel,Spezia,Lazio,76,high,✅
-Barbero,Barbero,barbero,Osasuna,CA Osasuna,67,high,✅
-Jordan Torunarigha,J. Torunarigha,torunarigha,Hertha BSC,KAA Gent,73,high,✅
-Nampalys Mendy,N. Mendy,mendy,Leicester City,Leicester City,74,high,✅
-Aleix Febas,Aleix Febas,febas,Mallorca,MÃ¡laga CF,69,high,✅
-Sebastiano Luperto,S. Luperto,luperto,Empoli,Empoli,73,high,✅
-Sï¿½amus Coleman,S. Coleman,coleman,Everton,Everton,76,high,✅
-Hamza Choudhury,H. Choudhury,choudhury,Leicester City,Leicester City,73,high,✅
-Adri Embarba,Embarba,embarba,Espanyol,RCD Espanyol de Barcelona,75,unique_lastname,✅
-Tonny Vilhena,T. Vilhena,vilhena,Espanyol,RCD Espanyol de Barcelona,76,high,✅
-Issouf Sissokho,I. Sissokho,sissokho,Bordeaux,FC Girondins de Bordeaux,69,high,✅
-Fabiano Parisi,F. Parisi,parisi,Empoli,Empoli,70,high,✅
-Ki-Jana Hoever,K. Hoever,hoever,Wolves,PSV,67,high,✅
-Luca Waldschmidt,L. Waldschmidt,waldschmidt,Wolfsburg,VfL Wolfsburg,75,high,✅
-Sergio Escudero,Escudero,escudero,Granada,Real Valladolid CF,75,unique_lastname,✅
-Stefan Posch,S. Posch,posch,Hoffenheim,TSG Hoffenheim,75,high,✅
-Daniel Vivian,Vivian,vivian,Athletic Club,Athletic Club de Bilbao,76,unique_lastname,✅
-Noah Katterbach,N. Katterbach,katterbach,Kï¿½ln,FC Basel 1893,70,high,✅
-ï¿½lex Remiro,Ãlex Remiro,remiro,Real Sociedad,Real Sociedad,82,unique_lastname,✅
-Stefano Okaka,S. Okaka,okaka,Udinese,Ä°stanbul BaÅakÅehir FK,76,high,✅
-Danny Welbeck,D. Welbeck,welbeck,Brighton,Brighton & Hove Albion,75,high,✅
-Vladyslav Supriaha,V. Supriaha,supriaha,Sampdoria,Dynamo Kyiv,71,high,✅
-Robin Zentner,R. Zentner,zentner,Mainz 05,1. FSV Mainz 05,76,high,✅
 Alex Telles,Alex Telles,telles,Manchester Utd,Sevilla FC,80,high,✅
-Danilo Cataldi,D. Cataldi,cataldi,Lazio,Lazio,76,high,✅
-Lennart-Marten Czyborra,L. Czyborra,czyborra,Arminia,Genoa,69,high,✅
-ï¿½lvaro Morata,Morata,morata,Juventus,AtlÃ©tico de Madrid,80,unique_lastname,✅
-Ryan Fredericks,R. Fredericks,fredericks,West Ham,AFC Bournemouth,75,high,✅
-ï¿½tienne Capoue,E. Capoue,capoue,Villarreal,Villarreal CF,80,unique_lastname,✅
-Ryan Bertrand,R. Bertrand,bertrand,Leicester City,Leicester City,74,high,✅
-Wajdi Kechrida,W. Kechrida,kechrida,Salernitana,US Salernitana 1919,65,high,✅
-Matteo Gabbia,M. Gabbia,gabbia,Milan,AC Milan,70,high,✅
-Matteo Darmian,M. Darmian,darmian,Inter,Inter,80,high,✅
-Makoto Hasebe,M. Hasebe,hasebe,Eint Frankfurt,Eintracht Frankfurt,74,high,✅
-Ilan Kebbal,I. Kebbal,kebbal,Reims,Stade de Reims,74,high,✅
-Lucas Perrin,L. Perrin,perrin,Strasbourg,RC Strasbourg Alsace,74,high,✅
-Tobias Raschl,T. Raschl,raschl,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,69,high,✅
-David Alaba,D. Alaba,alaba,Real Madrid,Real Madrid CF,86,high,✅
-Brandon Domingues,B. Domingues,domingues,Troyes,ESTAC Troyes,66,high,✅
-Wilfried Zaha,W. Zaha,zaha,Crystal Palace,Crystal Palace,82,high,✅
-Matt Miazga,M. Miazga,miazga,Alavï¿½s,FC Cincinnati,72,high,✅
-Harvey Barnes,H. Barnes,barnes,Leicester City,Leicester City,80,high,✅
-Tommaso Baldanzi,T. Baldanzi,baldanzi,Empoli,Empoli,66,high,✅
-Neco Williams,N. Williams,williams,Liverpool,Nottingham Forest,71,high,✅
-Oussama Targhalline,O. Targhalline,targhalline,Marseille,Aytemiz Alanyaspor,64,high,✅
-Jonas Hector,22Â M. Hector,hector,Kï¿½ln,Fulham,71,unique_lastname,✅
-Achraf Hakimi,A. Hakimi,hakimi,Paris S-G,Paris Saint-Germain,84,high,✅
-Mikel Oyarzabal,Oyarzabal,oyarzabal,Real Sociedad,Real Sociedad,84,unique_lastname,✅
-Jesï¿½s Vallejo,J. Vallejo,vallejo,Real Madrid,Club AtlÃ©tico Independiente,60,high,✅
-Yanis Guermouche,22Â Y. Guermouche,guermouche,Montpellier,Montpellier HÃ©rault SC,62,unique_lastname,✅
-Ademola Lookman,A. Lookman,lookman,Leicester City,Atalanta,77,high,✅
-Stefan de Vrij,S. de Vrij,vrij,Inter,Inter,84,high,✅
-Louis Beyer,J. Beyer,beyer,M'Gladbach,Borussia MÃ¶nchengladbach,74,unique_lastname,✅
-Igor Carioca,22Â Diego Carioca,carioca,Lorient,Jagiellonia BiaÅystok,63,unique_lastname,✅
-Imran Louza,I. Louza,louza,Watford,Watford,74,high,✅
-Joscha Wosz,J. Wosz,wosz,RB Leipzig,RB Leipzig,61,high,✅
-Julian Eitschberger,J. Eitschberger,eitschberger,Hertha BSC,Hertha BSC,58,high,✅
-Michael Gregoritsch,M. Gregoritsch,gregoritsch,Augsburg,Sport-Club Freiburg,75,high,✅
-Davie Selke,D. Selke,selke,Hertha BSC,Hertha BSC,71,high,✅
-Mitchell van Bergen,M. van Bergen,bergen,Reims,Stade de Reims,72,high,✅
-Jesse Lingard,J. Lingard,lingard,Manchester Utd,Nottingham Forest,78,high,✅
-Arthur Melo,L. Melo,melo,Juventus,Hermanos Colmenarez,63,unique_lastname,✅
-Jeffrey Schlupp,J. Schlupp,schlupp,Crystal Palace,Crystal Palace,76,high,✅
-Edouard Michut,22Â Ã. Michut,michut,Paris S-G,Paris Saint-Germain,66,unique_lastname,✅
-Sebastiaan Bornauw,S. Bornauw,bornauw,Wolfsburg,VfL Wolfsburg,75,high,✅
-Kevin Bonifazi,F. Bonifazi,bonifazi,Bologna,Club AtlÃ©tico PeÃ±arol,65,unique_lastname,✅
-Omar Richards,O. Richards,richards,Bayern Munich,Nottingham Forest,73,high,✅
-Taylor Richards,T. Richards,richards,Brighton,Queens Park Rangers,66,high,✅
-Raphaï¿½l Varane,R. Varane,varane,Manchester Utd,Manchester United,84,high,✅
-Matthis Abline,M. Abline,abline,Rennes,Stade Rennais FC,68,high,✅
-Renan Lodi,Renan Lodi,lodi,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,80,high,✅
-Jakub Moder,J. Moder,moder,Brighton,Brighton & Hove Albion,74,high,✅
-Yassine Bounou,Y. Bounou,bounou,Sevilla,Sevilla FC,84,high,✅
-David de Gea,De Gea,gea,Manchester Utd,Manchester United,87,high,✅
-Gianluca Busio,G. Busio,busio,Venezia,Venezia FC,73,high,✅
-Mario Perrone,22Â M. Perrone,perrone,Salernitana,US Salernitana 1919,57,unique_lastname,✅
-Youssef Maleh,Y. Maleh,maleh,Fiorentina,Fiorentina,74,high,✅
-Diogo Dalot,Diogo Dalot,dalot,Manchester Utd,Manchester United,78,high,✅
-Mathias Normann,M. Normann,normann,Norwich City,,75,high,✅
+Andrea Ranocchia,A. Ranocchia,ranocchia,Inter,AC Monza,74,high,✅
+Lucas Alario,L. Alario,alario,Leverkusen,Eintracht Frankfurt,78,high,✅
 Emil Audero,E. Audero,audero,Sampdoria,U.C. Sampdoria,78,high,✅
-Grï¿½goire Defrel,G. Defrel,defrel,Sassuolo,U.S. Sassuolo Calcio,76,high,✅
-Ross Barkley,R. Barkley,barkley,Chelsea,Chelsea,76,high,✅
+Valï¿½re Germain,V. Germain,germain,Montpellier,Montpellier HÃ©rault SC,73,high,✅
+Lucas Leiva,N. Leiva,leiva,Lazio,ÅlÄsk WrocÅaw,69,unique_lastname,✅
+Giorgi Mamardashvili,G. Mamardashvili,mamardashvili,Valencia,Valencia CF,77,high,✅
+Remi Oudin,R. Oudin,oudin,Bordeaux,FC Girondins de Bordeaux,73,high,✅
+Joï¿½ko Gvardiol,J. Gvardiol,gvardiol,RB Leipzig,RB Leipzig,81,high,✅
+Mateusz Klich,M. Klich,klich,Leeds United,Leeds United,74,high,✅
+Enzo Ebosse,E. Ebosse,ebosse,Angers,Udinese Calcio,70,high,✅
+Aimen Moueffek,A. Moueffek,moueffek,Saint-ï¿½tienne,AS Saint-Ãtienne,67,high,✅
+Abdessamad Ezzalzouli,A. Ezzalzouli,ezzalzouli,Barcelona,FC Barcelona,70,high,✅
 Eden Hazard,E. Hazard,hazard,Real Madrid,Real Madrid CF,84,high,✅
 Thorgan Hazard,T. Hazard,hazard,Dortmund,Borussia Dortmund,80,high,✅
-Alejandro Primo,Ãlex Primo,primo,Levante,Levante UniÃ³n Deportiva,58,unique_lastname,✅
-Arkadiusz Milik,A. Milik,milik,Marseille,Olympique de Marseille,79,high,✅
-Catena,Catena,catena,Rayo Vallecano,Rayo Vallecano,76,high,✅
-Kevin Paredes,K. Paredes,paredes,Wolfsburg,VfL Wolfsburg,63,high,✅
-Leandro Paredes,L. Paredes,paredes,Paris S-G,Paris Saint-Germain,80,high,✅
-Mikkel Damsgaard,M. Damsgaard,damsgaard,Sampdoria,U.C. Sampdoria,76,high,✅
-Jeremy Ngakia,J. Ngakia,ngakia,Watford,Watford,70,high,✅
-Christopher Wooh,C. Wooh,wooh,Lens,Racing Club de Lens,68,high,✅
-Marc Tenas,Arnau Tenas,tenas,Alavï¿½s,FC Barcelona,67,unique_lastname,✅
-Benjamin Henrichs,B. Henrichs,henrichs,RB Leipzig,RB Leipzig,77,high,✅
-Michael Svoboda,M. Svoboda,svoboda,Venezia,Venezia FC,66,high,✅
-Melvin Bard,M. Bard,bard,Nice,OGC Nice,75,high,✅
-Jon Moncayola,Moncayola,moncayola,Osasuna,CA Osasuna,75,unique_lastname,✅
-Joï¿½l Matip,J. Matip,matip,Liverpool,Liverpool,84,high,✅
-Martï¿½n Zubimendi,Zubimendi,zubimendi,Real Sociedad,Real Sociedad,79,unique_lastname,✅
-Vitolo,Vitolo,vitolo,Getafe,UniÃ³n Deportiva Las Palmas,77,high,✅
-Nahuel Tenaglia,N. Tenaglia,tenaglia,Alavï¿½s,Deportivo AlavÃ©s,76,high,✅
-Sofiane Boufal,S. Boufal,boufal,Angers,Angers SCO,77,high,✅
+Sergi Darder,Sergi Darder,darder,Espanyol,RCD Espanyol de Barcelona,82,high,✅
+Florent Mollet,F. Mollet,mollet,Montpellier,FC Schalke 04,76,high,✅
+Mason Mount,M. Mount,mount,Chelsea,Chelsea,84,high,✅
+Lï¿½o Leroy,L. Leroy,leroy,Montpellier,Montpellier HÃ©rault SC,67,high,✅
+Yoane Wissa,Y. Wissa,wissa,Brentford,Brentford,75,high,✅
+Mattia De Sciglio,M. De Sciglio,sciglio,Juventus,Juventus,76,high,✅
+Marcus Forss,M. Forss,forss,Brentford,Middlesbrough,68,high,✅
 Manolo Portanova,M. Portanova,portanova,Genoa,Genoa,68,high,✅
-Ilija Nestorovski,I. Nestorovski,nestorovski,Udinese,Udinese Calcio,71,high,✅
-Malik Tillman,M. Tillman,tillman,Bayern Munich,Rangers FC,64,high,✅
-Timothy Tillman,T. Tillman,tillman,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,68,high,✅
-Matteo Cancellieri,M. Cancellieri,cancellieri,Hellas Verona,Lazio,73,high,✅
-Joï¿½ko Gvardiol,J. Gvardiol,gvardiol,RB Leipzig,RB Leipzig,81,high,✅
-Jack Grealish,J. Grealish,grealish,Manchester City,Manchester City,84,high,✅
-Rick Karsdorp,R. Karsdorp,karsdorp,Roma,Roma,80,high,✅
-Juraj Kucka,22Â J. Kucka,kucka,Watford,Watford,75,unique_lastname,✅
-Jesï¿½s Santiago,Yellu Santiago,santiago,Valencia,Valencia CF,60,unique_lastname,✅
-Ivï¿½n Balliu,I. Balliu,balliu,Rayo Vallecano,Rayo Vallecano,75,high,✅
-Sepe Elye Wahi,E. Wahi,wahi,Montpellier,Montpellier HÃ©rault SC,74,unique_lastname,✅
-Daniel Villahermosa,Villahermosa,villahermosa,Espanyol,RCD Espanyol de Barcelona,65,unique_lastname,✅
-Rey Manaj,R. Manaj,manaj,Spezia,Watford,72,high,✅
-Zaydou Youssouf,Z. Youssouf,youssouf,Saint-ï¿½tienne,Futebol Clube de FamalicÃ£o,72,high,✅
+Manuel Riemann,M. Riemann,riemann,Bochum,VfL Bochum 1848,79,high,✅
+Marko Pjaca,M. Pjaca,pjaca,Torino,Juventus,75,high,✅
+Fernando Calero,21Â M. Calero,calero,Espanyol,Club AtlÃ©tico Palmaflor,59,unique_lastname,✅
+Hamza Choudhury,H. Choudhury,choudhury,Leicester City,Leicester City,73,high,✅
+Marcel Sabitzer,M. Sabitzer,sabitzer,Bayern Munich,FC Bayern MÃ¼nchen,80,high,✅
+Ivan Provedel,I. Provedel,provedel,Spezia,Lazio,76,high,✅
+Koke,Koke,koke,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,83,high,✅
+Mattia Caldara,M. Caldara,caldara,Venezia,Spezia,75,high,✅
+Aï¿½ssa Mandi,S. Mandi,mandi,Villarreal,Jamshedpur FC,47,unique_lastname,✅
+Makoto Hasebe,M. Hasebe,hasebe,Eint Frankfurt,Eintracht Frankfurt,74,high,✅
+Danny Rose,L. Rose,rose,Watford,Macarthur FC,59,unique_lastname,✅
+ï¿½lvaro Odriozola,Odriozola,odriozola,Fiorentina,Real Madrid CF,78,unique_lastname,✅
+Alfonso Espino,A. Espino,espino,Cï¿½diz,CÃ¡diz CF,78,high,✅
+Isaac Success,I. Success,success,Udinese,Udinese Calcio,74,high,✅
+Ellyes Skhiri,E. Skhiri,skhiri,Kï¿½ln,1. FC KÃ¶ln,79,high,✅
+Ibrahima Mbaye,21Â M. Mbaye,mbaye,Bologna,FC Porto,63,unique_lastname,✅
 Thomas Lemar,T. Lemar,lemar,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,83,high,✅
-Sebastian Rode,S. Rode,rode,Eint Frankfurt,Eintracht Frankfurt,78,high,✅
-Konrad Laimer,K. Laimer,laimer,RB Leipzig,RB Leipzig,83,high,✅
-Mike Maignan,M. Maignan,maignan,Milan,AC Milan,87,high,✅
-Yves Bissouma,Y. Bissouma,bissouma,Brighton,Tottenham Hotspur,81,high,✅
-Valentino Livramento,T. Livramento,livramento,Southampton,Southampton,75,unique_lastname,✅
-ï¿½scar Mingueza,Mingueza,mingueza,Barcelona,RC Celta de Vigo,73,unique_lastname,✅
-Tommaso De Nipoti,22Â T. De Nipoti,nipoti,Atalanta,Atalanta,60,unique_lastname,✅
-Quentin Merlin,Q. Merlin,merlin,Nantes,FC Nantes,70,high,✅
-Daniel Maldini,D. Maldini,maldini,Milan,Spezia,65,high,✅
-Aitor Ruibal,Aitor Ruibal,ruibal,Betis,Real Betis BalompiÃ©,74,high,✅
+Eric Dier,E. Dier,dier,Tottenham,Tottenham Hotspur,80,high,✅
+Marten de Roon,M. de Roon,roon,Atalanta,Atalanta,80,high,✅
+Zaydou Youssouf,Z. Youssouf,youssouf,Saint-ï¿½tienne,Futebol Clube de FamalicÃ£o,72,high,✅
+Timo Baumgartl,T. Baumgartl,baumgartl,Union Berlin,1. FC Union Berlin,76,high,✅
+Yunis Abdelhamid,Y. Abdelhamid,abdelhamid,Reims,Stade de Reims,76,high,✅
+Myrto Uzuni,M. Uzuni,uzuni,Granada,Granada CF,75,high,✅
+Randal Kolo Muani,R. Kolo Muani,muani,Nantes,Eintracht Frankfurt,78,high,✅
+Sam Lammers,S. Lammers,lammers,Eint Frankfurt,Empoli,71,high,✅
+Fernando Pacheco,F. Pacheco,pacheco,Alavï¿½s,FC Emmen,66,high,✅
+Dan-Axel Zagadou,22Â D. Zagadou,zagadou,Dortmund,Borussia Dortmund,77,unique_lastname,✅
+Martinelli,Gabriel Martinelli,martinelli,Arsenal,Arsenal,78,unique_lastname,✅
+Edinson Cavani,22Â E. Cavani,cavani,Manchester Utd,Manchester United,82,unique_lastname,✅
+Mï¿½rgim Vojvoda,M. Vojvoda,vojvoda,Torino,Torino F.C.,74,high,✅
+Yayah Kallon,Y. Kallon,kallon,Genoa,Genoa,68,high,✅
+Luis Muriel,L. Muriel,muriel,Atalanta,Atalanta,82,high,✅
+Jean Onana,J. Onana,onana,Bordeaux,FC Girondins de Bordeaux,73,high,✅
+Ivï¿½n Balliu,I. Balliu,balliu,Rayo Vallecano,Rayo Vallecano,75,high,✅
+Ante Budimir,A. Budimir,budimir,Osasuna,CA Osasuna,76,high,✅
+Sam Greenwood,S. Greenwood,greenwood,Leeds United,Leeds United,67,high,✅
+Ondrej Duda,O. Duda,duda,Kï¿½ln,1. FC KÃ¶ln,73,high,✅
+Jurgen Ekkelenkamp,J. Ekkelenkamp,ekkelenkamp,Hertha BSC,Royal Antwerp FC,71,high,✅
+Gianluca Caprari,G. Caprari,caprari,Hellas Verona,AC Monza,78,high,✅
+Joï¿½l Veltman,J. Veltman,veltman,Brighton,Brighton & Hove Albion,78,high,✅
+Stefano Sturaro,S. Sturaro,sturaro,Genoa,Genoa,72,high,✅
+Josï¿½ Fonte,JosÃ© Fonte,fonte,Lille,LOSC Lille,80,high,✅
+Kevin Strootman,K. Strootman,strootman,Cagliari,Olympique de Marseille,73,high,✅
+Lorenzo Tonelli,L. Tonelli,tonelli,Empoli,Empoli,72,high,✅
+Rober,Rober,rober,Levante,Real Betis BalompiÃ©,69,high,✅
+Fabiano Parisi,F. Parisi,parisi,Empoli,Empoli,70,high,✅
+Davie Selke,D. Selke,selke,Hertha BSC,Hertha BSC,71,high,✅
+Mattia Aramu,M. Aramu,aramu,Venezia,Venezia FC,74,high,✅
+Nadir Zortea,N. Zortea,zortea,Salernitana,Atalanta,68,high,✅
+ï¿½scar Melendo,Melendo,melendo,Espanyol,Granada CF,78,unique_lastname,✅
+Calum Chambers,C. Chambers,chambers,Aston Villa,Aston Villa,75,high,✅
+Nahuel Tenaglia,N. Tenaglia,tenaglia,Alavï¿½s,Deportivo AlavÃ©s,76,high,✅
+Amine Adli,A. Adli,adli,Leverkusen,Bayer 04 Leverkusen,74,high,✅
+Yacine Adli,Y. Adli,adli,Bordeaux,AC Milan,75,high,✅
+Samuel Kalu,S. Kalu,kalu,Bordeaux,Watford,72,high,✅
+Kevin Bonifazi,F. Bonifazi,bonifazi,Bologna,Club AtlÃ©tico PeÃ±arol,65,unique_lastname,✅
+Sambou Soumano,S. Soumano,soumano,Lorient,FC Lorient,67,high,✅
+Gleison Bremer,Bremer,bremer,Torino,Juventus,83,unique_lastname,✅
+Riqui Puig,Riqui Puig,puig,Barcelona,LA Galaxy,74,high,✅
+Reinier,Reinier,reinier,Dortmund,Real Madrid CF,69,high,✅
 ï¿½scar Trejo,Ã. Trejo,trejo,Rayo Vallecano,Rayo Vallecano,79,unique_lastname,✅
+Niklas Dorsch,N. Dorsch,dorsch,Augsburg,FC Augsburg,77,high,✅
+Bryan Mbeumo,B. Mbeumo,mbeumo,Brentford,Brentford,75,high,✅
+Ozan Kabak,O. Kabak,kabak,Norwich City,TSG Hoffenheim,73,high,✅
+Catena,Catena,catena,Rayo Vallecano,Rayo Vallecano,76,high,✅
+Felix Passlack,F. Passlack,passlack,Dortmund,Borussia Dortmund,70,high,✅
+Niklas Tauer,N. Tauer,tauer,Mainz 05,1. FSV Mainz 05,68,high,✅
+Jorginho,Jorginho,jorginho,Chelsea,Chelsea,85,high,✅
+Jonathan Burkardt,J. Burkardt,burkardt,Mainz 05,1. FSV Mainz 05,76,high,✅
+Nicolas Haas,21Â T. Haas,haas,Empoli,TÃ¼rkgÃ¼cÃ¼ MÃ¼nchen,61,unique_lastname,✅
+Jean-Clair Todibo,J. Todibo,todibo,Nice,OGC Nice,78,high,✅
+Alberth Elis,A. Elis,elis,Bordeaux,FC Girondins de Bordeaux,75,high,✅
+Evann Guessand,E. Guessand,guessand,Nice,FC Nantes,70,high,✅
+Quentin Merlin,Q. Merlin,merlin,Nantes,FC Nantes,70,high,✅
+Konstantinos Mavropanos,K. Mavropanos,mavropanos,Stuttgart,VfB Stuttgart,78,high,✅
+Alejandro Balde,Balde,balde,Barcelona,FC Barcelona,68,unique_lastname,✅
+Andrea Belotti,A. Belotti,belotti,Torino,,80,high,✅
+Daniel Podence,Daniel Podence,podence,Wolves,Wolverhampton Wanderers,78,high,✅
+Bï¿½ni Makouana,B. Makouana,makouana,Montpellier,Montpellier HÃ©rault SC,65,high,✅
+Gareth Bale,G. Bale,bale,Real Madrid,Los Angeles FC,81,high,✅
+Luuk de Jong,L. de Jong,jong,Barcelona,PSV,79,high,✅
+Julian Ryerson,J. Ryerson,ryerson,Union Berlin,1. FC Union Berlin,72,high,✅
+Wesley Fofana,W. Fofana,fofana,Leicester City,Leicester City,79,high,✅
+Pedri,Pedri,pedri,Barcelona,FC Barcelona,85,high,✅
+Patson Daka,P. Daka,daka,Leicester City,Leicester City,77,high,✅
+Jan Thielmann,J. Thielmann,thielmann,Kï¿½ln,1. FC KÃ¶ln,73,high,✅
+Sofyan Amrabat,N. Amrabat,amrabat,Fiorentina,AEK Athens,75,unique_lastname,✅
+Jamie Leweling,J. Leweling,leweling,Greuther Fï¿½rth,1. FC Union Berlin,73,high,✅
+Aaron Ramsdale,A. Ramsdale,ramsdale,Arsenal,Arsenal,82,high,✅
+Juan Musso,J. Musso,musso,Atalanta,Atalanta,81,high,✅
+Aymeric Laporte,A. Laporte,laporte,Manchester City,Manchester City,86,high,✅
+Julien Laporte,J. Laporte,laporte,Lorient,FC Lorient,73,high,✅
+Fabian Delph,22Â F. Delph,delph,Everton,Everton,75,unique_lastname,✅
+Kostas Tsimikas,K. Tsimikas,tsimikas,Liverpool,Liverpool,77,high,✅
+Rick Karsdorp,R. Karsdorp,karsdorp,Roma,Roma,80,high,✅
+Olivier Giroud,O. Giroud,giroud,Milan,AC Milan,82,high,✅
+Kevin Volland,K. Volland,volland,Monaco,AS Monaco,82,high,✅
+Cristian Ansaldi,22Â C. Ansaldi,ansaldi,Torino,Torino F.C.,76,unique_lastname,✅
+Kevin Akpoguma,K. Akpoguma,akpoguma,Hoffenheim,TSG Hoffenheim,75,high,✅
+Pietro Terracciano,P. Terracciano,terracciano,Fiorentina,Fiorentina,76,high,✅
+Ohis Felix Uduokhai,F. Uduokhai,uduokhai,Augsburg,FC Augsburg,75,unique_lastname,✅
+Nick Pope,N. Pope,pope,Burnley,Newcastle United,81,high,✅
+Gian Marco Ferrari,G. Ferrari,ferrari,Sassuolo,U.S. Sassuolo Calcio,74,high,✅
+Kingsley Schindler,C. Schindler,schindler,Kï¿½ln,1. FC NÃ¼rnberg,72,unique_lastname,✅
+Igor Zubeldia,Zubeldia,zubeldia,Real Sociedad,Real Sociedad,78,unique_lastname,✅
+Maxwel Cornet,M. Cornet,cornet,Burnley,West Ham United,78,high,✅
+William Mikelbrencis,W. Mikelbrencis,mikelbrencis,Metz,FC Metz,65,high,✅
+Azor Matusiwa,A. Matusiwa,matusiwa,Reims,Stade de Reims,74,high,✅
+Gerson,Gerson,gerson,Marseille,Olympique de Marseille,78,high,✅
+Ashley Westwood,A. Westwood,westwood,Burnley,Burnley,76,high,✅
+Julen Lobete,Lobete,lobete,Real Sociedad,RKC Waalwijk,65,unique_lastname,✅
+Adil Aouchiche,A. Aouchiche,aouchiche,Saint-ï¿½tienne,AS Saint-Ãtienne,72,high,✅
+Cristian Romero,C. Romero,romero,Tottenham,Tottenham Hotspur,83,high,✅
+Sergio Romero,S. Romero,romero,Venezia,Boca Juniors,78,high,✅
+Christopher Nkunku,C. Nkunku,nkunku,RB Leipzig,RB Leipzig,86,high,✅
+Wout Faes,W. Faes,faes,Reims,Stade de Reims,77,high,✅
+Sardar Azmoun,S. Azmoun,azmoun,Leverkusen,Bayer 04 Leverkusen,80,high,✅
+Alessio Romagnoli,A. Romagnoli,romagnoli,Milan,Lazio,80,high,✅
+Simone Romagnoli,S. Romagnoli,romagnoli,Empoli,Parma,73,high,✅
+Matteo Cancellieri,M. Cancellieri,cancellieri,Hellas Verona,Lazio,73,high,✅
+?tefan Radu,I. Radu,radu,Lazio,US Cremonese,74,unique_lastname,✅
+Florian Sotoca,F. Sotoca,sotoca,Lens,Racing Club de Lens,75,high,✅
+Rey Manaj,R. Manaj,manaj,Spezia,Watford,72,high,✅
+Myron Boadu,M. Boadu,boadu,Monaco,AS Monaco,75,high,✅
+Jesï¿½s Navas,J. Navas,navas,Sevilla,Arsenal de SarandÃ­,66,high,✅
+Keylor Navas,K. Navas,navas,Paris S-G,Paris Saint-Germain,88,high,✅
+Maxime Le Marchand,22Â J. Marchand,marchand,Strasbourg,Pachuca,56,unique_lastname,✅
+Romain Perraud,R. Perraud,perraud,Southampton,Southampton,76,high,✅
+Francesco Acerbi,F. Acerbi,acerbi,Lazio,Lazio,82,high,✅
+Lorenzo Insigne,L. Insigne,insigne,Napoli,Toronto FC,84,high,✅
+Alberto Grassi,A. Grassi,grassi,Cagliari,Parma,72,high,✅
+Marc-Andrï¿½ ter Stegen,M. ter Stegen,stegen,Barcelona,FC Barcelona,88,high,✅
+Sebastiano Luperto,S. Luperto,luperto,Empoli,Empoli,73,high,✅
+Pablo Maffeo,Pablo Maffeo,maffeo,Mallorca,RCD Mallorca,78,high,✅
+Wahidullah Faghir,W. Faghir,faghir,Stuttgart,VfB Stuttgart,64,high,✅
+Lionel Messi,L. Messi,messi,Paris S-G,Paris Saint-Germain,91,high,✅
+Beï¿½at Turrientes,Turrientes,turrientes,Real Sociedad,Real Sociedad,68,unique_lastname,✅
+Riccardo Gagliolo,R. Gagliolo,gagliolo,Salernitana,Urbs Reggina 1914 ,69,high,✅
+Ola Aina,O. Aina,aina,Torino,Torino F.C.,74,high,✅
+Rï¿½my Cabella,R. Cabella,cabella,Montpellier,LOSC Lille,74,high,✅
+Alessio Cragno,A. Cragno,cragno,Cagliari,AC Monza,80,high,✅
+ï¿½ime Vrsaljko,Å . Vrsaljko,vrsaljko,Atlï¿½tico Madrid,,79,unique_lastname,✅
+Luka Bogdan,L. Bogdan,bogdan,Salernitana,Ternana,66,high,✅
+Gonï¿½alo Guedes,GonÃ§alo Guedes,guedes,Valencia,Wolverhampton Wanderers,82,high,✅
+Gaï¿½tan Laborde,G. Laborde,laborde,Rennes,Stade Rennais FC,81,high,✅
+Fikayo Tomori,F. Tomori,tomori,Milan,AC Milan,84,high,✅
+Sergi Roberto,Sergi Roberto,roberto,Barcelona,FC Barcelona,80,high,✅
 Joseph Aidoo,J. Aidoo,aidoo,Celta Vigo,RC Celta de Vigo,78,high,✅
+Ludovic Blas,L. Blas,blas,Nantes,FC Nantes,79,high,✅
+Nathan Redmond,N. Redmond,redmond,Southampton,Southampton,75,high,✅
+Francesco Caputo,M. Caputo,caputo,Sampdoria,Melbourne City FC,50,unique_lastname,✅
+Virgil van Dijk,V. van Dijk,dijk,Liverpool,Liverpool,90,high,✅
+Dennis Geiger,D. Geiger,geiger,Hoffenheim,TSG Hoffenheim,75,high,✅
+Adrien Tameze,A. Tameze,tameze,Hellas Verona,Hellas Verona,77,high,✅
+Leandro Barreiro Martins,L. Barreiro Martins,martins,Mainz 05,1. FSV Mainz 05,73,high,✅
+Gelson Martins,G. Martins,martins,Monaco,FC Goa,56,high,✅
+Gabriele Zappa,G. Zappa,zappa,Cagliari,Cagliari,68,high,✅
+Nicolï¿½ Zaniolo,N. Zaniolo,zaniolo,Roma,Roma,81,high,✅
+Stian Rode Gregersen,S. Gregersen,gregersen,Bordeaux,FC Girondins de Bordeaux,71,high,✅
+Aaron Hickey,A. Hickey,hickey,Bologna,Brentford,75,high,✅
+Riccardo Saponara,R. Saponara,saponara,Fiorentina,Fiorentina,76,high,✅
+Rayan Cherki,R. Cherki,cherki,Lyon,Olympique Lyonnais,73,high,✅
+Ollie Watkins,O. Watkins,watkins,Aston Villa,Aston Villa,78,high,✅
+Leandro Trossard,L. Trossard,trossard,Brighton,Brighton & Hove Albion,79,high,✅
+Ramy Bensebaini,R. Bensebaini,bensebaini,M'Gladbach,Borussia MÃ¶nchengladbach,78,high,✅
+Davide Faraoni,M. Faraoni,faraoni,Hellas Verona,Hellas Verona,78,unique_lastname,✅
+Morgan Schneiderlin,M. Schneiderlin,schneiderlin,Nice,OGC Nice,74,high,✅
+Joï¿½o Cancelo,JoÃ£o Cancelo,cancelo,Manchester City,Manchester City,88,high,✅
+Jeremy Toljan,J. Toljan,toljan,Sassuolo,U.S. Sassuolo Calcio,73,high,✅
+Eldor Shomurodov,E. Shomurodov,shomurodov,Roma,Roma,75,high,✅
+Alban Lafont,A. Lafont,lafont,Nantes,FC Nantes,80,high,✅
+Michel Aebischer,M. Aebischer,aebischer,Bologna,Bologna,75,high,✅
+Matt Miazga,M. Miazga,miazga,Alavï¿½s,FC Cincinnati,72,high,✅
+Danny Welbeck,D. Welbeck,welbeck,Brighton,Brighton & Hove Albion,75,high,✅
+Sehrou Guirassy,S. Guirassy,guirassy,Rennes,Stade Rennais FC,76,high,✅
+Sergio Escudero,Escudero,escudero,Granada,Real Valladolid CF,75,unique_lastname,✅
+Jon Rowe,J. Rowe,rowe,Norwich City,Norwich City,65,high,✅
+Emile Smith Rowe,E. Smith Rowe,rowe,Arsenal,Arsenal,80,high,✅
+Josema,Josema,josema,Elche,FC Cartagena,63,high,✅
+Pedro Chirivella,Pedro Chirivella,chirivella,Nantes,FC Nantes,77,high,✅
+Federico Dimarco,F. Dimarco,dimarco,Inter,Inter,78,high,✅
+Moussa Sissoko,M. Sissoko,sissoko,Watford,FC Nantes,77,high,✅
+Jasper Cillessen,J. Cillessen,cillessen,Valencia,N.E.C. Nijmegen,80,high,✅
+Nemanja Gudelj,N. Gudelj,gudelj,Sevilla,Sevilla FC,79,high,✅
+Giorgio Altare,G. Altare,altare,Cagliari,Cagliari,70,high,✅
+Renaud Ripart,R. Ripart,ripart,Troyes,ESTAC Troyes,73,high,✅
+Jack Stephens,J. Stephens,stephens,Southampton,Southampton,74,high,✅
+Youssef Maleh,Y. Maleh,maleh,Fiorentina,Fiorentina,74,high,✅
+Carlos Gruezo,C. Gruezo,gruezo,Augsburg,FC Augsburg,72,high,✅
+Kristoffer Ajer,K. Ajer,ajer,Brentford,Brentford,75,high,✅
+Ignatius Ganago,I. Ganago,ganago,Lens,Racing Club de Lens,73,high,✅
+ï¿½lex Berenguer,Ãlex Berenguer,berenguer,Athletic Club,Athletic Club de Bilbao,80,unique_lastname,✅
+Mamadou Coulibaly,M. Coulibaly,coulibaly,Salernitana,US Salernitana 1919,67,high,✅
+Tanguy Coulibaly,T. Coulibaly,coulibaly,Stuttgart,VfB Stuttgart,69,high,✅
+Richarlison,Richarlison,richarlison,Everton,Tottenham Hotspur,81,high,✅
+Karim Onisiwo,K. Onisiwo,onisiwo,Mainz 05,1. FSV Mainz 05,74,high,✅
+Shkodran Mustafi,S. Mustafi,mustafi,Levante,Levante UniÃ³n Deportiva,73,high,✅
+Thomas Monconduit,T. Monconduit,monconduit,Lorient,FC Lorient,72,high,✅
+Paul Pogba,P. Pogba,pogba,Manchester Utd,Juventus,85,high,✅
+Gerard Deulofeu,Deulofeu,deulofeu,Udinese,Udinese Calcio,80,unique_lastname,✅
+Toni Lato,Toni Lato,lato,Valencia,Valencia CF,73,high,✅
+Tonny Vilhena,T. Vilhena,vilhena,Espanyol,RCD Espanyol de Barcelona,76,high,✅
+Luca Netz,L. Netz,netz,M'Gladbach,Borussia MÃ¶nchengladbach,73,high,✅
+Mattia Zaccagni,M. Zaccagni,zaccagni,Lazio,Lazio,79,high,✅
+Leonardo Bonucci,L. Bonucci,bonucci,Juventus,Juventus,84,high,✅
+Dimitri Foulquier,D. Foulquier,foulquier,Valencia,Valencia CF,75,high,✅
+Jon Moncayola,Moncayola,moncayola,Osasuna,CA Osasuna,75,unique_lastname,✅
+Tomï¿½s Pina Isla,M. Isla,isla,Alavï¿½s,Universidad CatÃ³lica,76,unique_lastname,✅
+Sergio Asenjo,Sergio Asenjo,asenjo,Villarreal,Real Valladolid CF,79,high,✅
+Henrikh Mkhitaryan,H. Mkhitaryan,mkhitaryan,Roma,Inter,81,high,✅
+Benjamin Pavard,B. Pavard,pavard,Bayern Munich,FC Bayern MÃ¼nchen,79,high,✅
+Merih Demiral,M. Demiral,demiral,Atalanta,Atalanta,77,high,✅
+Alexander Hack,A. Hack,hack,Mainz 05,1. FSV Mainz 05,74,high,✅
+Robin Hack,R. Hack,hack,Arminia,DSC Arminia Bielefeld,70,high,✅
+Luca Ranieri,L. Ranieri,ranieri,Salernitana,Fiorentina,70,high,✅
+Aymen Barkok,A. Barkok,barkok,Eint Frankfurt,1. FSV Mainz 05,72,high,✅
+Divock Origi,D. Origi,origi,Liverpool,AC Milan,76,high,✅
+Mathias Normann,M. Normann,normann,Norwich City,,75,high,✅
+Maximilian Ullmann,M. Ullmann,ullmann,Venezia,Venezia FC,72,high,✅
+Sepe Elye Wahi,E. Wahi,wahi,Montpellier,Montpellier HÃ©rault SC,74,unique_lastname,✅
+Jeffrey Gouweleeuw,J. Gouweleeuw,gouweleeuw,Augsburg,FC Augsburg,75,high,✅
+Thomas Strakosha,T. Strakosha,strakosha,Lazio,Brentford,78,high,✅
+Jesse Lingard,J. Lingard,lingard,Manchester Utd,Nottingham Forest,78,high,✅
+Mikkel Damsgaard,M. Damsgaard,damsgaard,Sampdoria,U.C. Sampdoria,76,high,✅
+Ridle Baku,R. Baku,baku,Wolfsburg,VfL Wolfsburg,80,high,✅
+Denis Cheryshev,22Â D. Cheryshev,cheryshev,Valencia,Valencia CF,75,unique_lastname,✅
+Kelvin Amian,K. Amian,amian,Spezia,Spezia,74,high,✅
+Pascal Struijk,P. Struijk,struijk,Leeds United,Leeds United,76,high,✅
+Ben Godfrey,B. Godfrey,godfrey,Everton,Everton,77,high,✅
+Gianluca Mancini,G. Mancini,mancini,Roma,Roma,81,high,✅
+Serge Gnabry,S. Gnabry,gnabry,Bayern Munich,FC Bayern MÃ¼nchen,85,high,✅
+Hugo Lloris,H. Lloris,lloris,Tottenham,Tottenham Hotspur,87,high,✅
+Melvin Bard,M. Bard,bard,Nice,OGC Nice,75,high,✅
+Omar Marmoush,O. Marmoush,marmoush,Stuttgart,VfL Wolfsburg,73,high,✅
+Neal Maupay,N. Maupay,maupay,Brighton,Brighton & Hove Albion,76,high,✅
+Ragnar Ache,R. Ache,ache,Eint Frankfurt,SpVgg Greuther FÃ¼rth,68,high,✅
+Cï¿½dric Bakambu,C. Bakambu,bakambu,Marseille,Olympique de Marseille,76,high,✅
+Nathaniel Clyne,N. Clyne,clyne,Crystal Palace,Crystal Palace,74,high,✅
+Ambroise Oyongo,22Â A. Oyongo,oyongo,Montpellier,Montpellier HÃ©rault SC,72,unique_lastname,✅
+Matteo Politano,M. Politano,politano,Napoli,Napoli,81,high,✅
+Pere Pons,22Â Xavi Pons,pons,Alavï¿½s,FC Cartagena,61,unique_lastname,✅
+Benoï¿½t Costil,B. Costil,costil,Bordeaux,AJ Auxerre,75,high,✅
+Nicola Murru,N. Murru,murru,Sampdoria,U.C. Sampdoria,72,high,✅
+Manolo Gabbiadini,M. Gabbiadini,gabbiadini,Sampdoria,U.C. Sampdoria,75,high,✅
+Nayef Aguerd,N. Aguerd,aguerd,Rennes,West Ham United,80,high,✅
+Berat Djimsiti,B. Djimsiti,djimsiti,Atalanta,Atalanta,79,high,✅
+Marko Rog,M. Rog,rog,Cagliari,Cagliari,72,high,✅
+Andrea Pinamonti,A. Pinamonti,pinamonti,Empoli,Inter,75,high,✅
+David Okereke,D. Okereke,okereke,Venezia,US Cremonese,72,high,✅
+Ethan Pinnock,M. Pinnock,pinnock,Brentford,Northampton Town,65,unique_lastname,✅
+Andrea Petagna,A. Petagna,petagna,Napoli,Napoli,76,high,✅
+Erick Pulgar,22Â E. Pulgar,pulgar,Fiorentina,Galatasaray SK,75,unique_lastname,✅
+Alexander Isak,A. Isak,isak,Real Sociedad,Real Sociedad,80,high,✅
+Maxim Leitsch,M. Leitsch,leitsch,Bochum,1. FSV Mainz 05,74,high,✅
+Jeremy Doku,J. Doku,doku,Rennes,Stade Rennais FC,75,high,✅
+Jeffrey Schlupp,J. Schlupp,schlupp,Crystal Palace,Crystal Palace,76,high,✅
+Kevin Mbabu,K. Mbabu,mbabu,Wolfsburg,Fulham,77,high,✅
+Jï¿½rï¿½me Roussillon,J. Roussillon,roussillon,Wolfsburg,VfL Wolfsburg,76,high,✅
+Javier Pastore,J. Pastore,pastore,Elche,Elche CF,76,high,✅
+Abdel Jalil Medioub,A. Medioub,medioub,Bordeaux,FC Girondins de Bordeaux,67,high,✅
+Salvatore Sirigu,S. Sirigu,sirigu,Genoa,,78,high,✅
+Andrï¿½s Guardado,A. Guardado,guardado,Betis,Real Betis BalompiÃ©,77,high,✅
+Giovanni Di Lorenzo,G. Di Lorenzo,lorenzo,Napoli,Napoli,82,high,✅
+Dominik Szoboszlai,D. Szoboszlai,szoboszlai,RB Leipzig,RB Leipzig,79,high,✅
+Vï¿½ctor Chust,VÃ­ctor Chust,chust,Cï¿½diz,CÃ¡diz CF,74,high,✅
+Unai Vencedor Paris,21Â J. Paris,paris,Athletic Club,KFC Uerdingen 05,52,unique_lastname,✅
+Paul Jaeckel,P. Jaeckel,jaeckel,Union Berlin,1. FC Union Berlin,74,high,✅
+Nabil Fekir,N. Fekir,fekir,Betis,Real Betis BalompiÃ©,85,high,✅
+Georginio Wijnaldum,G. Wijnaldum,wijnaldum,Paris S-G,Roma,80,high,✅
+Amir Rrahmani,A. Rrahmani,rrahmani,Napoli,Napoli,80,high,✅
+Junior Dina Ebimbe,J. Dina Ebimbe,ebimbe,Paris S-G,Paris Saint-Germain,71,high,✅
+Elif Elmas,E. Elmas,elmas,Napoli,Napoli,78,high,✅
+David Timor,Timor,timor,Getafe,SD Huesca,71,unique_lastname,✅
+Xaver Schlager,X. Schlager,schlager,Wolfsburg,RB Leipzig,80,high,✅
+Jimmy Cabot,J. Cabot,cabot,Angers,Racing Club de Lens,75,high,✅
+Axel Tuanzebe,A. Tuanzebe,tuanzebe,Aston Villa,Manchester United,74,high,✅
+Joel Obi,22Â P. Obi,obi,Salernitana,Yokohama F. Marinos,63,unique_lastname,✅
+Luca Fiordilino,L. Fiordilino,fiordilino,Venezia,Venezia FC,70,high,✅
+Yves Bissouma,Y. Bissouma,bissouma,Brighton,Tottenham Hotspur,81,high,✅
+Przemys?aw Frankowski,P. Frankowski,frankowski,Lens,Racing Club de Lens,76,high,✅
+Yunus Musah,Y. Musah,musah,Valencia,Valencia CF,73,high,✅
+Nabil Bentaleb,N. Bentaleb,bentaleb,Angers,Angers SCO,73,high,✅
+Fraser Hornby,F. Hornby,hornby,Reims,KV Oostende,66,high,✅
+Matty Cash,M. Cash,cash,Aston Villa,Aston Villa,79,high,✅
+Riccardo Ciervo,R. Ciervo,ciervo,Sampdoria,Frosinone,61,high,✅
+Ryan Fraser,R. Fraser,fraser,Newcastle Utd,Newcastle United,76,high,✅
+Pol Lirola,Pol Lirola,lirola,Marseille,Olympique de Marseille,75,high,✅
+David Nemeth,D. Nemeth,nemeth,Mainz 05,FC St. Pauli,68,high,✅
+Filippo Melegoni,F. Melegoni,melegoni,Genoa,Genoa,67,high,✅
+Daniel Maldini,D. Maldini,maldini,Milan,Spezia,65,high,✅
+Jean-Philippe Mateta,J. Mateta,mateta,Crystal Palace,Crystal Palace,76,high,✅
+Achraf Hakimi,A. Hakimi,hakimi,Paris S-G,Paris Saint-Germain,84,high,✅
+Stefan de Vrij,S. de Vrij,vrij,Inter,Inter,84,high,✅
+Hicham Boudaoui,H. Boudaoui,boudaoui,Nice,OGC Nice,76,high,✅
+Anton Stach,A. Stach,stach,Mainz 05,1. FSV Mainz 05,76,high,✅
+Dï¿½vid Strelec,D. Strelec,strelec,Spezia,Spezia,64,high,✅
+Jarrad Branthwaite,J. Branthwaite,branthwaite,Everton,PSV,68,high,✅
+Fabio Quagliarella,F. Quagliarella,quagliarella,Sampdoria,U.C. Sampdoria,76,high,✅
+Chimuanya Ugochukwu,L. Ugochukwu,ugochukwu,Rennes,Stade Rennais FC,68,unique_lastname,✅
+Calvin Stengs,C. Stengs,stengs,Nice,OGC Nice,73,high,✅
+Ruslan Malinovskyi,R. Malinovskyi,malinovskyi,Atalanta,Atalanta,82,high,✅
+Oghenekaro Etebo,O. Etebo,etebo,Watford,Stoke City,72,high,✅
+Marwin Hitz,M. Hitz,hitz,Dortmund,FC Basel 1893,78,high,✅
+Arnaud Kalimuendo,A. Kalimuendo,kalimuendo,Lens,Paris Saint-Germain,76,high,✅
+Jeremy Ngakia,J. Ngakia,ngakia,Watford,Watford,70,high,✅
+Rubï¿½n Sobrino,RubÃ©n Sobrino,sobrino,Cï¿½diz,CÃ¡diz CF,73,high,✅
+Brian Brobbey,B. Brobbey,brobbey,RB Leipzig,Ajax,76,high,✅
+Asier Villalibre,Villalibre,villalibre,Athletic Club,Athletic Club de Bilbao,71,unique_lastname,✅
+Alexis Saelemaekers,A. Saelemaekers,saelemaekers,Milan,AC Milan,78,high,✅
+Frederic Guilbert,F. Guilbert,guilbert,Strasbourg,Aston Villa,78,high,✅
+Leonardo Cï¿½sar Jardim,LÃ©o Jardim,jardim,Lille,LOSC Lille,73,high,✅
+Janis Antiste,J. Antiste,antiste,Spezia,Spezia,68,high,✅
+Connor Roberts,C. Roberts,roberts,Burnley,Burnley,75,high,✅
+Eddie Nketiah,E. Nketiah,nketiah,Arsenal,Arsenal,73,high,✅
+Anthony Caci,A. Caci,caci,Strasbourg,1. FSV Mainz 05,75,high,✅
+Flavius Daniliuc,21Â D. Daniliuc,daniliuc,Nice,SV Ried,60,unique_lastname,✅
+Pablo Rosario,P. Rosario,rosario,Nice,OGC Nice,78,high,✅
+Grant Hanley,G. Hanley,hanley,Norwich City,Norwich City,74,high,✅
+Leo Dubois,L. Dubois,dubois,Lyon,Galatasaray SK,76,high,✅
+Todd Cantwell,T. Cantwell,cantwell,Norwich City,Norwich City,74,high,✅
+Suf Podgoreanu,S. Podgoreanu,podgoreanu,Spezia,Spezia,61,high,✅
+Morgan Sanson,M. Sanson,sanson,Aston Villa,Aston Villa,76,high,✅
+Carlos Akapo,Akapo,akapo,Cï¿½diz,San Jose Earthquakes,75,unique_lastname,✅
+Konrad Laimer,K. Laimer,laimer,RB Leipzig,RB Leipzig,83,high,✅
+Conor Coady,C. Coady,coady,Wolves,Everton,79,high,✅
+Sven Botman,S. Botman,botman,Lille,Newcastle United,80,high,✅
+Craig Dawson,K. Dawson,dawson,West Ham,Club AtlÃ©tico PeÃ±arol,74,unique_lastname,✅
+David de Gea,De Gea,gea,Manchester Utd,Manchester United,87,high,✅
+Jonny Castro,J. Castro,castro,Wolves,La Equidad,67,high,✅
+Jamie Shackleton,J. Shackleton,shackleton,Leeds United,Millwall,71,high,✅
+Xherdan Shaqiri,X. Shaqiri,shaqiri,Lyon,Chicago Fire Football Club,76,high,✅
+Mohamed Elneny,M. Elneny,elneny,Arsenal,Arsenal,76,high,✅
+Luke Ayling,L. Ayling,ayling,Leeds United,Leeds United,75,high,✅
+Jan Oblak,J. Oblak,oblak,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,89,high,✅
+Ihlas Bebou,I. Bebou,bebou,Hoffenheim,TSG Hoffenheim,77,high,✅
+Max Kilman,M. Kilman,kilman,Wolves,Wolverhampton Wanderers,77,high,✅
+Harvey Barnes,H. Barnes,barnes,Leicester City,Leicester City,80,high,✅
+Willem Geubbels,W. Geubbels,geubbels,Nantes,AS Monaco,68,high,✅
+Oriol Romeu,Oriol Romeu,romeu,Southampton,Southampton,78,high,✅
+Charalambos Lykogiannis,C. Lykogiannis,lykogiannis,Cagliari,Bologna,73,high,✅
+Diogo Dalot,Diogo Dalot,dalot,Manchester Utd,Manchester United,78,high,✅
+Rafiki Said Ahamada,N. Ahamada,ahamada,Brest,VfB Stuttgart,64,unique_lastname,✅
+Doï¿½an Alemdar,D. Alemdar,alemdar,Rennes,Stade Rennais FC,72,high,✅
+Theo Walcott,T. Walcott,walcott,Southampton,Southampton,72,high,✅
+Xeka,22Â Xeka,xeka,Lille,LOSC Lille,76,unique_lastname,✅
+Thomas Partey,T. Partey,partey,Arsenal,Arsenal,84,high,✅
+Giangiacomo Magnani,G. Magnani,magnani,Hellas Verona,Hellas Verona,74,high,✅
+Aritz Elustondo,Aritz Elustondo,elustondo,Real Sociedad,Real Sociedad,82,high,✅
+Maximilian Arnold,M. Arnold,arnold,Wolfsburg,VfL Wolfsburg,80,high,✅
+Ciro Immobile,C. Immobile,immobile,Lazio,Lazio,86,high,✅
+Fred,Fred,fred,Manchester Utd,Manchester United,80,high,✅
+Jamaal Lascelles,J. Lascelles,lascelles,Newcastle Utd,Newcastle United,75,high,✅
+Hirving Lozano,H. Lozano,lozano,Napoli,Napoli,81,high,✅
+Arnaud Souquet,A. Souquet,souquet,Montpellier,Montpellier HÃ©rault SC,74,high,✅
+Jude Bellingham,J. Bellingham,bellingham,Dortmund,Borussia Dortmund,84,high,✅
+Jerry St. Juste,J. St. Juste,juste,Mainz 05,Sporting CP,76,high,✅
+Matthis Abline,M. Abline,abline,Rennes,Stade Rennais FC,68,high,✅
+Giulio Maggiore,G. Maggiore,maggiore,Spezia,Spezia,77,high,✅
+Anderson Lucoqui,A. Lucoqui,lucoqui,Mainz 05,1. FSV Mainz 05,71,high,✅
+Daniel Vivian,Vivian,vivian,Athletic Club,Athletic Club de Bilbao,76,unique_lastname,✅
+Vitolo,Vitolo,vitolo,Getafe,UniÃ³n Deportiva Las Palmas,77,high,✅
+Marvelous Nakamba,M. Nakamba,nakamba,Aston Villa,Aston Villa,75,high,✅
+Lorenz Assignon,L. Assignon,assignon,Rennes,Stade Rennais FC,69,high,✅
+Grï¿½goire Defrel,G. Defrel,defrel,Sassuolo,U.S. Sassuolo Calcio,76,high,✅
+Lars Stindl,L. Stindl,stindl,M'Gladbach,Borussia MÃ¶nchengladbach,79,high,✅
+Castello Lukeba,C. Lukeba,lukeba,Lyon,Olympique Lyonnais,76,high,✅
 Tom Cleverley,T. Cleverley,cleverley,Watford,Watford,73,high,✅
-Saman Ghoddos,S. Ghoddos,ghoddos,Brentford,Brentford,68,high,✅
+Borja Iglesias,22Â B. Iglesias,iglesias,Betis,Universidad CatÃ³lica,55,unique_lastname,✅
+Patrick Bamford,P. Bamford,bamford,Leeds United,Leeds United,78,high,✅
+Oleksandr Zinchenko,O. Zinchenko,zinchenko,Manchester City,Arsenal,79,high,✅
+Kamory Doumbia,K. Doumbia,doumbia,Reims,Stade de Reims,63,high,✅
+Souleyman Doumbia,S. Doumbia,doumbia,Angers,Angers SCO,73,high,✅
+Amos Pieper,A. Pieper,pieper,Arminia,SV Werder Bremen,75,high,✅
+Raoul Bellanova,R. Bellanova,bellanova,Cagliari,Inter,74,high,✅
+Jetro Willems,J. Willems,willems,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,72,high,✅
+Rafa Mir,Rafa Mir,mir,Sevilla,Sevilla FC,79,high,✅
+Phil Foden,P. Foden,foden,Manchester City,Manchester City,85,high,✅
+Yerry Mina,Y. Mina,mina,Everton,Everton,77,high,✅
+Wissam Ben Yedder,W. Ben Yedder,yedder,Monaco,AS Monaco,84,high,✅
+Denzel Dumfries,D. Dumfries,dumfries,Inter,Inter,82,high,✅
+Samuel Moutoussamy,S. Moutoussamy,moutoussamy,Nantes,FC Nantes,72,high,✅
+Adrien Rabiot,A. Rabiot,rabiot,Juventus,Juventus,80,high,✅
+Daniele Rugani,D. Rugani,rugani,Juventus,Juventus,76,high,✅
+Matï¿½as Dituro,22Â M. Dituro,dituro,Celta Vigo,RC Celta de Vigo,78,unique_lastname,✅
+Mason Holgate,M. Holgate,holgate,Everton,Everton,75,high,✅
+Raphaï¿½l Guerreiro,R. Guerreiro,guerreiro,Dortmund,Borussia Dortmund,82,high,✅
+Matias Arezo,M. Arezo,arezo,Granada,Granada CF,68,high,✅
+Domenico Criscito,D. Criscito,criscito,Genoa,Toronto FC,75,high,✅
+Anthony Elanga,A. Elanga,elanga,Manchester Utd,Manchester United,74,high,✅
+Ludwig Augustinsson,L. Augustinsson,augustinsson,Sevilla,Aston Villa,77,high,✅
+ï¿½scar Mingueza,Mingueza,mingueza,Barcelona,RC Celta de Vigo,73,unique_lastname,✅
+Jack Cork,J. Cork,cork,Burnley,Burnley,74,high,✅
+Lucas Torreira,L. Torreira,torreira,Fiorentina,Galatasaray SK,81,high,✅
+Ismail Jakobs,I. Jakobs,jakobs,Monaco,AS Monaco,71,high,✅
+Ezequiel Ponce,E. Ponce,ponce,Elche,Elche CF,74,high,✅
+Jordan Ferri,J. Ferri,ferri,Montpellier,Montpellier HÃ©rault SC,77,high,✅
+Emil Bohinen,E. Bohinen,bohinen,Salernitana,US Salernitana 1919,72,high,✅
+Gerï¿½nimo Rulli,G. Rulli,rulli,Villarreal,Villarreal CF,82,high,✅
+Kevin Schade,K. Schade,schade,Freiburg,Sport-Club Freiburg,70,high,✅
+Ken Sema,K. Sema,sema,Watford,Watford,72,high,✅
+Marc Bartra,Marc Bartra,bartra,Betis,Real Betis BalompiÃ©,81,high,✅
+Ozan Tufan,O. Tufan,tufan,Watford,Hull City,74,high,✅
+Philipp Klement,P. Klement,klement,Stuttgart,VfB Stuttgart,71,high,✅
+Riccardo Calafiori,R. Calafiori,calafiori,Roma,Roma,68,high,✅
+Matthias Ginter,M. Ginter,ginter,M'Gladbach,Sport-Club Freiburg,82,high,✅
+Kingsley Ehizibue,K. Ehizibue,ehizibue,Kï¿½ln,1. FC KÃ¶ln,72,high,✅
+Jon Guridi,Guridi,guridi,Real Sociedad,Deportivo AlavÃ©s,74,unique_lastname,✅
+Ibrahim Amadou,22Â I. Amadou,amadou,Metz,FC Metz,73,unique_lastname,✅
+Robert Gumny,R. Gumny,gumny,Augsburg,FC Augsburg,71,high,✅
+Manuel Neuer,M. Neuer,neuer,Bayern Munich,FC Bayern MÃ¼nchen,90,high,✅
+Francesco Magnanelli,22Â F. Magnanelli,magnanelli,Sassuolo,U.S. Sassuolo Calcio,72,unique_lastname,✅
+Diego Perotti,22Â D. Perotti,perotti,Salernitana,US Salernitana 1919,74,unique_lastname,✅
+Youcef Atal,Y. Atal,atal,Nice,OGC Nice,75,high,✅
+Kï¿½vin Gameiro,K. Gameiro,gameiro,Strasbourg,RC Strasbourg Alsace,77,high,✅
+Samuel Chukwueze,S. Chukwueze,chukwueze,Villarreal,Villarreal CF,79,high,✅
+Jonas Wind,J. Wind,wind,Wolfsburg,VfL Wolfsburg,76,high,✅
+Borja Mayoral,Borja Mayoral,mayoral,Getafe,Getafe CF,74,high,✅
+Gian-Luca Itter,L. Itter,itter,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,69,unique_lastname,✅
+Miguel Trauco,22Â J. Trauco,trauco,Saint-ï¿½tienne,Sport Huancayo,62,unique_lastname,✅
+Gerrit Holtmann,G. Holtmann,holtmann,Bochum,VfL Bochum 1848,74,high,✅
+Mickaï¿½l Cuisance,M. Cuisance,cuisance,Venezia,Venezia FC,72,high,✅
+Philippe Koffi,E. Koffi,koffi,Reims,Pau FC,67,unique_lastname,✅
+Steffen Tigges,S. Tigges,tigges,Dortmund,1. FC KÃ¶ln,68,high,✅
+Adam Armstrong,A. Armstrong,armstrong,Southampton,Southampton,74,high,✅
+Stuart Armstrong,S. Armstrong,armstrong,Southampton,Southampton,76,high,✅
+Jï¿½rï¿½me Boateng,J. Boateng,boateng,Lyon,Olympique Lyonnais,79,high,✅
+Allan,Allan,allan,Everton,Everton,80,high,✅
+Luï¿½s Maximiano,LuÃ­s Maximiano,maximiano,Granada,Lazio,79,high,✅
+Marco Modolo,M. Modolo,modolo,Venezia,Venezia FC,69,high,✅
+Declan Rice,D. Rice,rice,West Ham,West Ham United,84,high,✅
+Roberto Gagliardini,R. Gagliardini,gagliardini,Inter,Inter,76,high,✅
+Dwight McNeil,D. McNeil,mcneil,Burnley,Everton,76,high,✅
+Imran Louza,I. Louza,louza,Watford,Watford,74,high,✅
+Dylan Bronn,D. Bronn,bronn,Metz,FC Metz,71,high,✅
+Mickey van de Ven,M. van de Ven,ven,Wolfsburg,VfL Wolfsburg,69,high,✅
+Issouf Sissokho,I. Sissokho,sissokho,Bordeaux,FC Girondins de Bordeaux,69,high,✅
+Baptiste Santamaria,B. Santamaria,santamaria,Rennes,Stade Rennais FC,76,high,✅
+Vï¿½ctor Camarasa,Camarasa,camarasa,Betis,Real Betis BalompiÃ©,71,unique_lastname,✅
+Javier Manquillo,Manquillo,manquillo,Newcastle Utd,Newcastle United,74,unique_lastname,✅
+Sï¿½bastien Corchia,S. Corchia,corchia,Nantes,FC Nantes,72,high,✅
+Harry Winks,H. Winks,winks,Tottenham,Tottenham Hotspur,76,high,✅
+Jordan Pickford,J. Pickford,pickford,Everton,Everton,82,high,✅
+Mark Flekken,M. Flekken,flekken,Freiburg,Sport-Club Freiburg,80,high,✅
+Che Adams,C. Adams,adams,Southampton,Southampton,76,high,✅
+Tyler Adams,T. Adams,adams,RB Leipzig,Leeds United,76,high,✅
+Gabriel Paulista,Gabriel Paulista,paulista,Valencia,Valencia CF,82,high,✅
+Florin Andone,F. Andone,andone,Cï¿½diz,Brighton & Hove Albion,70,high,✅
+Sergio Postigo,Postigo,postigo,Levante,Levante UniÃ³n Deportiva,71,unique_lastname,✅
+Ricardo Mangas,Ricardo Mangas,mangas,Bordeaux,Boavista FC,71,high,✅
+Chapela,Chapela,chapela,Cï¿½diz,CÃ¡diz CF,66,high,✅
+Hatem Ben Arfa,22Â H. Ben Arfa,arfa,Lille,LOSC Lille,75,unique_lastname,✅
+Patric,Patric,patric,Lazio,Lazio,75,high,✅
+Kenny McLean,22Â B. McLean,mclean,Norwich City,Burton Albion,52,unique_lastname,✅
+Vitaly Janelt,V. Janelt,janelt,Brentford,Brentford,74,high,✅
+Leon Goretzka,L. Goretzka,goretzka,Bayern Munich,FC Bayern MÃ¼nchen,87,high,✅
+Kelechi Iheanacho,K. Iheanacho,iheanacho,Leicester City,Leicester City,77,high,✅
+Reece James,R. James,james,Chelsea,Chelsea,84,high,✅
+Andrew Omobamidele,A. Omobamidele,omobamidele,Norwich City,Norwich City,68,high,✅
+Maxence Caqueret,M. Caqueret,caqueret,Lyon,Olympique Lyonnais,79,high,✅
+Sven Ulreich,S. Ulreich,ulreich,Bayern Munich,FC Bayern MÃ¼nchen,75,high,✅
+Franck Honorat,F. Honorat,honorat,Brest,Stade Brestois 29,77,high,✅
+Tariq Lamptey,T. Lamptey,lamptey,Brighton,Brighton & Hove Albion,75,high,✅
+Elseid Hysaj,E. Hysaj,hysaj,Lazio,Lazio,75,high,✅
+ï¿½lvaro Negredo,Negredo,negredo,Cï¿½diz,CÃ¡diz CF,77,unique_lastname,✅
+Tommaso Augello,T. Augello,augello,Sampdoria,U.C. Sampdoria,72,high,✅
+Ezri Konsa,E. Konsa,konsa,Aston Villa,Aston Villa,79,high,✅
+Ouparine Djoco,O. Djoco,djoco,Clermont Foot,Clermont Foot 63,69,high,✅
+Zinho Vanheusden,Z. Vanheusden,vanheusden,Genoa,AZ Alkmaar,72,high,✅
+Daniel Wass,D. Wass,wass,Valencia,AtlÃ©tico de Madrid,79,high,✅
+Mikel Merino,Merino,merino,Real Sociedad,Real Sociedad,83,high,✅
+Eliot Matazo,E. Matazo,matazo,Monaco,AS Monaco,72,high,✅
+Kevin De Bruyne,K. De Bruyne,bruyne,Manchester City,Manchester City,91,high,✅
+Tuta,Tuta,tuta,Eint Frankfurt,Eintracht Frankfurt,77,high,✅
+Thomas Delaney,T. Delaney,delaney,Sevilla,Sevilla FC,81,high,✅
+Johan Mojica,J. Mojica,mojica,Elche,Elche CF,77,high,✅
+Wilfried Zaha,W. Zaha,zaha,Crystal Palace,Crystal Palace,82,high,✅
+Allan Nyom,A. Nyom,nyom,Getafe,CD LeganÃ©s,74,high,✅
+Kiliann Sildillia,K. Sildillia,sildillia,Freiburg,Sport-Club Freiburg,65,high,✅
+Daniel Parejo,Parejo,parejo,Villarreal,Villarreal CF,86,unique_lastname,✅
+Adri Embarba,Embarba,embarba,Espanyol,RCD Espanyol de Barcelona,75,unique_lastname,✅
+Paolo Ghiglione,P. Ghiglione,ghiglione,Genoa,US Cremonese,69,high,✅
+Nicolï¿½ Rovella,N. Rovella,rovella,Genoa,Juventus,73,high,✅
+Amadou Mbengue,22Â A. Mbengue,mbengue,Metz,FC Metz,62,unique_lastname,✅
+Fabio Miretti,F. Miretti,miretti,Juventus,Juventus,70,high,✅
+David Zima,D. Zima,zima,Torino,Torino F.C.,74,high,✅
+Benno Schmitz,B. Schmitz,schmitz,Kï¿½ln,1. FC KÃ¶ln,75,high,✅
+Ilaix Moriba,I. Moriba,moriba,Valencia,RB Leipzig,73,high,✅
+Marco Verratti,M. Verratti,verratti,Paris S-G,Paris Saint-Germain,87,high,✅
+Rico Henry,R. Henry,henry,Brentford,Brentford,75,high,✅
+Matthijs de Ligt,M. de Ligt,ligt,Juventus,FC Bayern MÃ¼nchen,85,high,✅
+Joï¿½l Matip,J. Matip,matip,Liverpool,Liverpool,84,high,✅
+Abdelhamid Sabiri,A. Sabiri,sabiri,Sampdoria,U.C. Sampdoria,72,high,✅
+Serge Aurier,22Â S. Aurier,aurier,Villarreal,Villarreal CF,79,unique_lastname,✅
+Giacomo Raspadori,G. Raspadori,raspadori,Sassuolo,U.S. Sassuolo Calcio,79,high,✅
+Ander Barrenetxea,Barrenetxea,barrenetxea,Real Sociedad,Real Sociedad,74,unique_lastname,✅
+Mauro Icardi,M. Icardi,icardi,Paris S-G,Paris Saint-Germain,77,high,✅
+Giorgio Chiellini,G. Chiellini,chiellini,Juventus,Los Angeles FC,84,high,✅
+Kurt Zouma,K. Zouma,zouma,West Ham,West Ham United,80,high,✅
+Jason Denayer,J. Denayer,denayer,Lyon,,77,high,✅
+Weston McKennie,W. McKennie,mckennie,Juventus,Juventus,80,high,✅
+Fabien Centonze,F. Centonze,centonze,Metz,FC Metz,75,high,✅
+Arthur Melo,L. Melo,melo,Juventus,Hermanos Colmenarez,63,unique_lastname,✅
+Vicente Iborra,Iborra,iborra,Villarreal,Levante UniÃ³n Deportiva,75,unique_lastname,✅
+Saï¿½d Benrahma,S. Benrahma,benrahma,West Ham,West Ham United,78,high,✅
+Alberto Soro,I. Soro,soro,Granada,FC Arouca,67,unique_lastname,✅
+Mattia Viti,M. Viti,viti,Empoli,OGC Nice,71,high,✅
+Sacha Delaye,S. Delaye,delaye,Montpellier,Montpellier HÃ©rault SC,61,high,✅
+Arthur Desmas,A. Desmas,desmas,Clermont Foot,Le Havre AC,69,high,✅
+Nordi Mukiele,N. Mukiele,mukiele,RB Leipzig,Paris Saint-Germain,79,high,✅
+Raï¿½l Torrente,Torrente,torrente,Granada,Granada CF,67,unique_lastname,✅
+Renaud Emond,R. Emond,emond,Nantes,Standard de LiÃ¨ge,67,high,✅
+Martin Adeline,M. Adeline,adeline,Reims,Stade de Reims,65,high,✅
+Denso Kasius,D. Kasius,kasius,Bologna,Bologna,62,high,✅
+Steven Bergwijn,S. Bergwijn,bergwijn,Tottenham,Ajax,80,high,✅
+Eduardo Camavinga,E. Camavinga,camavinga,Real Madrid,Real Madrid CF,79,high,✅
+Rï¿½ben Vezo,RÃºben Vezo,vezo,Levante,Levante UniÃ³n Deportiva,73,high,✅
+Lucas Tousart,L. Tousart,tousart,Hertha BSC,Hertha BSC,75,high,✅
+Morten Thorsby,M. Thorsby,thorsby,Sampdoria,1. FC Union Berlin,74,high,✅
+Christopher Wooh,C. Wooh,wooh,Lens,Racing Club de Lens,68,high,✅
+Ignacio Pussetto,I. Pussetto,pussetto,Udinese,Watford,74,high,✅
+Harold Moukoudi,H. Moukoudi,moukoudi,Saint-ï¿½tienne,AS Saint-Ãtienne,72,high,✅
+Jacob Barrett Laursen,J. Laursen,laursen,Arminia,Standard de LiÃ¨ge,69,high,✅
+Gabriel Gudmundsson,G. Gudmundsson,gudmundsson,Lille,LOSC Lille,74,high,✅
+Yannick Gerhardt,Y. Gerhardt,gerhardt,Wolfsburg,VfL Wolfsburg,76,high,✅
+Keven Schlotterbeck,K. Schlotterbeck,schlotterbeck,Freiburg,Sport-Club Freiburg,72,high,✅
+Nico Schlotterbeck,N. Schlotterbeck,schlotterbeck,Freiburg,Borussia Dortmund,82,high,✅
+Silvan Widmer,S. Widmer,widmer,Mainz 05,1. FSV Mainz 05,77,high,✅
+Jean-Philippe Krasso,J. Krasso,krasso,Saint-ï¿½tienne,AS Saint-Ãtienne,67,high,✅
+Takehiro Tomiyasu,T. Tomiyasu,tomiyasu,Arsenal,Arsenal,79,high,✅
+Francisco Sierralta,F. Sierralta,sierralta,Watford,Watford,72,high,✅
+Emerson,Emerson,emerson,Tottenham,Chelsea,77,high,✅
+ï¿½lex Remiro,Ãlex Remiro,remiro,Real Sociedad,Real Sociedad,82,unique_lastname,✅
+Alexandre Lacazette,A. Lacazette,lacazette,Arsenal,Olympique Lyonnais,81,high,✅
+Alisson,Alisson,alisson,Liverpool,Liverpool,89,high,✅
+Jï¿½rï¿½my Le Douaron,J. Le Douaron,douaron,Brest,Stade Brestois 29,72,high,✅
+Sergiï¿½o Dest,S. Dest,dest,Barcelona,FC Barcelona,77,high,✅
+Milot Rashica,M. Rashica,rashica,Norwich City,Norwich City,74,high,✅
+Matteo Pessina,M. Pessina,pessina,Atalanta,AC Monza,77,high,✅
+Enric Franquesa,Franquesa,franquesa,Levante,Levante UniÃ³n Deportiva,68,unique_lastname,✅
+Marco Asensio,Marco Asensio,asensio,Real Madrid,Real Madrid CF,83,high,✅
+Taiwo Awoniyi,T. Awoniyi,awoniyi,Union Berlin,Nottingham Forest,77,high,✅
+Samu Castillejo,Samu Castillejo,castillejo,Milan,Valencia CF,75,high,✅
+Florian Wirtz,F. Wirtz,wirtz,Leverkusen,Bayer 04 Leverkusen,82,high,✅
+Domenico Berardi,D. Berardi,berardi,Sassuolo,U.S. Sassuolo Calcio,84,high,✅
+Rob Holding,R. Holding,holding,Arsenal,Arsenal,77,high,✅
+Sebastiaan Bornauw,S. Bornauw,bornauw,Wolfsburg,VfL Wolfsburg,75,high,✅
+Dimitri Payet,D. Payet,payet,Marseille,Olympique de Marseille,82,high,✅
+Alphonso Davies,A. Davies,davies,Bayern Munich,FC Bayern MÃ¼nchen,84,high,✅
+Tom Davies,T. Davies,davies,Everton,Everton,75,high,✅
+Oier Zarraga,Zarraga,zarraga,Athletic Club,Athletic Club de Bilbao,73,unique_lastname,✅
+Iago,Iago,iago,Augsburg,FC Augsburg,77,high,✅
+Martin Hinteregger,22Â M. Hinteregger,hinteregger,Eint Frankfurt,,79,unique_lastname,✅
+Kasper Dolberg,K. Dolberg,dolberg,Nice,OGC Nice,77,high,✅
+Adrien Truffert,A. Truffert,truffert,Rennes,Stade Rennais FC,75,high,✅
+Federico Ceccherini,F. Ceccherini,ceccherini,Hellas Verona,Hellas Verona,75,high,✅
+Mohammed Salisu,M. Salisu,salisu,Southampton,Southampton,77,high,✅
+Daniel Bachmann,D. Bachmann,bachmann,Watford,Watford,72,high,✅
+Genki Haraguchi,G. Haraguchi,haraguchi,Union Berlin,1. FC Union Berlin,74,high,✅
+Joe Gelhardt,J. Gelhardt,gelhardt,Leeds United,Leeds United,72,high,✅
+Gianluca Scamacca,G. Scamacca,scamacca,Sassuolo,West Ham United,80,high,✅
+Mateo Klimowicz,M. Klimowicz,klimowicz,Stuttgart,VfB Stuttgart,67,high,✅
+Vladimï¿½r Coufal,V. Coufal,coufal,West Ham,West Ham United,80,high,✅
+Marc-Aurï¿½le Caillard,M. Caillard,caillard,Metz,FC Metz,68,high,✅
+Andy Delort,A. Delort,delort,Nice,OGC Nice,80,high,✅
+Daniel Didavi,22Â D. Didavi,didavi,Stuttgart,VfB Stuttgart,71,unique_lastname,✅
+Thibaut Courtois,T. Courtois,courtois,Real Madrid,Real Madrid CF,90,high,✅
+ï¿½lvaro Morata,Morata,morata,Juventus,AtlÃ©tico de Madrid,80,unique_lastname,✅
+Erling Haaland,E. Haaland,haaland,Dortmund,Manchester City,88,high,✅
+Yvan Neyou,Y. Neyou,neyou,Saint-ï¿½tienne,AS Saint-Ãtienne,71,high,✅
+Hakim Ziyech,H. Ziyech,ziyech,Chelsea,Chelsea,83,high,✅
+Arthur Theate,A. Theate,theate,Bologna,Stade Rennais FC,75,high,✅
+Remo Freuler,R. Freuler,freuler,Atalanta,Atalanta,80,high,✅
+Tete Morente,Tete Morente,morente,Elche,Elche CF,73,high,✅
+Albert Sambi Lokonga,A. Sambi Lokonga,lokonga,Arsenal,Arsenal,75,high,✅
+Myziane Maolida,M. Maolida,maolida,Hertha BSC,Hertha BSC,71,high,✅
+Lucas Perrin,L. Perrin,perrin,Strasbourg,RC Strasbourg Alsace,74,high,✅
+Antoine Griezmann,A. Griezmann,griezmann,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,83,high,✅
+Davide Zappacosta,D. Zappacosta,zappacosta,Atalanta,Atalanta,79,high,✅
+Andriy Yarmolenko,A. Yarmolenko,yarmolenko,West Ham,Al Ain FC,75,high,✅
+Adam Forshaw,A. Forshaw,forshaw,Leeds United,Leeds United,73,high,✅
+Louis Mafouta,L. Mafouta,mafouta,Metz,US Quevilly Rouen MÃ©tropole,68,high,✅
+Youri Tielemans,Y. Tielemans,tielemans,Leicester City,Leicester City,84,high,✅
+Illan Meslier,I. Meslier,meslier,Leeds United,Leeds United,77,high,✅
+Dion Lopy,D. Lopy,lopy,Reims,Stade de Reims,71,high,✅
+Mohamed Simakan,M. Simakan,simakan,RB Leipzig,RB Leipzig,78,high,✅
+Lyanco,Lyanco,lyanco,Southampton,Southampton,72,high,✅
+Tim Lemperle,T. Lemperle,lemperle,Kï¿½ln,1. FC KÃ¶ln,66,high,✅
+Mohamed Fares,M. Fares,fares,Genoa,Lazio,72,high,✅
+Ike Ugbo,I. Ugbo,ugbo,Troyes,ESTAC Troyes,72,high,✅
+Manuel Lazzari,M. Lazzari,lazzari,Lazio,Lazio,79,high,✅
+Andrï¿½ Gomes,A. Gomes,gomes,Everton,LOSC Lille,73,high,✅
+Nico Williams,N. Williams,williams,Athletic Club,Nottingham Forest,71,high,✅
+Harry Kane,H. Kane,kane,Tottenham,Tottenham Hotspur,89,high,✅
+Sebastian Polter,S. Polter,polter,Bochum,FC Schalke 04,73,high,✅
+Scott McTominay,S. McTominay,mctominay,Manchester Utd,Manchester United,80,high,✅
+Marcus Ingvartsen,M. Ingvartsen,ingvartsen,Mainz 05,1. FSV Mainz 05,73,high,✅
+Joshua Kimmich,J. Kimmich,kimmich,Bayern Munich,FC Bayern MÃ¼nchen,89,high,✅
+Lorenzo De Silvestri,L. De Silvestri,silvestri,Bologna,Bologna,76,high,✅
+Marco Silvestri,M. Silvestri,silvestri,Udinese,Udinese Calcio,79,high,✅
+Gregor Kobel,G. Kobel,kobel,Dortmund,Borussia Dortmund,83,high,✅
+Esteban Saveljich,E. Saveljich,saveljich,Rayo Vallecano,Rayo Vallecano,71,high,✅
+David Raum,D. Raum,raum,Hoffenheim,RB Leipzig,81,high,✅
+Lucas Martï¿½nez Quarta,L. MartÃ­nez Quarta,quarta,Fiorentina,Fiorentina,76,high,✅
+Vicente Guaita,Guaita,guaita,Crystal Palace,Crystal Palace,79,unique_lastname,✅
+Kortney Hause,K. Hause,hause,Aston Villa,Aston Villa,75,high,✅
+Junior Sambia,J. Sambia,sambia,Montpellier,US Salernitana 1919,73,high,✅
+Jannes Horn,J. Horn,horn,Kï¿½ln,VfL Bochum 1848,72,high,✅
+Timo Horn,T. Horn,horn,Kï¿½ln,1. FC KÃ¶ln,75,high,✅
+Antonio Raillo,Raillo,raillo,Mallorca,RCD Mallorca,73,unique_lastname,✅
+Ben Chilwell,B. Chilwell,chilwell,Chelsea,Chelsea,82,high,✅
+Jordan Veretout,J. Veretout,veretout,Roma,Olympique de Marseille,79,high,✅
+Amine Harit,A. Harit,harit,Marseille,FC Schalke 04,75,high,✅
+Fredrik Jensen,F. Jensen,jensen,Augsburg,FC Augsburg,70,high,✅
+Mathias Jensen,M. Jensen,jensen,Brentford,AC Horsens,64,high,✅
+Miguel Veloso,Miguel Veloso,veloso,Hellas Verona,Hellas Verona,77,high,✅
+Dimitris Giannoulis,D. Giannoulis,giannoulis,Norwich City,Norwich City,73,high,✅
+Josh Brownhill,J. Brownhill,brownhill,Burnley,Burnley,75,high,✅
+Azzedine Ounahi,A. Ounahi,ounahi,Angers,Angers SCO,70,high,✅
+Mikel Vesga,Vesga,vesga,Athletic Club,Athletic Club de Bilbao,74,unique_lastname,✅
+Tom Lacoux,T. Lacoux,lacoux,Bordeaux,FC Girondins de Bordeaux,68,high,✅
+Wilfried Singo,W. Singo,singo,Torino,Torino F.C.,76,high,✅
+Memphis Depay,M. Depay,depay,Barcelona,FC Barcelona,85,high,✅
+Ethan Ampadu,E. Ampadu,ampadu,Venezia,Chelsea,73,high,✅
+Jakub Moder,J. Moder,moder,Brighton,Brighton & Hove Albion,74,high,✅
+Luca Kilian,L. Kilian,kilian,Kï¿½ln,1. FC KÃ¶ln,74,high,✅
+Iago Aspas,Iago Aspas,aspas,Celta Vigo,RC Celta de Vigo,85,high,✅
+Alidu Seidu,A. Seidu,seidu,Clermont Foot,Clermont Foot 63,68,high,✅
+Morten Frendrup,M. Frendrup,frendrup,Genoa,Genoa,72,high,✅
+Vladimï¿½r Darida,V. Darida,darida,Hertha BSC,Hertha BSC,75,high,✅
+Franco Cervi,F. Cervi,cervi,Celta Vigo,RC Celta de Vigo,78,high,✅
+Japhet Tanganga,J. Tanganga,tanganga,Tottenham,Tottenham Hotspur,74,high,✅
+Manuel Prietl,M. Prietl,prietl,Arminia,DSC Arminia Bielefeld,72,high,✅
+Vï¿½ctor Laguardia,22Â Laguardia,laguardia,Alavï¿½s,Deportivo AlavÃ©s,78,unique_lastname,✅
+Jerdy Schouten,J. Schouten,schouten,Bologna,Bologna,74,high,✅
+Robin Knoche,R. Knoche,knoche,Union Berlin,1. FC Union Berlin,76,high,✅
+Nicholas Gioacchini,N. Gioacchini,gioacchini,Montpellier,Orlando City Soccer Club,67,high,✅
 Felix Kalu Nmecha,F. Nmecha,nmecha,Wolfsburg,VfL Wolfsburg,68,high,✅
 Lukas Nmecha,L. Nmecha,nmecha,Wolfsburg,VfL Wolfsburg,78,high,✅
-Joel Obi,22Â P. Obi,obi,Salernitana,Yokohama F. Marinos,63,unique_lastname,✅
-Jï¿½rï¿½me Roussillon,J. Roussillon,roussillon,Wolfsburg,VfL Wolfsburg,76,high,✅
-Adnan Januzaj,22Â A. Januzaj,januzaj,Real Sociedad,Real Sociedad,81,unique_lastname,✅
-Fred,Fred,fred,Manchester Utd,Manchester United,80,high,✅
-Amine Bassi,D. Bassi,bassi,Metz,TromsÃ¸ IL,53,unique_lastname,✅
-Dwight McNeil,D. McNeil,mcneil,Burnley,Everton,76,high,✅
-Sergio Asenjo,Sergio Asenjo,asenjo,Villarreal,Real Valladolid CF,79,high,✅
-Vï¿½ctor Laguardia,22Â Laguardia,laguardia,Alavï¿½s,Deportivo AlavÃ©s,78,unique_lastname,✅
-Tommaso Augello,T. Augello,augello,Sampdoria,U.C. Sampdoria,72,high,✅
-Ibrahim Amadou,22Â I. Amadou,amadou,Metz,FC Metz,73,unique_lastname,✅
-Zinho Vanheusden,Z. Vanheusden,vanheusden,Genoa,AZ Alkmaar,72,high,✅
-Marc Albrighton,M. Albrighton,albrighton,Leicester City,Leicester City,75,high,✅
-Florian Wirtz,F. Wirtz,wirtz,Leverkusen,Bayer 04 Leverkusen,82,high,✅
-Zack Steffen,Z. Steffen,steffen,Manchester City,Middlesbrough,77,high,✅
-Clinton Mola,C. Mola,mola,Stuttgart,VfB Stuttgart,65,high,✅
-Marash Kumbulla,M. Kumbulla,kumbulla,Roma,Roma,75,high,✅
-Sergi Roberto,Sergi Roberto,roberto,Barcelona,FC Barcelona,80,high,✅
-David Raum,D. Raum,raum,Hoffenheim,RB Leipzig,81,high,✅
-Matias Arezo,M. Arezo,arezo,Granada,Granada CF,68,high,✅
-Beto,Beto,beto,Udinese,Udinese Calcio,79,high,✅
-Alexander Djiku,A. Djiku,djiku,Strasbourg,RC Strasbourg Alsace,77,high,✅
-Jens Grahl,J. Grahl,grahl,Eint Frankfurt,Eintracht Frankfurt,66,high,✅
-Neal Maupay,N. Maupay,maupay,Brighton,Brighton & Hove Albion,76,high,✅
-Harry Kane,H. Kane,kane,Tottenham,Tottenham Hotspur,89,high,✅
-Amadou Haidara,A. Haidara,haidara,RB Leipzig,RB Leipzig,78,high,✅
-Peru Nolaskoain,Nolaskoain,nolaskoain,Athletic Club,Athletic Club de Bilbao,68,unique_lastname,✅
-Breel Embolo,B. Embolo,embolo,M'Gladbach,AS Monaco,77,high,✅
-Alessandro Zanoli,A. Zanoli,zanoli,Napoli,Napoli,69,high,✅
-Mason Holgate,M. Holgate,holgate,Everton,Everton,75,high,✅
-Miguel Baeza,Miguel Baeza,baeza,Celta Vigo,RC Celta de Vigo,68,high,✅
-Alejandro Balde,Balde,balde,Barcelona,FC Barcelona,68,unique_lastname,✅
-Mehdi Chahiri,M. Chahiri,chahiri,Strasbourg,Paris FC,69,high,✅
-Thibaut Courtois,T. Courtois,courtois,Real Madrid,Real Madrid CF,90,high,✅
-Kasper Dolberg,K. Dolberg,dolberg,Nice,OGC Nice,77,high,✅
-Cristian Ansaldi,22Â C. Ansaldi,ansaldi,Torino,Torino F.C.,76,unique_lastname,✅
-Michael Olise,M. Olise,olise,Crystal Palace,Crystal Palace,76,high,✅
-Nemanja Gudelj,N. Gudelj,gudelj,Sevilla,Sevilla FC,79,high,✅
-Castello Lukeba,C. Lukeba,lukeba,Lyon,Olympique Lyonnais,76,high,✅
-Mï¿½rgim Vojvoda,M. Vojvoda,vojvoda,Torino,Torino F.C.,74,high,✅
-Jeremy Dudziak,J. Dudziak,dudziak,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,72,high,✅
+Riccardo Orsolini,R. Orsolini,orsolini,Bologna,Bologna,76,high,✅
+Rodrygo,Rodrygo,rodrygo,Real Madrid,Real Madrid CF,81,high,✅
+Tobias Raschl,T. Raschl,raschl,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,69,high,✅
+ï¿½ngel Montoro,Montoro,montoro,Granada,Real Oviedo,77,unique_lastname,✅
+Erik Thommy,E. Thommy,thommy,Stuttgart,Sporting Kansas City,72,high,✅
+Wylan Cyprien,W. Cyprien,cyprien,Nantes,Parma,72,high,✅
+Steve Mandanda,S. Mandanda,mandanda,Marseille,Stade Rennais FC,79,high,✅
+Ludovic Ajorque,L. Ajorque,ajorque,Strasbourg,RC Strasbourg Alsace,79,high,✅
+Manuel Lanzini,M. Lanzini,lanzini,West Ham,West Ham United,79,high,✅
+Federico Bernardeschi,F. Bernardeschi,bernardeschi,Juventus,Toronto FC,79,high,✅
+Ivï¿½n Alejo,IvÃ¡n Alejo,alejo,Cï¿½diz,CÃ¡diz CF,75,high,✅
+Jordan Tell,J. Tell,tell,Clermont Foot,Grenoble Foot 38,66,high,✅
+Stanislav Lobotka,S. Lobotka,lobotka,Napoli,Napoli,81,high,✅
+Ridgeciano Haps,R. Haps,haps,Venezia,Venezia FC,73,high,✅
+Vitaliy Mykolenko,V. Mykolenko,mykolenko,Everton,Everton,76,high,✅
+Nathan Tella,N. Tella,tella,Southampton,Southampton,67,high,✅
+Omar Alderete,O. Alderete,alderete,Valencia,Hertha BSC,76,high,✅
+Jakub Kiwior,J. Kiwior,kiwior,Spezia,Spezia,71,high,✅
+Jordi Mboula,Jordi Mboula,mboula,Mallorca,RCD Mallorca,71,high,✅
+Alex Meret,A. Meret,meret,Napoli,Napoli,78,high,✅
+Koen Casteels,K. Casteels,casteels,Wolfsburg,VfL Wolfsburg,84,high,✅
+Salis Abdul Samed,S. Abdul Samed,samed,Clermont Foot,Racing Club de Lens,71,high,✅
+Danilo Cataldi,D. Cataldi,cataldi,Lazio,Lazio,76,high,✅
+Osman Bukari,22Â O. Bukari,bukari,Nantes,FC Nantes,69,unique_lastname,✅
+John Stones,J. Stones,stones,Manchester City,Manchester City,83,high,✅
+Stole Dimitrievski,S. Dimitrievski,dimitrievski,Rayo Vallecano,Rayo Vallecano,78,high,✅
+Casemiro,Casemiro,casemiro,Real Madrid,Real Madrid CF,89,high,✅
+Edimilson Fernandes,E. Fernandes,fernandes,Arminia,1. FSV Mainz 05,71,high,✅
+Ki-Jana Hoever,K. Hoever,hoever,Wolves,PSV,67,high,✅
+Arber Zeneli,B. Zeneli,zeneli,Reims,IF Elfsborg,55,unique_lastname,✅
+Kalidou Koulibaly,K. Koulibaly,koulibaly,Napoli,Chelsea,87,high,✅
+Terem Moffi,T. Moffi,moffi,Lorient,FC Lorient,72,high,✅
+Alessandro Deiola,A. Deiola,deiola,Cagliari,Cagliari,67,high,✅
+Banzouzi Locko,B. Locko,locko,Reims,Stade de Reims,70,high,✅
+Mario Lemina,M. Lemina,lemina,Nice,OGC Nice,75,high,✅
+Kevin Kampl,K. Kampl,kampl,RB Leipzig,RB Leipzig,80,high,✅
+Mathias Pereira Lage,M. Pereira Lage,lage,Angers,Stade Brestois 29,72,high,✅
+Vincenzo Grifo,V. Grifo,grifo,Freiburg,Sport-Club Freiburg,81,high,✅
+Alessandro Bastoni,A. Bastoni,bastoni,Inter,Inter,84,high,✅
+Simone Bastoni,S. Bastoni,bastoni,Spezia,Spezia,72,high,✅
+James McArthur,J. McArthur,mcarthur,Crystal Palace,Crystal Palace,75,high,✅
+Carlos Soler,Carlos Soler,soler,Valencia,Valencia CF,83,high,✅
+Nampalys Mendy,N. Mendy,mendy,Leicester City,Leicester City,74,high,✅
+Alexander Schwolow,A. Schwolow,schwolow,Hertha BSC,FC Schalke 04,75,high,✅
+Raï¿½l Albiol,RaÃºl Albiol,albiol,Villarreal,Villarreal CF,82,high,✅
+Thomas Foket,T. Foket,foket,Reims,Stade de Reims,75,high,✅
+Leonardo Mancuso,E. Mancuso,mancuso,Empoli,Estudiantes de La Plata,64,unique_lastname,✅
+Christos Tzolis,C. Tzolis,tzolis,Norwich City,FC Twente,72,high,✅
 Clï¿½ment Lenglet,C. Lenglet,lenglet,Barcelona,Tottenham Hotspur,78,high,✅
-Adil Aouchiche,A. Aouchiche,aouchiche,Saint-ï¿½tienne,AS Saint-Ãtienne,72,high,✅
-Ozan Kabak,O. Kabak,kabak,Norwich City,TSG Hoffenheim,73,high,✅
-Cï¿½dric Bakambu,C. Bakambu,bakambu,Marseille,Olympique de Marseille,76,high,✅
-Bryan Lasme,B. Lasme,lasme,Arminia,DSC Arminia Bielefeld,69,high,✅
+Walace,Walace,walace,Udinese,Udinese Calcio,74,high,✅
+Nacho,20Â Nacho,nacho,Real Madrid,CD Numancia,66,unique_lastname,✅
+Lilian Brassier,L. Brassier,brassier,Brest,Stade Brestois 29,72,high,✅
+Christian Kabasele,C. Kabasele,kabasele,Watford,Watford,74,high,✅
+Gianluca Busio,G. Busio,busio,Venezia,Venezia FC,73,high,✅
+Tï¿½ji Savanier,T. Savanier,savanier,Montpellier,Montpellier HÃ©rault SC,81,high,✅
+Idrissa Gana Gueye,I. Gueye,gueye,Paris S-G,Paris Saint-Germain,82,high,✅
+Lamine Gueye,L. Gueye,gueye,Metz,FC Metz,72,high,✅
 Jan Bednarek,J. Bednarek,bednarek,Southampton,Southampton,76,high,✅
-Diego Perotti,22Â D. Perotti,perotti,Salernitana,US Salernitana 1919,74,unique_lastname,✅
-Jeremy Doku,J. Doku,doku,Rennes,Stade Rennais FC,75,high,✅
-Ben Godfrey,B. Godfrey,godfrey,Everton,Everton,77,high,✅
-Malo Gusto,M. Gusto,gusto,Lyon,Olympique Lyonnais,75,high,✅
-Sam Greenwood,S. Greenwood,greenwood,Leeds United,Leeds United,67,high,✅
+Manu Morlanes,Manu Morlanes,morlanes,Espanyol,Villarreal CF,73,high,✅
+Robin Zentner,R. Zentner,zentner,Mainz 05,1. FSV Mainz 05,76,high,✅
+Dayot Upamecano,D. Upamecano,upamecano,Bayern Munich,FC Bayern MÃ¼nchen,81,high,✅
+Christopher Lenz,C. Lenz,lenz,Eint Frankfurt,Eintracht Frankfurt,74,high,✅
+Nicolï¿½ Casale,N. Casale,casale,Hellas Verona,Lazio,76,high,✅
+Donyell Malen,D. Malen,malen,Dortmund,Borussia Dortmund,79,high,✅
+Cedric Itten,C. Itten,itten,Greuther Fï¿½rth,BSC Young Boys,69,high,✅
+Javi Puado,Puado,puado,Espanyol,RCD Espanyol de Barcelona,78,unique_lastname,✅
+Chris Richards,C. Richards,richards,Hoffenheim,Crystal Palace,74,high,✅
+Omar Richards,O. Richards,richards,Bayern Munich,Nottingham Forest,73,high,✅
+Aleksandr Golovin,A. Golovin,golovin,Monaco,AS Monaco,79,high,✅
+Saman Ghoddos,S. Ghoddos,ghoddos,Brentford,Brentford,68,high,✅
+Federico Bonazzoli,F. Bonazzoli,bonazzoli,Salernitana,US Salernitana 1919,73,high,✅
+Youssoufa Moukoko,Y. Moukoko,moukoko,Dortmund,Borussia Dortmund,69,high,✅
+Radamel Falcao,Falcao,falcao,Rayo Vallecano,Rayo Vallecano,76,unique_lastname,✅
+Joï¿½o Moutinho,JoÃ£o Moutinho,moutinho,Wolves,Wolverhampton Wanderers,81,high,✅
+Benoï¿½t Badiashile,B. Badiashile,badiashile,Monaco,AS Monaco,77,high,✅
+Tyrone Mings,T. Mings,mings,Aston Villa,Aston Villa,78,high,✅
+Jean-Ricner Bellegarde,J. Bellegarde,bellegarde,Strasbourg,RC Strasbourg Alsace,75,high,✅
+Andrew Gravillon,A. Gravillon,gravillon,Reims,Stade de Reims,74,high,✅
+Amadou Haidara,A. Haidara,haidara,RB Leipzig,RB Leipzig,78,high,✅
+Cï¿½sar Azpilicueta,Azpilicueta,azpilicueta,Chelsea,Chelsea,82,unique_lastname,✅
+ï¿½rik Lamela,E. Lamela,lamela,Sevilla,Sevilla FC,79,unique_lastname,✅
+Denis Bouanga,D. Bouanga,bouanga,Saint-ï¿½tienne,Los Angeles FC,75,high,✅
+Cristiano Piccini,22Â C. Piccini,piccini,Valencia,Valencia CF,74,unique_lastname,✅
+Guglielmo Vicario,G. Vicario,vicario,Empoli,Empoli,78,high,✅
+Lewis Dunk,H. Dunk,dunk,Brighton,Cambridge United,64,unique_lastname,✅
+Ardian Ismajli,A. Ismajli,ismajli,Empoli,Empoli,71,high,✅
+Luca Waldschmidt,L. Waldschmidt,waldschmidt,Wolfsburg,VfL Wolfsburg,75,high,✅
 Julian Pollersbeck,J. Pollersbeck,pollersbeck,Lyon,Olympique Lyonnais,70,high,✅
-Ambroise Oyongo,22Â A. Oyongo,oyongo,Montpellier,Montpellier HÃ©rault SC,72,unique_lastname,✅
-Nicolas Nkoulou,22Â N. Nkoulou,nkoulou,Watford,Watford,75,unique_lastname,✅
-Sven Botman,S. Botman,botman,Lille,Newcastle United,80,high,✅
-Mats Hummels,M. Hummels,hummels,Dortmund,Borussia Dortmund,84,high,✅
-Thomas Strakosha,T. Strakosha,strakosha,Lazio,Brentford,78,high,✅
+Marc Cucurella,Cucurella,cucurella,Brighton,Chelsea,81,unique_lastname,✅
+Karol Fila,D. Fila,fila,Strasbourg,SK Slavia Praha,68,unique_lastname,✅
+Adam Obert,A. Obert,obert,Cagliari,Cagliari,63,high,✅
+Mattia Perin,M. Perin,perin,Juventus,Juventus,79,high,✅
+Joelinton,Joelinton,joelinton,Newcastle Utd,Newcastle United,75,high,✅
+Portu,Portu,portu,Real Sociedad,Getafe CF,78,high,✅
+Karl Toko Ekambi,K. Toko Ekambi,ekambi,Lyon,Olympique Lyonnais,78,high,✅
+Giulian Biancone,G. Biancone,biancone,Troyes,Nottingham Forest,70,high,✅
+Matï¿½as Vecino,T. Vecino,vecino,Inter,Liverpool FÃºtbol Club,66,unique_lastname,✅
+Florian Grillitsch,22Â F. Grillitsch,grillitsch,Hoffenheim,TSG Hoffenheim,78,unique_lastname,✅
+Hans Hateboer,H. Hateboer,hateboer,Atalanta,Atalanta,80,high,✅
+Kostas Stafylidis,K. Stafylidis,stafylidis,Bochum,VfL Bochum 1848,72,high,✅
+Houssem Aouar,H. Aouar,aouar,Lyon,Olympique Lyonnais,79,high,✅
+Joseph Scally,J. Scally,scally,M'Gladbach,Borussia MÃ¶nchengladbach,71,high,✅
+Sada Thioub,21Â T. Thioub,thioub,Saint-ï¿½tienne,Pau FC,60,unique_lastname,✅
+Jack Butland,J. Butland,butland,Crystal Palace,Crystal Palace,73,high,✅
+Adnan Januzaj,22Â A. Januzaj,januzaj,Real Sociedad,Real Sociedad,81,unique_lastname,✅
+James Justin,J. Justin,justin,Leicester City,Leicester City,76,high,✅
 Florian Neuhaus,F. Neuhaus,neuhaus,M'Gladbach,Borussia MÃ¶nchengladbach,80,high,✅
-Sebastian Giovinco,22Â S. Giovinco,giovinco,Sampdoria,U.C. Sampdoria,76,unique_lastname,✅
+Alessandro Zanoli,A. Zanoli,zanoli,Napoli,Napoli,69,high,✅
+Vincent Le Goff,V. Le Goff,goff,Lorient,FC Lorient,71,high,✅
+Rafa? Gikiewicz,R. Gikiewicz,gikiewicz,Augsburg,FC Augsburg,77,high,✅
+Adam Idah,A. Idah,idah,Norwich City,Norwich City,68,high,✅
+Liam Henderson,L. Henderson,henderson,Empoli,Empoli,72,high,✅
+James Milner,J. Milner,milner,Liverpool,Liverpool,78,high,✅
+Geoffrey Kondogbia,G. Kondogbia,kondogbia,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,82,high,✅
+Arkadiusz Milik,A. Milik,milik,Marseille,Olympique de Marseille,79,high,✅
+Suat Serdar,S. Serdar,serdar,Hertha BSC,Hertha BSC,77,high,✅
+Marco Sportiello,M. Sportiello,sportiello,Atalanta,Atalanta,75,high,✅
+Orel Mangala,O. Mangala,mangala,Stuttgart,Nottingham Forest,75,high,✅
+Leonardo Balerdi,L. Balerdi,balerdi,Marseille,Olympique de Marseille,75,high,✅
+Nani,Nani,nani,Venezia,Melbourne Victory,77,high,✅
+Moses Simon,M. Simon,simon,Nantes,FC Nantes,77,high,✅
+Exequiel Palacios,E. Palacios,palacios,Leverkusen,Bayer 04 Leverkusen,78,high,✅
+Helibelton Palacios,H. Palacios,palacios,Elche,Elche CF,73,high,✅
+Nicola Zalewski,N. Zalewski,zalewski,Roma,Roma,74,high,✅
+Michael Olise,M. Olise,olise,Crystal Palace,Crystal Palace,76,high,✅
+Liberato Cacace,L. Cacace,cacace,Empoli,Empoli,72,high,✅
+Cristiano Biraghi,C. Biraghi,biraghi,Fiorentina,Fiorentina,80,high,✅
+Andrea Cambiaso,A. Cambiaso,cambiaso,Genoa,Bologna,72,high,✅
+ï¿½tienne Capoue,E. Capoue,capoue,Villarreal,Villarreal CF,80,unique_lastname,✅
+Ademola Lookman,A. Lookman,lookman,Leicester City,Atalanta,77,high,✅
+Corentin Tolisso,C. Tolisso,tolisso,Bayern Munich,Olympique Lyonnais,81,high,✅
+Birger Meling,B. Meling,meling,Rennes,Stade Rennais FC,76,high,✅
+Iddrisu Baba,I. Baba,baba,Mallorca,RCD Mallorca,75,high,✅
+Thiago Silva,T. Silva,silva,Chelsea,San Lorenzo de Almagro,61,high,✅
+Iker Muniain,Muniain,muniain,Athletic Club,Athletic Club de Bilbao,84,unique_lastname,✅
+Jordan Torunarigha,J. Torunarigha,torunarigha,Hertha BSC,KAA Gent,73,high,✅
+Presnel Kimpembe,P. Kimpembe,kimpembe,Paris S-G,Paris Saint-Germain,83,high,✅
+Ishak Belfodil,22Â I. Belfodil,belfodil,Hertha BSC,Hertha BSC,75,unique_lastname,✅
+Michael Svoboda,M. Svoboda,svoboda,Venezia,Venezia FC,66,high,✅
+Junior Messias,Junior Messias,messias,Milan,AC Milan,78,high,✅
+Bram Nuytinck,B. Nuytinck,nuytinck,Udinese,Udinese Calcio,75,high,✅
+Marash Kumbulla,M. Kumbulla,kumbulla,Roma,Roma,75,high,✅
+Bukayo Saka,B. Saka,saka,Arsenal,Arsenal,82,high,✅
+Armando Broja,A. Broja,broja,Southampton,Chelsea,75,high,✅
+Hugo Duro,Hugo Duro,duro,Valencia,Valencia CF,77,high,✅
+Jonathan Gradit,J. Gradit,gradit,Lens,Racing Club de Lens,75,high,✅
+Dani Carvajal,Carvajal,carvajal,Real Madrid,Real Madrid CF,84,unique_lastname,✅
+Lucas Olaza,L. Olaza,olaza,Elche,Real Valladolid CF,75,high,✅
+Benjamin Bourigeaud,B. Bourigeaud,bourigeaud,Rennes,Stade Rennais FC,81,high,✅
+Ederson,Ederson,ederson,Manchester City,Manchester City,89,high,✅
+Valon Behrami,V. Behrami,behrami,Genoa,Servette FC,55,high,✅
+David Alaba,D. Alaba,alaba,Real Madrid,Real Madrid CF,86,high,✅
+Bryan Lasme,B. Lasme,lasme,Arminia,DSC Arminia Bielefeld,69,high,✅
+Andreas Voglsammer,A. Voglsammer,voglsammer,Union Berlin,1. FC Union Berlin,73,high,✅
+Dennis Praet,D. Praet,praet,Torino,Leicester City,78,high,✅
+Tanner Tessmann,T. Tessmann,tessmann,Venezia,Venezia FC,66,high,✅
+Ismaï¿½l Bennacer,I. Bennacer,bennacer,Milan,AC Milan,82,high,✅
+John McGinn,J. McGinn,mcginn,Aston Villa,Aston Villa,79,high,✅
+Pierrick Capelle,P. Capelle,capelle,Angers,Angers SCO,74,high,✅
+Angus Gunn,A. Gunn,gunn,Norwich City,Norwich City,72,high,✅
+Alfre? Finnbogason,22Â A. Finnbogason,finnbogason,Augsburg,FC Augsburg,73,unique_lastname,✅
+Matteo Gabbia,M. Gabbia,gabbia,Milan,AC Milan,70,high,✅
+Stephan El Shaarawy,S. El Shaarawy,shaarawy,Roma,Roma,77,high,✅
+Juraj Kucka,22Â J. Kucka,kucka,Watford,Watford,75,unique_lastname,✅
+Brandon Soppy,B. Soppy,soppy,Udinese,Udinese Calcio,70,high,✅
+Donny van de Beek,D. van de Beek,beek,Everton,Manchester United,79,high,✅
+Willi Orban,W. Orban,orban,RB Leipzig,RB Leipzig,82,high,✅
+Marc Albrighton,M. Albrighton,albrighton,Leicester City,Leicester City,75,high,✅
+Aitor Ruibal,Aitor Ruibal,ruibal,Betis,Real Betis BalompiÃ©,74,high,✅
+Davide Frattesi,D. Frattesi,frattesi,Sassuolo,U.S. Sassuolo Calcio,77,high,✅
+Pablo Fornals,Pablo Fornals,fornals,West Ham,West Ham United,79,high,✅
+Jï¿½rï¿½my Morel,J. Morel,morel,Lorient,Estudiantes de La Plata,70,high,✅
+Luca Zidane,22Â L. Zidane,zidane,Rayo Vallecano,Rayo Vallecano,69,unique_lastname,✅
+Georginio Rutter,G. Rutter,rutter,Hoffenheim,TSG Hoffenheim,75,high,✅
+Wahbi Khazri,W. Khazri,khazri,Saint-ï¿½tienne,Montpellier HÃ©rault SC,75,high,✅
+Roberto Massimo,22Â R. Massimo,massimo,Stuttgart,VfB Stuttgart,69,unique_lastname,✅
+Dennis Jastrzembski,D. Jastrzembski,jastrzembski,Hertha BSC,ÅlÄsk WrocÅaw,66,high,✅
+Mikel Balenziaga,Balenziaga,balenziaga,Athletic Club,Athletic Club de Bilbao,75,unique_lastname,✅
+Erik Durm,E. Durm,durm,Eint Frankfurt,1. FC Kaiserslautern,72,high,✅
+Sascha Burchert,S. Burchert,burchert,Greuther Fï¿½rth,FC St. Pauli,70,high,✅
+Andreas Luthe,A. Luthe,luthe,Union Berlin,1. FC Kaiserslautern,75,high,✅
+Stefan Lainer,S. Lainer,lainer,M'Gladbach,Borussia MÃ¶nchengladbach,77,high,✅
+Paulo Dybala,P. Dybala,dybala,Juventus,Roma,86,high,✅
+Mohamed Elyounoussi,M. Elyounoussi,elyounoussi,Southampton,Southampton,76,high,✅
+Adrien Thomasson,A. Thomasson,thomasson,Strasbourg,RC Strasbourg Alsace,77,high,✅
+Sandro Tonali,S. Tonali,tonali,Milan,AC Milan,84,high,✅
+Takuma Asano,22Â Y. Asano,asano,Bochum,Sanfrecce Hiroshima,67,unique_lastname,✅
+Aster Vranckx,A. Vranckx,vranckx,Wolfsburg,VfL Wolfsburg,73,high,✅
+Mamadou Sakho,M. Sakho,sakho,Montpellier,Montpellier HÃ©rault SC,76,high,✅
+Ebrima Colley,E. Colley,colley,Spezia,Atalanta,67,high,✅
+Christian Benteke,C. Benteke,benteke,Crystal Palace,D.C. United,74,high,✅
+Francis Coquelin,F. Coquelin,coquelin,Villarreal,Villarreal CF,80,high,✅
+Patrick Cutrone,P. Cutrone,cutrone,Empoli,Wolverhampton Wanderers,72,high,✅
+Hugo Ekitike,H. Ekitike,ekitike,Reims,Paris Saint-Germain,76,high,✅
+Wajdi Kechrida,W. Kechrida,kechrida,Salernitana,US Salernitana 1919,65,high,✅
+Nicolï¿½ Barella,N. Barella,barella,Inter,Inter,86,high,✅
+Anthony Modeste,A. Modeste,modeste,Kï¿½ln,Borussia Dortmund,79,high,✅
+Pietro Ceccaroni,P. Ceccaroni,ceccaroni,Venezia,Venezia FC,72,high,✅
+Ernesto Torregrossa,E. Torregrossa,torregrossa,Sampdoria,Pisa,71,high,✅
+Alexis Tibidi,22Â A. Tibidi,tibidi,Stuttgart,VfB Stuttgart,64,unique_lastname,✅
+Juan Cuadrado,J. Cuadrado,cuadrado,Juventus,Juventus,83,high,✅
+Igor Carioca,22Â Diego Carioca,carioca,Lorient,Jagiellonia BiaÅystok,63,unique_lastname,✅
+Jeremy Dudziak,J. Dudziak,dudziak,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,72,high,✅
+Filippo Delli Carri,F. Delli Carri,carri,Salernitana,Como,63,high,✅
+Aaron Cresswell,A. Cresswell,cresswell,West Ham,West Ham United,78,high,✅
+Charlie Cresswell,C. Cresswell,cresswell,Leeds United,Millwall,67,high,✅
+Lukas Klostermann,L. Klostermann,klostermann,RB Leipzig,RB Leipzig,80,high,✅
+Coke,22Â Coke,coke,Levante,Levante UniÃ³n Deportiva,70,unique_lastname,✅
+Ilija Nestorovski,I. Nestorovski,nestorovski,Udinese,Udinese Calcio,71,high,✅
+Renan Lodi,Renan Lodi,lodi,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,80,high,✅
+Steven Alzate,S. Alzate,alzate,Brighton,Brighton & Hove Albion,71,high,✅
+Ghislain Konan,G. Konan,konan,Reims,Al Nassr,76,high,✅
+Ricardo Pepi,R. Pepi,pepi,Augsburg,FC Augsburg,69,high,✅
+Roberto Soldado,Soldado,soldado,Levante,Levante UniÃ³n Deportiva,73,unique_lastname,✅
+Mats Hummels,M. Hummels,hummels,Dortmund,Borussia Dortmund,84,high,✅
+Valentino Livramento,T. Livramento,livramento,Southampton,Southampton,75,unique_lastname,✅
+Boulaye Dia,B. Dia,dia,Villarreal,Villarreal CF,79,high,✅
+Crysencio Summerville,C. Summerville,summerville,Leeds United,Leeds United,69,high,✅
+Andre-Frank Zambo Anguissa,A. Zambo Anguissa,anguissa,Napoli,Napoli,81,high,✅
+Wilfred Ndidi,W. Ndidi,ndidi,Leicester City,Leicester City,84,high,✅
+Pawe? Dawidowicz,P. Dawidowicz,dawidowicz,Hellas Verona,Hellas Verona,75,high,✅
+Moanes Dabbur,M. Dabbur,dabbur,Hoffenheim,TSG Hoffenheim,75,high,✅
+Gabriel Dos Santos,21Â G. de los Santos,santos,Arsenal,C.D. Universidad CatÃ³lica del Ecuador,66,unique_lastname,✅
+Louis Schaub,L. Schaub,schaub,Kï¿½ln,Hannover 96,73,high,✅
+Kasper Schmeichel,K. Schmeichel,schmeichel,Leicester City,OGC Nice,83,high,✅
+Issa Diop,I. Diop,diop,West Ham,West Ham United,77,high,✅
+Sofiane Diop,S. Diop,diop,Monaco,AS Monaco,78,high,✅
+Breel Embolo,B. Embolo,embolo,M'Gladbach,AS Monaco,77,high,✅
+Sofiane Boufal,S. Boufal,boufal,Angers,Angers SCO,77,high,✅
+Fabian Kunze,L. Kunze,kunze,Arminia,VfL OsnabrÃ¼ck,65,unique_lastname,✅
+Ivï¿½n Marcone,I. Marcone,marcone,Elche,Club AtlÃ©tico Independiente,76,high,✅
+Jï¿½rgen Locadia,22Â J. Locadia,locadia,Bochum,VfL Bochum 1848,70,unique_lastname,✅
+Aleksei Miranchuk,A. Miranchuk,miranchuk,Atalanta,Atalanta,78,high,✅
+Marcus Rashford,M. Rashford,rashford,Manchester Utd,Manchester United,81,high,✅
+Anwar El Ghazi,A. El Ghazi,ghazi,Aston Villa,Aston Villa,75,high,✅
+Julian Brandt,J. Brandt,brandt,Dortmund,Borussia Dortmund,82,high,✅
+Moussa Djenepo,M. Djenepo,djenepo,Southampton,Southampton,74,high,✅
+Riccardo Sottil,R. Sottil,sottil,Fiorentina,Fiorentina,75,high,✅
+Axel Witsel,A. Witsel,witsel,Dortmund,AtlÃ©tico de Madrid,79,high,✅
+Andrea Consigli,A. Consigli,consigli,Sassuolo,U.S. Sassuolo Calcio,80,high,✅
+Alex Petxa,Ãlex Petxa,petxa,Athletic Club,Athletic Club de Bilbao,66,unique_lastname,✅
+Alexander Djiku,A. Djiku,djiku,Strasbourg,RC Strasbourg Alsace,77,high,✅
+Mato Jajalo,M. Jajalo,jajalo,Udinese,Udinese Calcio,72,high,✅
+Mikel Oyarzabal,Oyarzabal,oyarzabal,Real Sociedad,Real Sociedad,84,unique_lastname,✅
+Leonardo Pavoletti,L. Pavoletti,pavoletti,Cagliari,Cagliari,73,high,✅
+Mickael Malsa,M. Malsa,malsa,Levante,Levante UniÃ³n Deportiva,73,high,✅
+Daley Sinkgraven,D. Sinkgraven,sinkgraven,Leverkusen,Bayer 04 Leverkusen,73,high,✅
+Fraser Forster,F. Forster,forster,Southampton,Tottenham Hotspur,76,high,✅
+Christopher Trimmel,C. Trimmel,trimmel,Union Berlin,1. FC Union Berlin,77,high,✅
+Hannes Wolf,H. Wolf,wolf,M'Gladbach,Borussia MÃ¶nchengladbach,72,high,✅
+Marius Wolf,M. Wolf,wolf,Dortmund,Borussia Dortmund,77,high,✅
+Dickson Abiama,D. Abiama,abiama,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,68,high,✅
+Nicolas Cozza,N. Cozza,cozza,Montpellier,Montpellier HÃ©rault SC,74,high,✅
+Charlie Goode,C. Goode,goode,Brentford,Brentford,67,high,✅
+Ryan Fredericks,R. Fredericks,fredericks,West Ham,AFC Bournemouth,75,high,✅
+Ross Barkley,R. Barkley,barkley,Chelsea,Chelsea,76,high,✅
+Yassine Bounou,Y. Bounou,bounou,Sevilla,Sevilla FC,84,high,✅
+Beto,Beto,beto,Udinese,Udinese Calcio,79,high,✅
+Paul Akouokou,P. Akouokou,akouokou,Betis,Real Betis BalompiÃ©,70,high,✅
 Islam Slimani,I. Slimani,slimani,Lyon,Sporting CP,75,high,✅
-Stefanos Kapino,S. Kapino,kapino,Arminia,DSC Arminia Bielefeld,72,high,✅
-Hugo Sotelo,Hugo Sotelo,sotelo,Celta Vigo,RC Celta de Vigo,59,high,✅
-Riccardo Ciervo,R. Ciervo,ciervo,Sampdoria,Frosinone,61,high,✅
-Dion Lopy,D. Lopy,lopy,Reims,Stade de Reims,71,high,✅
-Djibril Sow,D. Sow,sow,Eint Frankfurt,Eintracht Frankfurt,80,high,✅
-Saidou Sow,S. Sow,sow,Saint-ï¿½tienne,AS Saint-Ãtienne,70,high,✅
-Randal Kolo Muani,R. Kolo Muani,muani,Nantes,Eintracht Frankfurt,78,high,✅
-Fabien Centonze,F. Centonze,centonze,Metz,FC Metz,75,high,✅
-Franck Honorat,F. Honorat,honorat,Brest,Stade Brestois 29,77,high,✅
-Danny Ward,D. Ward,ward,Leicester City,Leicester City,75,high,✅
-Albert Sambi Lokonga,A. Sambi Lokonga,lokonga,Arsenal,Arsenal,75,high,✅
+Ilan Kebbal,I. Kebbal,kebbal,Reims,Stade de Reims,74,high,✅
+Gaï¿½l Kakuta,G. Kakuta,kakuta,Lens,Racing Club de Lens,76,high,✅
+Daniele Verde,D. Verde,verde,Spezia,Spezia,75,high,✅
+Isco,Isco,isco,Real Madrid,Sevilla FC,82,high,✅
+Suso,Suso,suso,Sevilla,Sevilla FC,79,high,✅
+Brandon Domingues,B. Domingues,domingues,Troyes,ESTAC Troyes,66,high,✅
+Patrik Schick,P. Schick,schick,Leverkusen,Bayer 04 Leverkusen,85,high,✅
+Tommaso Pobega,T. Pobega,pobega,Torino,AC Milan,76,high,✅
+Andros Townsend,A. Townsend,townsend,Everton,Everton,76,high,✅
+Michael Gregoritsch,M. Gregoritsch,gregoritsch,Augsburg,Sport-Club Freiburg,75,high,✅
+Simeon Nwankwo,S. Nwankwo,nwankwo,Salernitana,MjÃ¤llby AIF,61,high,✅
+Jamal Musiala,J. Musiala,musiala,Bayern Munich,FC Bayern MÃ¼nchen,81,high,✅
+Stephy Mavididi,S. Mavididi,mavididi,Montpellier,Montpellier HÃ©rault SC,77,high,✅
+Angelo Fulgini,A. Fulgini,fulgini,Angers,1. FSV Mainz 05,77,high,✅
+Enis Bardhi,E. Bardhi,bardhi,Levante,Levante UniÃ³n Deportiva,76,high,✅
+Yuri Berchiche,Yuri Berchiche,berchiche,Athletic Club,Athletic Club de Bilbao,82,high,✅
+Timothy Castagne,T. Castagne,castagne,Leicester City,Leicester City,78,high,✅
+Iï¿½igo Lekue,Lekue,lekue,Athletic Club,Athletic Club de Bilbao,75,unique_lastname,✅
+Karl Darlow,K. Darlow,darlow,Newcastle Utd,Newcastle United,75,high,✅
+Mitchell van Bergen,M. van Bergen,bergen,Reims,Stade de Reims,72,high,✅
+Federico Chiesa,F. Chiesa,chiesa,Juventus,Juventus,84,high,✅
+Alessandro Buongiorno,A. Buongiorno,buongiorno,Torino,Torino F.C.,68,high,✅
+Dimitry Bertaud,D. Bertaud,bertaud,Montpellier,Montpellier HÃ©rault SC,74,high,✅
+Jack Grealish,J. Grealish,grealish,Manchester City,Manchester City,84,high,✅
+Chrislain Matsima,C. Matsima,matsima,Monaco,AS Monaco,69,high,✅
+Martin Satriano,M. Satriano,satriano,Brest,Empoli,72,high,✅
+Gonzalo Melero,Melero,melero,Levante,Levante UniÃ³n Deportiva,74,unique_lastname,✅
+Amine Bassi,D. Bassi,bassi,Metz,TromsÃ¸ IL,53,unique_lastname,✅
+Daichi Kamada,D. Kamada,kamada,Eint Frankfurt,Eintracht Frankfurt,80,high,✅
 Hï¿½ctor Herrera,H. Herrera,herrera,Atlï¿½tico Madrid,Houston Dynamo,80,high,✅
 Sergio Herrera,S. Herrera,herrera,Osasuna,Deportivo La Guaira FC,65,high,✅
 Yangel Herrera,Y. Herrera,herrera,Espanyol,Girona FC,76,high,✅
-Lennart Grill,L. Grill,grill,Leverkusen,1. FC Union Berlin,69,high,✅
-Stephan El Shaarawy,S. El Shaarawy,shaarawy,Roma,Roma,77,high,✅
-Ike Ugbo,I. Ugbo,ugbo,Troyes,ESTAC Troyes,72,high,✅
-Brain Oddei,B. Oddei,oddei,Sassuolo,U.S. Sassuolo Calcio,64,high,✅
-Steffen Tigges,S. Tigges,tigges,Dortmund,1. FC KÃ¶ln,68,high,✅
-Ibrahima Mbaye,21Â M. Mbaye,mbaye,Bologna,FC Porto,63,unique_lastname,✅
-Edimilson Fernandes,E. Fernandes,fernandes,Arminia,1. FSV Mainz 05,71,high,✅
-Matteo Ruggeri,M. Ruggeri,ruggeri,Salernitana,Atalanta,69,high,✅
-Rï¿½ben Vezo,RÃºben Vezo,vezo,Levante,Levante UniÃ³n Deportiva,73,high,✅
-Karl Darlow,K. Darlow,darlow,Newcastle Utd,Newcastle United,75,high,✅
-Matthijs de Ligt,M. de Ligt,ligt,Juventus,FC Bayern MÃ¼nchen,85,high,✅
-Roland Sallai,R. Sallai,sallai,Freiburg,Sport-Club Freiburg,76,high,✅
-Francesco Magnanelli,22Â F. Magnanelli,magnanelli,Sassuolo,U.S. Sassuolo Calcio,72,unique_lastname,✅
-Rafa? Gikiewicz,R. Gikiewicz,gikiewicz,Augsburg,FC Augsburg,77,high,✅
-Gabriel Dos Santos,21Â G. de los Santos,santos,Arsenal,C.D. Universidad CatÃ³lica del Ecuador,66,unique_lastname,✅
-Alejandro Garnacho,22Â Alejandro Garnacho,garnacho,Manchester Utd,Manchester United,63,unique_lastname,✅
-Lucas Martï¿½nez Quarta,L. MartÃ­nez Quarta,quarta,Fiorentina,Fiorentina,76,high,✅
-Rodrygo,Rodrygo,rodrygo,Real Madrid,Real Madrid CF,81,high,✅
-Sergiï¿½o Dest,S. Dest,dest,Barcelona,FC Barcelona,77,high,✅
-Julian Brandt,J. Brandt,brandt,Dortmund,Borussia Dortmund,82,high,✅
-Iï¿½igo Lekue,Lekue,lekue,Athletic Club,Athletic Club de Bilbao,75,unique_lastname,✅
-Masaya Okugawa,M. Okugawa,okugawa,Arminia,DSC Arminia Bielefeld,75,high,✅
-Timo Baumgartl,T. Baumgartl,baumgartl,Union Berlin,1. FC Union Berlin,76,high,✅
-Eiji Kawashima,E. Kawashima,kawashima,Strasbourg,RC Strasbourg Alsace,72,high,✅
-Lovro Majer,L. Majer,majer,Rennes,Stade Rennais FC,80,high,✅
-Andros Townsend,A. Townsend,townsend,Everton,Everton,76,high,✅
-Scott McTominay,S. McTominay,mctominay,Manchester Utd,Manchester United,80,high,✅
-Viktor Kovalenko,V. Kovalenko,kovalenko,Spezia,Spezia,71,high,✅
-Loris Benito,L. Benito,benito,Bordeaux,BSC Young Boys,70,high,✅
-Sergi Darder,Sergi Darder,darder,Espanyol,RCD Espanyol de Barcelona,82,high,✅
-Nicolas Cozza,N. Cozza,cozza,Montpellier,Montpellier HÃ©rault SC,74,high,✅
-Dilane Bakwa,D. Bakwa,bakwa,Bordeaux,FC Girondins de Bordeaux,67,high,✅
-Johan Mojica,J. Mojica,mojica,Elche,Elche CF,77,high,✅
-Matthew Hoppe,M. Hoppe,hoppe,Mallorca,RCD Mallorca,69,high,✅
-Francesco Acerbi,F. Acerbi,acerbi,Lazio,Lazio,82,high,✅
-Joe Rodon,J. Rodon,rodon,Tottenham,Stade Rennais FC,72,high,✅
-Angus Gunn,A. Gunn,gunn,Norwich City,Norwich City,72,high,✅
-Jordi Mboula,Jordi Mboula,mboula,Mallorca,RCD Mallorca,71,high,✅
-Arthur Theate,A. Theate,theate,Bologna,Stade Rennais FC,75,high,✅
-Leonardo Balerdi,L. Balerdi,balerdi,Marseille,Olympique de Marseille,75,high,✅
-Weston McKennie,W. McKennie,mckennie,Juventus,Juventus,80,high,✅
-Manuel Akanji,M. Akanji,akanji,Dortmund,Borussia Dortmund,81,high,✅
-Antonio Sivera,Sivera,sivera,Alavï¿½s,Deportivo AlavÃ©s,72,unique_lastname,✅
-Riqui Puig,Riqui Puig,puig,Barcelona,LA Galaxy,74,high,✅
-Gerard Yepes,Gerard Yepes,yepes,Sampdoria,U.C. Sampdoria,60,high,✅
-Kasim Nuhu,I. Nuhu,nuhu,Hoffenheim,KAS Eupen,64,unique_lastname,✅
-Ragnar Ache,R. Ache,ache,Eint Frankfurt,SpVgg Greuther FÃ¼rth,68,high,✅
-Arnaud Souquet,A. Souquet,souquet,Montpellier,Montpellier HÃ©rault SC,74,high,✅
-ï¿½mer Faruk Beyaz,Ã. Beyaz,beyaz,Stuttgart,1. FC Magdeburg,64,unique_lastname,✅
-Iago,Iago,iago,Augsburg,FC Augsburg,77,high,✅
-Lluï¿½s Recasens,Recasens,recasens,Espanyol,RCD Espanyol de Barcelona,61,unique_lastname,✅
-Leonardo Pavoletti,L. Pavoletti,pavoletti,Cagliari,Cagliari,73,high,✅
-Fernando Calero,21Â M. Calero,calero,Espanyol,Club AtlÃ©tico Palmaflor,59,unique_lastname,✅
-Paul Nebel,P. Nebel,nebel,Mainz 05,Karlsruher SC,65,high,✅
-Jonathan Clauss,J. Clauss,clauss,Lens,Olympique de Marseille,80,high,✅
-Enis Bardhi,E. Bardhi,bardhi,Levante,Levante UniÃ³n Deportiva,76,high,✅
-Joï¿½o Moutinho,JoÃ£o Moutinho,moutinho,Wolves,Wolverhampton Wanderers,81,high,✅
+Davide Calabria,D. Calabria,calabria,Milan,AC Milan,80,high,✅
+Youssouf Sabaly,Y. Sabaly,sabaly,Betis,Real Betis BalompiÃ©,76,high,✅
+Silvan Hefti,S. Hefti,hefti,Genoa,Genoa,74,high,✅
+Andrei Girotto,Andrei Girotto,girotto,Nantes,FC Nantes,78,high,✅
+Nicolas Pallois,N. Pallois,pallois,Nantes,FC Nantes,77,high,✅
+Philipp Lienhart,P. Lienhart,lienhart,Freiburg,Sport-Club Freiburg,78,high,✅
+Moise Kean,M. Kean,kean,Juventus,Juventus,78,high,✅
+Iyenoma Udogie,D. Udogie,udogie,Udinese,Udinese Calcio,74,unique_lastname,✅
+Hans Nunoo Sarpei,H. Sarpei,sarpei,Greuther Fï¿½rth,FC Ingolstadt 04,67,high,✅
+Armel Bella Kotchap,A. Bella Kotchap,kotchap,Bochum,Southampton,73,high,✅
+John Guidetti,J. Guidetti,guidetti,Alavï¿½s,AIK,71,high,✅
+Jadon Sancho,J. Sancho,sancho,Manchester Utd,Manchester United,84,high,✅
+Arthur Masuaku,A. Masuaku,masuaku,West Ham,BeÅiktaÅ JK,75,high,✅
 Yannik Keitel,Y. Keitel,keitel,Freiburg,Sport-Club Freiburg,69,high,✅
-Alexandre Lacazette,A. Lacazette,lacazette,Arsenal,Olympique Lyonnais,81,high,✅
-Alessandro Bastoni,A. Bastoni,bastoni,Inter,Inter,84,high,✅
-Simone Bastoni,S. Bastoni,bastoni,Spezia,Spezia,72,high,✅
-Stole Dimitrievski,S. Dimitrievski,dimitrievski,Rayo Vallecano,Rayo Vallecano,78,high,✅
-Ollie Watkins,O. Watkins,watkins,Aston Villa,Aston Villa,78,high,✅
+Hugo Mallo,Hugo Mallo,mallo,Celta Vigo,RC Celta de Vigo,77,high,✅
+Dennis Johnsen,D. Johnsen,johnsen,Venezia,Venezia FC,73,high,✅
+Oihan Sancet,Sancet,sancet,Athletic Club,Athletic Club de Bilbao,76,unique_lastname,✅
+Adam Lallana,A. Lallana,lallana,Brighton,Brighton & Hove Albion,75,high,✅
+Sï¿½amus Coleman,S. Coleman,coleman,Everton,Everton,76,high,✅
+Lucas Ocampos,L. Ocampos,ocampos,Sevilla,Sevilla FC,81,high,✅
+Pape Matar Sarr,P. Sarr,sarr,Metz,Tottenham Hotspur,71,high,✅
+Ismaila Sarr,I. Sarr,sarr,Watford,Watford,77,high,✅
+Malang Sarr,M. Sarr,sarr,Chelsea,Chelsea,75,high,✅
+Dion Moise Sahi,M. Sahi,sahi,Strasbourg,FC Annecy,68,unique_lastname,✅
+Julian Draxler,J. Draxler,draxler,Paris S-G,Paris Saint-Germain,79,high,✅
+Thuler,22Â Matheus Thuler,thuler,Montpellier,Montpellier HÃ©rault SC,71,unique_lastname,✅
+Danny da Costa,D. da Costa,costa,Eint Frankfurt,1. FSV Mainz 05,74,high,✅
 Adam Ounas,A. Ounas,ounas,Napoli,Napoli,73,high,✅
-Alexis Saelemaekers,A. Saelemaekers,saelemaekers,Milan,AC Milan,78,high,✅
-Yayah Kallon,Y. Kallon,kallon,Genoa,Genoa,68,high,✅
-Amine Harit,A. Harit,harit,Marseille,FC Schalke 04,75,high,✅
-Matthias Ginter,M. Ginter,ginter,M'Gladbach,Sport-Club Freiburg,82,high,✅
-Thomas Meunier,T. Meunier,meunier,Dortmund,Borussia Dortmund,78,high,✅
-Kevin De Bruyne,K. De Bruyne,bruyne,Manchester City,Manchester City,91,high,✅
-Gerard Deulofeu,Deulofeu,deulofeu,Udinese,Udinese Calcio,80,unique_lastname,✅
-Ivan Toney,I. Toney,toney,Brentford,Brentford,77,high,✅
-Javi Puado,Puado,puado,Espanyol,RCD Espanyol de Barcelona,78,unique_lastname,✅
-Mario Gila,Mario Gila,gila,Real Madrid,Lazio,62,high,✅
-Vincent Le Goff,V. Le Goff,goff,Lorient,FC Lorient,71,high,✅
-Simon Banza,S. Banza,banza,Lens,SC Braga,75,high,✅
-Morten Thorsby,M. Thorsby,thorsby,Sampdoria,1. FC Union Berlin,74,high,✅
-Theo Walcott,T. Walcott,walcott,Southampton,Southampton,72,high,✅
-Tim Iroegbunam,T. Iroegbunam,iroegbunam,Aston Villa,Aston Villa,62,high,✅
-Tariq Lamptey,T. Lamptey,lamptey,Brighton,Brighton & Hove Albion,75,high,✅
-Aaron Hickey,A. Hickey,hickey,Bologna,Brentford,75,high,✅
-Tomï¿½s Pina Isla,M. Isla,isla,Alavï¿½s,Universidad CatÃ³lica,76,unique_lastname,✅
-Gaï¿½l Kakuta,G. Kakuta,kakuta,Lens,Racing Club de Lens,76,high,✅
-Willy Caballero,W. Caballero,caballero,Southampton,Southampton,70,high,✅
-Jean-Ricner Bellegarde,J. Bellegarde,bellegarde,Strasbourg,RC Strasbourg Alsace,75,high,✅
-Myron Boadu,M. Boadu,boadu,Monaco,AS Monaco,75,high,✅
-Jerry St. Juste,J. St. Juste,juste,Mainz 05,Sporting CP,76,high,✅
-Chrislain Matsima,C. Matsima,matsima,Monaco,AS Monaco,69,high,✅
-Luca Ranieri,L. Ranieri,ranieri,Salernitana,Fiorentina,70,high,✅
-Silvan Widmer,S. Widmer,widmer,Mainz 05,1. FSV Mainz 05,77,high,✅
-Abdessamad Ezzalzouli,A. Ezzalzouli,ezzalzouli,Barcelona,FC Barcelona,70,high,✅
-Josh Brownhill,J. Brownhill,brownhill,Burnley,Burnley,75,high,✅
-Kasper Schmeichel,K. Schmeichel,schmeichel,Leicester City,OGC Nice,83,high,✅
-Loum Tchaouna,L. Tchaouna,tchaouna,Rennes,Stade Rennais FC,67,high,✅
-Jon Morcillo,Jon Morcillo,morcillo,Athletic Club,Athletic Club de Bilbao,71,high,✅
-Iago Aspas,Iago Aspas,aspas,Celta Vigo,RC Celta de Vigo,85,high,✅
-Bernd Leno,B. Leno,leno,Arsenal,Fulham,80,high,✅
-Iddrisu Baba,I. Baba,baba,Mallorca,RCD Mallorca,75,high,✅
-Anthony Caci,A. Caci,caci,Strasbourg,1. FSV Mainz 05,75,high,✅
-Julen Agirrezabala,Agirrezabala,agirrezabala,Athletic Club,Athletic Club de Bilbao,68,unique_lastname,✅
-Lucas Leiva,N. Leiva,leiva,Lazio,ÅlÄsk WrocÅaw,69,unique_lastname,✅
-Ozan Tufan,O. Tufan,tufan,Watford,Hull City,74,high,✅
-Yunus Musah,Y. Musah,musah,Valencia,Valencia CF,73,high,✅
-Pablo Fornals,Pablo Fornals,fornals,West Ham,West Ham United,79,high,✅
-Kristoffer Klaesson,K. Klaesson,klaesson,Leeds United,Leeds United,65,high,✅
-Marco Sportiello,M. Sportiello,sportiello,Atalanta,Atalanta,75,high,✅
-Luis Hartwig,22Â L. Hartwig,hartwig,Bochum,VfL Bochum 1848,59,unique_lastname,✅
-Hicham Boudaoui,H. Boudaoui,boudaoui,Nice,OGC Nice,76,high,✅
-Florian Grillitsch,22Â F. Grillitsch,grillitsch,Hoffenheim,TSG Hoffenheim,78,unique_lastname,✅
-Ricardo Pepi,R. Pepi,pepi,Augsburg,FC Augsburg,69,high,✅
-Dan-Axel Zagadou,22Â D. Zagadou,zagadou,Dortmund,Borussia Dortmund,77,unique_lastname,✅
-Alejandro Asensio,Marco Asensio,asensio,Rayo Vallecano,Real Madrid CF,83,unique_lastname,✅
-Konstantinos Mavropanos,K. Mavropanos,mavropanos,Stuttgart,VfB Stuttgart,78,high,✅
-Yunis Abdelhamid,Y. Abdelhamid,abdelhamid,Reims,Stade de Reims,76,high,✅
-Paul Akouokou,P. Akouokou,akouokou,Betis,Real Betis BalompiÃ©,70,high,✅
-Willem Geubbels,W. Geubbels,geubbels,Nantes,AS Monaco,68,high,✅
-Alidu Seidu,A. Seidu,seidu,Clermont Foot,Clermont Foot 63,68,high,✅
-Sofyan Amrabat,N. Amrabat,amrabat,Fiorentina,AEK Athens,75,unique_lastname,✅
-Dayot Upamecano,D. Upamecano,upamecano,Bayern Munich,FC Bayern MÃ¼nchen,81,high,✅
-Richarlison,Richarlison,richarlison,Everton,Tottenham Hotspur,81,high,✅
-Robin Knoche,R. Knoche,knoche,Union Berlin,1. FC Union Berlin,76,high,✅
-Giulian Biancone,G. Biancone,biancone,Troyes,Nottingham Forest,70,high,✅
-Patrick Bamford,P. Bamford,bamford,Leeds United,Leeds United,78,high,✅
-Lionel Messi,L. Messi,messi,Paris S-G,Paris Saint-Germain,91,high,✅
-Luuk de Jong,L. de Jong,jong,Barcelona,PSV,79,high,✅
-Leny Yoro,15Â L. Yoro,yoro,Lille,Boavista FC,65,unique_lastname,✅
-Nathanael Mbuku,N. Mbuku,mbuku,Reims,Stade de Reims,72,high,✅
-Giorgio Cittadini,G. Cittadini,cittadini,Atalanta,Modena,63,high,✅
-Ryan Fraser,R. Fraser,fraser,Newcastle Utd,Newcastle United,76,high,✅
-Florin Andone,F. Andone,andone,Cï¿½diz,Brighton & Hove Albion,70,high,✅
-Edinson Cavani,22Â E. Cavani,cavani,Manchester Utd,Manchester United,82,unique_lastname,✅
-Amine Adli,A. Adli,adli,Leverkusen,Bayer 04 Leverkusen,74,high,✅
-Yacine Adli,Y. Adli,adli,Bordeaux,AC Milan,75,high,✅
-Leonardo Cï¿½sar Jardim,LÃ©o Jardim,jardim,Lille,LOSC Lille,73,high,✅
-Amir Rrahmani,A. Rrahmani,rrahmani,Napoli,Napoli,80,high,✅
-Diego Coppola,D. Coppola,coppola,Hellas Verona,Hellas Verona,66,high,✅
+Matthew Hoppe,M. Hoppe,hoppe,Mallorca,RCD Mallorca,69,high,✅
+Sebastian Rode,S. Rode,rode,Eint Frankfurt,Eintracht Frankfurt,78,high,✅
+Simone Verdi,S. Verdi,verdi,Salernitana,Torino F.C.,75,high,✅
+Edon Zhegrova,E. Zhegrova,zhegrova,Lille,LOSC Lille,74,high,✅
+Jonathan Bamba,J. Bamba,bamba,Lille,LOSC Lille,76,high,✅
+Falaye Sacko,F. Sacko,sacko,Saint-ï¿½tienne,Montpellier HÃ©rault SC,74,high,✅
+Diego Lainez,D. Lainez,lainez,Betis,SC Braga,74,high,✅
+Etienne Green,E. Green,green,Saint-ï¿½tienne,AS Saint-Ãtienne,73,high,✅
+Benjamin Henrichs,B. Henrichs,henrichs,RB Leipzig,RB Leipzig,77,high,✅
 Pubill,Pubill,pubill,Levante,Levante UniÃ³n Deportiva,68,high,✅
-Antonio Raimondo,A. Raimondo,raimondo,Bologna,Bologna,63,high,✅
-Jeremy Toljan,J. Toljan,toljan,Sassuolo,U.S. Sassuolo Calcio,73,high,✅
+Riyad Mahrez,R. Mahrez,mahrez,Manchester City,Manchester City,86,high,✅
+Giorgio Scalvini,G. Scalvini,scalvini,Atalanta,Atalanta,70,high,✅
+Jï¿½rï¿½me Hergault,22Â J. Hergault,hergault,Lorient,FC Lorient,71,unique_lastname,✅
+Karim Bellarabi,K. Bellarabi,bellarabi,Leverkusen,Bayer 04 Leverkusen,79,high,✅
+Louis Beyer,J. Beyer,beyer,M'Gladbach,Borussia MÃ¶nchengladbach,74,unique_lastname,✅
+Kerem Demirbay,K. Demirbay,demirbay,Leverkusen,Bayer 04 Leverkusen,81,high,✅
+Joaquï¿½n Correa,J. Correa,correa,Inter,Inter,80,high,✅
+Stefan Posch,S. Posch,posch,Hoffenheim,TSG Hoffenheim,75,high,✅
+Axel Disasi,A. Disasi,disasi,Monaco,AS Monaco,77,high,✅
+Jesï¿½s Vallejo,J. Vallejo,vallejo,Real Madrid,Club AtlÃ©tico Independiente,60,high,✅
+Lovro Majer,L. Majer,majer,Rennes,Stade Rennais FC,80,high,✅
+Paul Nebel,P. Nebel,nebel,Mainz 05,Karlsruher SC,65,high,✅
+Carlos Dominguez,B. Dominguez,dominguez,Celta Vigo,Gimnasia y Esgrima La Plata,63,unique_lastname,✅
+Jessic Ngankam,J. Ngankam,ngankam,Greuther Fï¿½rth,Hertha BSC,69,high,✅
+Jamie Vardy,J. Vardy,vardy,Leicester City,Leicester City,85,high,✅
+Matteo Darmian,M. Darmian,darmian,Inter,Inter,80,high,✅
+Juanmi,Juanmi,juanmi,Betis,Real Betis BalompiÃ©,79,high,✅
+Fidel,Fidel,fidel,Elche,Elche CF,77,high,✅
+Landry Dimata,L. Dimata,dimata,Espanyol,RCD Espanyol de Barcelona,72,high,✅
+Djibril Sow,D. Sow,sow,Eint Frankfurt,Eintracht Frankfurt,80,high,✅
+Saidou Sow,S. Sow,sow,Saint-ï¿½tienne,AS Saint-Ãtienne,70,high,✅
+Jonas Hector,22Â M. Hector,hector,Kï¿½ln,Fulham,71,unique_lastname,✅
+Thomas Meunier,T. Meunier,meunier,Dortmund,Borussia Dortmund,78,high,✅
+ï¿½lvaro Bastida,Bastida,bastida,Cï¿½diz,CÃ¡diz CF,65,unique_lastname,✅
+David Raya,David Raya,raya,Brentford,Brentford,76,high,✅
+Oliver Skipp,O. Skipp,skipp,Tottenham,Tottenham Hotspur,77,high,✅
+Roland Sallai,R. Sallai,sallai,Freiburg,Sport-Club Freiburg,76,high,✅
+Stuart Dallas,S. Dallas,dallas,Leeds United,Leeds United,75,high,✅
+Mahmoud Dahoud,M. Dahoud,dahoud,Dortmund,Borussia Dortmund,80,high,✅
 Karim Benzema,K. Benzema,benzema,Real Madrid,Real Madrid CF,91,high,✅
-Doï¿½an Alemdar,D. Alemdar,alemdar,Rennes,Stade Rennais FC,72,high,✅
-Conor Coady,C. Coady,coady,Wolves,Everton,79,high,✅
-Fabio Miretti,F. Miretti,miretti,Juventus,Juventus,70,high,✅
-Vicente Guaita,Guaita,guaita,Crystal Palace,Crystal Palace,79,unique_lastname,✅
-Mattia De Sciglio,M. De Sciglio,sciglio,Juventus,Juventus,76,high,✅
-Joï¿½l Veltman,J. Veltman,veltman,Brighton,Brighton & Hove Albion,78,high,✅
-Ohis Felix Uduokhai,F. Uduokhai,uduokhai,Augsburg,FC Augsburg,75,unique_lastname,✅
-Davide Faraoni,M. Faraoni,faraoni,Hellas Verona,Hellas Verona,78,unique_lastname,✅
-James Milner,J. Milner,milner,Liverpool,Liverpool,78,high,✅
-Michel Aebischer,M. Aebischer,aebischer,Bologna,Bologna,75,high,✅
-Jean-Philippe Mateta,J. Mateta,mateta,Crystal Palace,Crystal Palace,76,high,✅
-Kï¿½vin Gameiro,K. Gameiro,gameiro,Strasbourg,RC Strasbourg Alsace,77,high,✅
-Junior Sambia,J. Sambia,sambia,Montpellier,US Salernitana 1919,73,high,✅
-Mattia Viti,M. Viti,viti,Empoli,OGC Nice,71,high,✅
-Miguel Veloso,Miguel Veloso,veloso,Hellas Verona,Hellas Verona,77,high,✅
-David Timor,Timor,timor,Getafe,SD Huesca,71,unique_lastname,✅
-Samuel Umtiti,S. Umtiti,umtiti,Barcelona,FC Barcelona,79,high,✅
-Asier Villalibre,Villalibre,villalibre,Athletic Club,Athletic Club de Bilbao,71,unique_lastname,✅
-Salis Abdul Samed,S. Abdul Samed,samed,Clermont Foot,Racing Club de Lens,71,high,✅
-Ihlas Bebou,I. Bebou,bebou,Hoffenheim,TSG Hoffenheim,77,high,✅
-Felix Passlack,F. Passlack,passlack,Dortmund,Borussia Dortmund,70,high,✅
-Lewis Brunt,22Â Z. Brunt,brunt,Leicester City,Sheffield United,58,unique_lastname,✅
-Gerï¿½nimo Rulli,G. Rulli,rulli,Villarreal,Villarreal CF,82,high,✅
-Mattia Aramu,M. Aramu,aramu,Venezia,Venezia FC,74,high,✅
-Ismaï¿½l Gharbi,22Â I. Gharbi,gharbi,Paris S-G,Paris Saint-Germain,64,unique_lastname,✅
-Folarin Balogun,F. Balogun,balogun,Arsenal,Stade de Reims,67,high,✅
-Chimuanya Ugochukwu,L. Ugochukwu,ugochukwu,Rennes,Stade Rennais FC,68,unique_lastname,✅
-Aymeric Laporte,A. Laporte,laporte,Manchester City,Manchester City,86,high,✅
-Julien Laporte,J. Laporte,laporte,Lorient,FC Lorient,73,high,✅
-Fraser Hornby,F. Hornby,hornby,Reims,KV Oostende,66,high,✅
-Mattia Perin,M. Perin,perin,Juventus,Juventus,79,high,✅
-Ludovic Ajorque,L. Ajorque,ajorque,Strasbourg,RC Strasbourg Alsace,79,high,✅
-Mehdi Zerkane,M. Zerkane,zerkane,Bordeaux,FC Girondins de Bordeaux,69,high,✅
-Jacob Barrett Laursen,J. Laursen,laursen,Arminia,Standard de LiÃ¨ge,69,high,✅
-Samu Castillejo,Samu Castillejo,castillejo,Milan,Valencia CF,75,high,✅
-Sebastian Polter,S. Polter,polter,Bochum,FC Schalke 04,73,high,✅
-Wilfried Singo,W. Singo,singo,Torino,Torino F.C.,76,high,✅
-Daniele Verde,D. Verde,verde,Spezia,Spezia,75,high,✅
-Sidney Raebiger,S. Raebiger,raebiger,RB Leipzig,SpVgg Greuther FÃ¼rth,62,high,✅
-Exequiel Palacios,E. Palacios,palacios,Leverkusen,Bayer 04 Leverkusen,78,high,✅
-Helibelton Palacios,H. Palacios,palacios,Elche,Elche CF,73,high,✅
-Simone Trimboli,S. Trimboli,trimboli,Sampdoria,U.C. Sampdoria,56,high,✅
-Tom Rothe,T. Rothe,rothe,Dortmund,Borussia Dortmund,65,high,✅
-Steven Bergwijn,S. Bergwijn,bergwijn,Tottenham,Ajax,80,high,✅
-Hannibal Mejbri,H. Mejbri,mejbri,Manchester Utd,Manchester United,64,high,✅
-Alex Petxa,Ãlex Petxa,petxa,Athletic Club,Athletic Club de Bilbao,66,unique_lastname,✅
-Josï¿½ Fonte,JosÃ© Fonte,fonte,Lille,LOSC Lille,80,high,✅
-Frederic Guilbert,F. Guilbert,guilbert,Strasbourg,Aston Villa,78,high,✅
-David Zima,D. Zima,zima,Torino,Torino F.C.,74,high,✅
-Oleksandr Zinchenko,O. Zinchenko,zinchenko,Manchester City,Arsenal,79,high,✅
-Dimitry Bertaud,D. Bertaud,bertaud,Montpellier,Montpellier HÃ©rault SC,74,high,✅
-Marc-Andrï¿½ ter Stegen,M. ter Stegen,stegen,Barcelona,FC Barcelona,88,high,✅
-Flavius Daniliuc,21Â D. Daniliuc,daniliuc,Nice,SV Ried,60,unique_lastname,✅
-Andriy Lunin,A. Lunin,lunin,Real Madrid,Real Madrid CF,75,high,✅
-Lorenzo Insigne,L. Insigne,insigne,Napoli,Toronto FC,84,high,✅
-Gabriel Gudmundsson,G. Gudmundsson,gudmundsson,Lille,LOSC Lille,74,high,✅
-Andrei Motoc,A. Motoc,motoc,Salernitana,US Salernitana 1919,59,high,✅
-Gian Marco Ferrari,G. Ferrari,ferrari,Sassuolo,U.S. Sassuolo Calcio,74,high,✅
-Ignacio Pussetto,I. Pussetto,pussetto,Udinese,Watford,74,high,✅
-Hugo Ekitike,H. Ekitike,ekitike,Reims,Paris Saint-Germain,76,high,✅
-Liam Henderson,L. Henderson,henderson,Empoli,Empoli,72,high,✅
-Nabil Bentaleb,N. Bentaleb,bentaleb,Angers,Angers SCO,73,high,✅
-Kingsley Ehizibue,K. Ehizibue,ehizibue,Kï¿½ln,1. FC KÃ¶ln,72,high,✅
-Ante Budimir,A. Budimir,budimir,Osasuna,CA Osasuna,76,high,✅
-Jacob Ramsey,J. Ramsey,ramsey,Aston Villa,Aston Villa,75,high,✅
-Milot Rashica,M. Rashica,rashica,Norwich City,Norwich City,74,high,✅
-Mathias Pereira Lage,M. Pereira Lage,lage,Angers,Stade Brestois 29,72,high,✅
-Gleison Bremer,Bremer,bremer,Torino,Juventus,83,unique_lastname,✅
-Nathan Tella,N. Tella,tella,Southampton,Southampton,67,high,✅
-Evan Ferguson,E. Ferguson,ferguson,Brighton,Brighton & Hove Albion,59,high,✅
-Nathan Ferguson,N. Ferguson,ferguson,Crystal Palace,Crystal Palace,68,high,✅
-Ismail Jakobs,I. Jakobs,jakobs,Monaco,AS Monaco,71,high,✅
-Calvin Stengs,C. Stengs,stengs,Nice,OGC Nice,73,high,✅
-Allan Nyom,A. Nyom,nyom,Getafe,CD LeganÃ©s,74,high,✅
-Patson Daka,P. Daka,daka,Leicester City,Leicester City,77,high,✅
-Marco Verratti,M. Verratti,verratti,Paris S-G,Paris Saint-Germain,87,high,✅
-Denis Vavro,D. Vavro,vavro,Lazio,F.C. KÃ¸benhavn,73,high,✅
-Federico Dimarco,F. Dimarco,dimarco,Inter,Inter,78,high,✅
-Andrea Cambiaso,A. Cambiaso,cambiaso,Genoa,Bologna,72,high,✅
-Esteban Saveljich,E. Saveljich,saveljich,Rayo Vallecano,Rayo Vallecano,71,high,✅
-Andrea Ranocchia,A. Ranocchia,ranocchia,Inter,AC Monza,74,high,✅
-Anton Stach,A. Stach,stach,Mainz 05,1. FSV Mainz 05,76,high,✅
-Paul Jaeckel,P. Jaeckel,jaeckel,Union Berlin,1. FC Union Berlin,74,high,✅
-Andrï¿½s Guardado,A. Guardado,guardado,Betis,Real Betis BalompiÃ©,77,high,✅
-ï¿½ime Vrsaljko,Å . Vrsaljko,vrsaljko,Atlï¿½tico Madrid,,79,unique_lastname,✅
-Benjamin Bourigeaud,B. Bourigeaud,bourigeaud,Rennes,Stade Rennais FC,81,high,✅
-Toni Lato,Toni Lato,lato,Valencia,Valencia CF,73,high,✅
-Hirving Lozano,H. Lozano,lozano,Napoli,Napoli,81,high,✅
-Amadou Mbengue,22Â A. Mbengue,mbengue,Metz,FC Metz,62,unique_lastname,✅
-Daniel Bachmann,D. Bachmann,bachmann,Watford,Watford,72,high,✅
-Noah Fatar,22Â N. Fatar,fatar,Angers,Angers SCO,61,unique_lastname,✅
-Alessandro Russo,A. Russo,russo,Salernitana,U.S. Sassuolo Calcio,64,high,✅
-Mathieu Cafaro,M. Cafaro,cafaro,Reims,AS Saint-Ãtienne,72,high,✅
-Mathys Saban,M. Saban,saban,Saint-ï¿½tienne,AS Saint-Ãtienne,63,high,✅
-Marc-Oliver Kempf,M. Kempf,kempf,Hertha BSC / Stuttgart,Hertha BSC,75,high,✅
-Mï¿½rio Rui,MÃ¡rio Rui,rui,Napoli,Napoli,78,high,✅
-Kevin Behrens,K. Behrens,behrens,Union Berlin,1. FC Union Berlin,71,high,✅
-Liam Cooper,L. Cooper,cooper,Leeds United,Leeds United,76,high,✅
-Granit Xhaka,G. Xhaka,xhaka,Arsenal,Arsenal,79,high,✅
-Diego Conde,Diego Conde,conde,Getafe,Getafe CF,65,high,✅
-David Soria,David Soria,soria,Getafe,Getafe CF,82,high,✅
-Lenny Joseph,L. Joseph,joseph,Metz,FC Metz,65,high,✅
-Lassana Coulibaly,L. Coulibaly,coulibaly,Salernitana,US Salernitana 1919,73,high,✅
-M'Baye Niang,M. Niang,niang,Bordeaux,Hartlepool United,59,high,✅
-Mohamed Bayo,M. Bayo,bayo,Clermont Foot,LOSC Lille,75,high,✅
-Lucas Digne,L. Digne,digne,Aston Villa / Everton,Aston Villa,82,high,✅
-Kelvin Yeboah,K. Yeboah,yeboah,Genoa,Genoa,70,high,✅
-Gori,Gori,gori,Espanyol,RCD Espanyol de Barcelona,64,high,✅
-Harvey Elliott,H. Elliott,elliott,Liverpool,Liverpool,73,high,✅
-Jonas Hofmann,J. Hofmann,hofmann,M'Gladbach,Borussia MÃ¶nchengladbach,81,high,✅
-Fabio Depaoli,F. Depaoli,depaoli,Sampdoria / Hellas Verona,U.C. Sampdoria,73,high,✅
-Roberto Pereyra,R. Pereyra,pereyra,Udinese,Udinese Calcio,78,high,✅
-Paul Bernardoni,P. Bernardoni,bernardoni,Angers / Saint-ï¿½tienne,Angers SCO,76,high,✅
-Danny Blum,D. Blum,blum,Bochum,APOEL Nicosia FC,70,high,✅
-Luca Kilian,L. Kilian,kilian,Mainz 05 / Kï¿½ln,1. FC KÃ¶ln,74,high,✅
-Yannick Carrasco,Y. Carrasco,carrasco,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,85,high,✅
-Mamadou Fofana,M. Fofana,fofana,Metz,KAA Gent,63,high,✅
-Seko Fofana,S. Fofana,fofana,Lens,Racing Club de Lens,81,high,✅
-Youssouf Fofana,Y. Fofana,fofana,Monaco,AS Monaco,79,high,✅
-Alberto Moreno,A. Moreno,moreno,Villarreal,Racing Club,74,high,✅
-Abdoulaye Bamba,A. Bamba,bamba,Angers,Angers SCO,71,high,✅
-Chris Wood,C. Wood,wood,Newcastle Utd / Burnley,Newcastle United,76,high,✅
-Sinaly Diomande,S. Diomande,diomande,Lyon,Olympique Lyonnais,73,high,✅
-Conor Gallagher,C. Gallagher,gallagher,Crystal Palace,Chelsea,79,high,✅
-Alex McCarthy,A. McCarthy,mccarthy,Southampton,Southampton,75,high,✅
-Diego Carlos,Diego Carlos,carlos,Sevilla,Aston Villa,83,high,✅
-Gonzalo Montiel,G. Montiel,montiel,Sevilla,Sevilla FC,79,high,✅
-Daniel James,D. James,james,Manchester Utd / Leeds United,Leeds United,77,high,✅
-Fernando,Fernando,fernando,Sevilla,Sevilla FC,83,high,✅
-Max Aarons,M. Aarons,aarons,Norwich City,Norwich City,74,high,✅
-Kevin-Prince Boateng,K. Boateng,boateng,Hertha BSC,Hertha BSC,74,high,✅
-Jeison Murillo,J. Murillo,murillo,Celta Vigo,U.C. Sampdoria,75,high,✅
-Matt Doherty,M. Doherty,doherty,Tottenham,Tottenham Hotspur,77,high,✅
-Diogo Jota,Diogo Jota,jota,Liverpool,Liverpool,85,high,✅
-Jannik Vestergaard,J. Vestergaard,vestergaard,Leicester City,Leicester City,75,high,✅
-Ben White,B. White,white,Arsenal,Arsenal,79,high,✅
-Dani Olmo,Dani Olmo,olmo,RB Leipzig,RB Leipzig,82,high,✅
-Amadou Onana,A. Onana,onana,Lille,Inter,82,high,✅
-Robert Lewandowski,R. Lewandowski,lewandowski,Bayern Munich,FC Barcelona,91,high,✅
-Gary Medel,G. Medel,medel,Bologna,Bologna,73,high,✅
-Alberto Perea,A. Perea,perea,Cï¿½diz,Orlando City Soccer Club,67,high,✅
-Christian Pulisic,C. Pulisic,pulisic,Chelsea,Chelsea,82,high,✅
-Pasquale Mazzocchi,P. Mazzocchi,mazzocchi,Salernitana / Venezia,US Salernitana 1919,70,high,✅
-Christoph Kramer,C. Kramer,kramer,M'Gladbach,Borussia MÃ¶nchengladbach,77,high,✅
-Max Christiansen,M. Christiansen,christiansen,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,71,high,✅
-Ben Johnson,B. Johnson,johnson,West Ham,Nottingham Forest,75,high,✅
-Rubï¿½n Sobrino,RubÃ©n Sobrino,sobrino,Cï¿½diz / Valencia,CÃ¡diz CF,73,high,✅
-Emmanuel Dennis,E. Dennis,dennis,Watford,Watford,76,high,✅
-Fernandinho,22Â Fernandinho,fernandinho,Manchester City,Manchester City,81,unique_lastname,✅
-Sï¿½rgio Oliveira,SÃ©rgio Oliveira,oliveira,Roma,Galatasaray SK,79,high,✅
-Romain Del Castillo,R. Del Castillo,castillo,Brest / Rennes,Stade Brestois 29,73,high,✅
-Jorge Cuenca,Jorge Cuenca,cuenca,Getafe,Villarreal CF,73,high,✅
-Anton Kade,A. Kade,kade,Hertha BSC,FC Basel 1893,61,high,✅
-Jamal Lewis,J. Lewis,lewis,Newcastle Utd,Newcastle United,72,high,✅
-George Bello,G. Bello,bello,Arminia,DSC Arminia Bielefeld,67,high,✅
-Dante,Dante,dante,Nice,OGC Nice,78,high,✅
-Eduardo Camavinga,E. Camavinga,camavinga,Rennes / Real Madrid,Real Madrid CF,79,high,✅
-Ruben Vargas,R. Vargas,vargas,Augsburg,FC Augsburg,75,high,✅
-Carmona,Carmona,carmona,Sevilla,Sevilla FC,60,high,✅
-Maximilian Philipp,M. Philipp,philipp,Wolfsburg,VfL Wolfsburg,76,high,✅
-Adam Webster,A. Webster,webster,Brighton,Brighton & Hove Albion,76,high,✅
-Dele Alli,D. Alli,alli,Everton / Tottenham,Everton,77,high,✅
-Dries Mertens,D. Mertens,mertens,Napoli,Galatasaray SK,84,high,✅
-Leandro Cabrera,L. Cabrera,cabrera,Espanyol,RCD Espanyol de Barcelona,75,high,✅
-Thomas Delaney,T. Delaney,delaney,Dortmund / Sevilla,Sevilla FC,81,high,✅
-Francesco Rossi,F. Rossi,rossi,Atalanta,Atalanta,61,high,✅
-Demba Seck,D. Seck,seck,Torino,Torino F.C.,62,high,✅
-Jacob Murphy,J. Murphy,murphy,Newcastle Utd,Newcastle United,73,high,✅
-Bryan Reynolds,B. Reynolds,reynolds,Roma,KVC Westerlo,66,high,✅
-Dan Burn,D. Burn,burn,Brighton / Newcastle Utd,Newcastle United,77,high,✅
-Ander Guevara,Ander Guevara,guevara,Real Sociedad,Real Sociedad,76,high,✅
-Igor,Igor,igor,Fiorentina,Fiorentina,76,high,✅
-Nadiem Amiri,N. Amiri,amiri,Genoa / Leverkusen,Bayer 04 Leverkusen,76,high,✅
-Leander Dendoncker,L. Dendoncker,dendoncker,Wolves,Wolverhampton Wanderers,76,high,✅
-Antoine Griezmann,A. Griezmann,griezmann,Barcelona / Atlï¿½tico Madrid,AtlÃ©tico de Madrid,83,high,✅
-Sheraldo Becker,S. Becker,becker,Union Berlin,1. FC Union Berlin,76,high,✅
-Takefusa Kubo,T. Kubo,kubo,Mallorca,Real Sociedad,74,high,✅
-Karim Rekik,K. Rekik,rekik,Sevilla,Sevilla FC,77,high,✅
-Facundo Medina,F. Medina,medina,Lens,Racing Club de Lens,76,high,✅
-Eddie Salcedo,E. Salcedo,salcedo,Spezia,Inter,68,high,✅
-Stefan Ortega,S. Ortega,ortega,Arminia,Manchester City,80,high,✅
-Felipe Anderson,Felipe Anderson,anderson,Lazio,Lazio,79,high,✅
-Yeremi Pino,Yeremy Pino,pino,Villarreal,Villarreal CF,79,high,✅
-Thilo Kehrer,T. Kehrer,kehrer,Paris S-G,Paris Saint-Germain,76,high,✅
-Antonio Sanabria,A. Sanabria,sanabria,Torino,Torino F.C.,75,high,✅
-Mahdi Camara,M. Camara,camara,Saint-ï¿½tienne,FC Red Bull Salzburg,77,high,✅
-Luis Alberto,Luis Alberto,alberto,Lazio,Lazio,83,high,✅
-Pontus Jansson,P. Jansson,jansson,Brentford,Brentford,75,high,✅
-Douglas Luiz,Douglas Luiz,luiz,Aston Villa,Aston Villa,78,high,✅
-Ruan,Ruan,ruan,Sassuolo,Orlando City Soccer Club,67,high,✅
-Blanco,Blanco,blanco,Real Madrid,Real Madrid CF,71,high,✅
-Tachi,Tachi,tachi,Alavï¿½s,Deportivo AlavÃ©s,67,high,✅
-Rani Khedira,R. Khedira,khedira,Union Berlin,1. FC Union Berlin,74,high,✅
-Mouctar Diakhaby,M. Diakhaby,diakhaby,Valencia,Valencia CF,73,high,✅
-Luke Thomas,L. Thomas,thomas,Leicester City,Leicester City,75,high,✅
-Kieran Trippier,K. Trippier,trippier,Newcastle Utd / Atlï¿½tico Madrid,Newcastle United,84,high,✅
-Jonathan David,J. David,david,Lille,LOSC Lille,79,high,✅
-Patrick Herrmann,P. Herrmann,herrmann,M'Gladbach,Borussia MÃ¶nchengladbach,73,high,✅
-Riccardo Calafiori,R. Calafiori,calafiori,Genoa / Roma,Roma,68,high,✅
-Jonas Martin,J. Martin,martin,Rennes,LOSC Lille,75,high,✅
-Jens Petter Hauge,J. Hauge,hauge,Eint Frankfurt,Eintracht Frankfurt,74,high,✅
-Josï¿½ Luis Morales,J. Morales,morales,Levante,Ayacucho,65,high,✅
-Arnaud Kalimuendo,A. Kalimuendo,kalimuendo,Paris S-G / Lens,Paris Saint-Germain,76,high,✅
-Tyrick Mitchell,T. Mitchell,mitchell,Crystal Palace,Crystal Palace,76,high,✅
-Denis Zakaria,D. Zakaria,zakaria,Juventus / M'Gladbach,Juventus,81,high,✅
-Harry Maguire,H. Maguire,maguire,Manchester Utd,Manchester United,81,high,✅
-Kalvin Phillips,K. Phillips,phillips,Leeds United,Manchester City,81,high,✅
-Hugo Duro,Hugo Duro,duro,Valencia / Getafe,Valencia CF,77,high,✅
-Federico Santander,F. Santander,santander,Bologna,Urbs Reggina 1914 ,69,high,✅
-Andrea Conti,A. Conti,conti,Milan / Sampdoria,U.C. Sampdoria,73,high,✅
-Emre Can,E. Can,can,Dortmund,Borussia Dortmund,82,high,✅
-Christoph Zimmermann,C. Zimmermann,zimmermann,Norwich City,SV Darmstadt 98,70,high,✅
-Niklas Stark,N. Stark,stark,Hertha BSC,SV Werder Bremen,75,high,✅
-Marcel Sabitzer,M. Sabitzer,sabitzer,RB Leipzig / Bayern Munich,FC Bayern MÃ¼nchen,80,high,✅
-Demarai Gray,D. Gray,gray,Everton,Everton,77,high,✅
-Ben Davies,B. Davies,davies,Tottenham,Tottenham Hotspur,79,high,✅
-Gonzalo Escalante,G. Escalante,escalante,Lazio / Alavï¿½s,Lazio,76,high,✅
-Frederik Winther,F. Winther,winther,Augsburg,FC Augsburg,65,high,✅
-Andrï¿½ Hahn,A. Hahn,hahn,Augsburg,FC Augsburg,74,high,✅
-Flavien Tait,F. Tait,tait,Rennes,Stade Rennais FC,77,high,✅
-Omar Faraj,O. Faraj,faraj,Levante,Degerfors IF,61,high,✅
-Corentin Jean,C. Jean,jean,Lens,Inter Miami CF,71,high,✅
-Aleksander Buksa,A. Buksa,buksa,Genoa,Racing Club de Lens,75,high,✅
-Josuha Guilavogui,J. Guilavogui,guilavogui,Bordeaux / Wolfsburg,VfL Wolfsburg,75,high,✅
-Pablo Piatti,P. Piatti,piatti,Elche,Estudiantes de La Plata,74,high,✅
-Ferrï¿½n Torres,F. Torres,torres,Manchester City / Barcelona,Orlando City Soccer Club,73,high,✅
-Matt Ritchie,M. Ritchie,ritchie,Newcastle Utd,Newcastle United,73,high,✅
-Marquinhos,Marquinhos,marquinhos,Paris S-G,Paris Saint-Germain,88,high,✅
-Josip Brekalo,J. Brekalo,brekalo,Wolfsburg / Torino,VfL Wolfsburg,79,high,✅
-Kevin Agudelo,K. Agudelo,agudelo,Spezia,Spezia,72,high,✅
-Marco Richter,M. Richter,richter,Hertha BSC,Hertha BSC,74,high,✅
-Ciaran Clark,C. Clark,clark,Newcastle Utd,New York Red Bulls,65,high,✅
-Hï¿½vard Nielsen,H. Nielsen,nielsen,Greuther Fï¿½rth,Hannover 96,70,high,✅
-Paulinho,Paulinho,paulinho,Leverkusen,Sporting CP,78,high,✅
-Rayan Aï¿½t Nouri,R. AÃ¯t Nouri,nouri,Wolves,Wolverhampton Wanderers,76,high,✅
-Emanuel Vignato,E. Vignato,vignato,Bologna,Bologna,72,high,✅
-Emil Forsberg,E. Forsberg,forsberg,RB Leipzig,RB Leipzig,81,high,✅
-Maximilian Eggestein,M. Eggestein,eggestein,Freiburg,Sport-Club Freiburg,75,high,✅
-Eberechi Eze,E. Eze,eze,Crystal Palace,Crystal Palace,76,high,✅
-Ilaix Moriba,I. Moriba,moriba,RB Leipzig / Valencia,RB Leipzig,73,high,✅
-Adrien Silva,A. Silva,silva,Sampdoria,Club Olimpia,76,high,✅
-Fï¿½bio Silva,F. Da Silva,silva,Wolves,Olympique Lyonnais,63,high,✅
-Jonathan Silva,J. Silva,silva,Getafe,Granada CF,74,high,✅
-Kingsley Coman,K. Coman,coman,Bayern Munich,FC Bayern MÃ¼nchen,86,high,✅
-Stefano Sensi,S. Sensi,sensi,Inter / Sampdoria,AC Monza,78,high,✅
-Duvï¿½n Zapata,D. Zapata,zapata,Atalanta,Atalanta,83,high,✅
-Deiver Machado,D. Machado,machado,Lens,Racing Club de Lens,72,high,✅
-Kaio Jorge,Kaio Jorge,jorge,Juventus,Juventus,71,high,✅
-Roberto Piccoli,R. Piccoli,piccoli,Genoa / Atalanta,Hellas Verona,69,high,✅
-Mario Gaspar,Mario Gaspar,gaspar,Villarreal,Watford,78,high,✅
-Sebastian Andersson,S. Andersson,andersson,Kï¿½ln,1. FC KÃ¶ln,71,high,✅
-Jean-Victor Makengo,J. Makengo,makengo,Udinese,Udinese Calcio,72,high,✅
-Ashley Young,A. Young,young,Aston Villa,Aston Villa,74,high,✅
-James Mcatee,J. McAtee,mcatee,Manchester City,Grimsby Town,63,high,✅
-Augusto Solari,A. Solari,solari,Celta Vigo,RC Celta de Vigo,74,high,✅
-Alexis Mac Allister,A. Mac Allister,allister,Brighton,Brighton & Hove Albion,76,high,✅
-Claudio Bravo,C. Bravo,bravo,Betis,Real Betis BalompiÃ©,78,high,✅
-Panagiotis Retsos,P. Retsos,retsos,Leverkusen / Hellas Verona,Hellas Verona,72,high,✅
-Robin Gosens,R. Gosens,gosens,Atalanta / Inter,Inter,82,high,✅
-Darï¿½o Benedetto,D. Benedetto,benedetto,Marseille / Elche,Boca Juniors,77,high,✅
-Joachim Andersen,J. Andersen,andersen,Crystal Palace,Crystal Palace,77,high,✅
-Abdou Diallo,A. Diallo,diallo,Paris S-G,Paris Saint-Germain,77,high,✅
-Ibrahima Diallo,I. Diallo,diallo,Southampton,Southampton,74,high,✅
-Raï¿½l Parra,RaÃºl Parra,parra,Cï¿½diz,CD MirandÃ©s,64,high,✅
-Youssouph Badji,Y. Badji,badji,Brest,Royal Charleroi S.C.,67,high,✅
-Baptiste Santamaria,B. Santamaria,santamaria,Freiburg / Rennes,Stade Rennais FC,76,high,✅
-Lucas Da Cunha,L. Da Cunha,cunha,Clermont Foot / Nice,OGC Nice,72,high,✅
-Jeremie Boga,J. Boga,boga,Sassuolo / Atalanta,Atalanta,77,high,✅
-Danilo,Danilo,danilo,Juventus,Juventus,80,high,✅
-Josh Dasilva,J. Dasilva,dasilva,Brentford,Brentford,73,high,✅
-Stefan Bajic,S. Bajic,bajic,Saint-ï¿½tienne,Bristol City,67,high,✅
-Timo Werner,T. Werner,werner,Chelsea,RB Leipzig,82,high,✅
-Cristian Gamboa,C. Gamboa,gamboa,Bochum,VfL Bochum 1848,74,high,✅
-Alessandro Florenzi,A. Florenzi,florenzi,Milan,AC Milan,79,high,✅
-Andrew Robertson,A. Robertson,robertson,Liverpool,Liverpool,87,high,✅
-Jonny Evans,J. Evans,evans,Leicester City,Leicester City,79,high,✅
-Robin Le Normand,R. Le Normand,normand,Real Sociedad,Real Sociedad,81,high,✅
-Gabriel Veiga,Gabri Veiga,veiga,Celta Vigo,RC Celta de Vigo,61,high,✅
-Michael Keane,M. Keane,keane,Everton,Everton,79,high,✅
-Borja Mayoral,Borja Mayoral,mayoral,Roma / Getafe,Getafe CF,74,high,✅
-Pape Gueye,P. Gueye,gueye,Marseille,Olympique de Marseille,76,high,✅
-Michail Antonio,M. Antonio,antonio,West Ham,West Ham United,79,high,✅
-Matej Maglica,M. Maglica,maglica,Stuttgart,FC St. Gallen 1879,61,high,✅
-Borna Sosa,B. Sosa,sosa,Stuttgart,VfB Stuttgart,78,high,✅
-Philippe Coutinho,Coutinho,coutinho,Aston Villa / Barcelona,Aston Villa,82,unique_lastname,✅
-Daniel Wass,D. Wass,wass,Atlï¿½tico Madrid / Valencia,AtlÃ©tico de Madrid,79,high,✅
-Ellis Simms,E. Simms,simms,Everton,Sunderland,68,high,✅
-Charlie Taylor,C. Taylor,taylor,Burnley,Stoke City,64,high,✅
-Donny van de Beek,D. van de Beek,beek,Manchester Utd / Everton,Manchester United,79,high,✅
-Thierry Correia,Thierry Correia,correia,Valencia,Valencia CF,76,high,✅
-Chiquinho,Chiquinho,chiquinho,Wolves,SL Benfica,73,high,✅
-Ben Mee,B. Mee,mee,Burnley,Brentford,78,high,✅
-Mattias Svanberg,M. Svanberg,svanberg,Bologna,VfL Wolfsburg,76,high,✅
-Cameron Archer,C. Archer,archer,Aston Villa,Aston Villa,70,high,✅
-Samuele Ricci,S. Ricci,ricci,Empoli / Torino,Torino F.C.,74,high,✅
-Gio Reyna,G. Reyna,reyna,Dortmund,Borussia Dortmund,77,high,✅
-Mitchel Bakker,M. Bakker,bakker,Leverkusen,Bayer 04 Leverkusen,75,high,✅
-Gideon Jung,G. Jung,jung,Greuther Fï¿½rth,SpVgg Greuther FÃ¼rth,67,high,✅
-Jovane Cabral,Jovane Cabral,cabral,Lazio,Sporting CP,76,high,✅
-Akim Zedadka,A. Zedadka,zedadka,Clermont Foot,LOSC Lille,74,high,✅
-Mohamed Salah,M. Salah,salah,Liverpool,Liverpool,90,high,✅
-Billy Gilmour,B. Gilmour,gilmour,Norwich City,Chelsea,72,high,✅
-Arthur,Arthur,arthur,Fiorentina,Juventus,80,high,✅
-Pedro Ortiz,P. Ortiz,ortiz,Sevilla,FC Midtjylland,63,high,✅
-Maximilian Bauer,M. Bauer,bauer,Greuther Fï¿½rth,FC Augsburg,71,high,✅
-Omar Marmoush,O. Marmoush,marmoush,Stuttgart / Wolfsburg,VfL Wolfsburg,73,high,✅
-Andreas Christensen,A. Christensen,christensen,Chelsea,FC Barcelona,82,high,✅
-Dominic Thompson,D. Thompson,thompson,Brentford,Blackpool,64,high,✅
-Amadou Diawara,A. Diawara,diawara,Roma,Roma,74,high,✅
-Luke Shaw,L. Shaw,shaw,Manchester Utd,Manchester United,80,high,✅
-Irvin Cardona,I. Cardona,cardona,Brest,Stade Brestois 29,72,high,✅
-Carney Chukwuemeka,C. Chukwuemeka,chukwuemeka,Aston Villa,Chelsea,64,high,✅
-Danilo Pereira,D. Pereira,pereira,Paris S-G,Austin FC,64,high,✅
-Marco Reus,M. Reus,reus,Dortmund,Borussia Dortmund,85,high,✅
-Tolgay Arslan,T. Arslan,arslan,Udinese,Udinese Calcio,75,high,✅
-Mouhamadou Diarra,M. Diarra,diarra,Strasbourg,MÃ¡laga CF,63,high,✅
-Joe Gomez,J. Gomez,gomez,Liverpool,Liverpool,81,high,✅
-Tyler Roberts,T. Roberts,roberts,Leeds United,AFC Richmond,78,high,✅
-Mattia Zaccagni,M. Zaccagni,zaccagni,Hellas Verona / Lazio,Lazio,79,high,✅
-Calum Chambers,C. Chambers,chambers,Aston Villa / Arsenal,Aston Villa,75,high,✅
-Ruben Aguilar,R. Aguilar,aguilar,Monaco,AS Monaco,77,high,✅
-Marc Cucurella,Cucurella,cucurella,Brighton / Getafe,Chelsea,81,unique_lastname,✅
-Bilal Brahimi,B. Brahimi,brahimi,Angers / Nice,OGC Nice,70,high,✅
-Hiroki Ito,H. Ito,ito,Stuttgart,VfB Stuttgart,72,high,✅
-Ibrahima Sissoko,I. Sissoko,sissoko,Strasbourg,RC Strasbourg Alsace,75,high,✅
-Sambou Sissoko,S. Sissoko,sissoko,Reims,KV Kortrijk,63,high,✅
-Shandon Baptiste,S. Baptiste,baptiste,Brentford,Brentford,69,high,✅
-Giovani Lo Celso,G. Lo Celso,celso,Tottenham / Villarreal,Tottenham Hotspur,81,high,✅
-Oliver Baumann,O. Baumann,baumann,Hoffenheim,TSG Hoffenheim,83,high,✅
-Renato Tapia,R. Tapia,tapia,Celta Vigo,RC Celta de Vigo,79,high,✅
-Marcos Alonso,Marcos Alonso,alonso,Chelsea,Chelsea,79,high,✅
-Javairï¿½ Dilrosun,J. Dilrosun,dilrosun,Hertha BSC / Bordeaux,Feyenoord,72,high,✅
-Joakim Nilsson,J. Nilsson,nilsson,Arminia,,74,high,✅
-Germï¿½n Pezzella,G. Pezzella,pezzella,Betis,Real Betis BalompiÃ©,77,high,✅
-Kevin Danso,K. Danso,danso,Lens,Racing Club de Lens,75,high,✅
-Rï¿½ben Neves,RÃºben Neves,neves,Wolves,Wolverhampton Wanderers,83,high,✅
-Jordi Alba,Jordi Alba,alba,Barcelona,FC Barcelona,85,high,✅
-Isaac Price,I. Price,price,Everton,Everton,50,high,✅
-Wout Weghorst,W. Weghorst,weghorst,Burnley / Wolfsburg,BeÅiktaÅ JK,79,high,✅
-Gonzalo Villar,Gonzalo Villar,villar,Getafe,U.C. Sampdoria,74,high,✅
-Junior Firpo,Junior Firpo,firpo,Leeds United,Leeds United,75,high,✅
-Arne Maier,A. Maier,maier,Augsburg,FC Augsburg,76,high,✅
-Rodrigo Bentancur,R. Bentancur,bentancur,Tottenham / Juventus,Tottenham Hotspur,79,high,✅
-Yussuf Poulsen,Y. Poulsen,poulsen,RB Leipzig,RB Leipzig,77,high,✅
-Alex Sandro,Alex Sandro,sandro,Juventus,Juventus,80,high,✅
-Tyler Morton,T. Morton,morton,Liverpool,Blackburn Rovers,64,high,✅
-Frank Onyeka,F. Onyeka,onyeka,Brentford,Brentford,73,high,✅
-Jason Steele,J. Steele,steele,Brighton,Brighton & Hove Albion,65,high,✅
-Jonathan Schmid,J. Schmid,schmid,Freiburg,Sport-Club Freiburg,74,high,✅
-Nikolas Nartey,N. Nartey,nartey,Stuttgart,VfB Stuttgart,69,high,✅
-Christian Eriksen,C. Eriksen,eriksen,Brentford,Manchester United,82,high,✅
-Dan Ndoye,D. Ndoye,ndoye,Nice,FC Basel 1893,69,high,✅
-Callum Wilson,C. Wilson,wilson,Newcastle Utd,Newcastle United,79,high,✅
-James Maddison,J. Maddison,maddison,Leicester City,Leicester City,82,high,✅
-Rodrigo De Paul,R. De Paul,paul,Atlï¿½tico Madrid,AtlÃ©tico de Madrid,84,high,✅
-Jï¿½rgen Locadia,22Â J. Locadia,locadia,Bochum / Brighton,VfL Bochum 1848,70,unique_lastname,✅
-William Saliba,W. Saliba,saliba,Marseille,Arsenal,80,high,✅
-Gaï¿½tan Laborde,G. Laborde,laborde,Rennes / Montpellier,Stade Rennais FC,81,high,✅
-Batista Mendy,B. Mendy,mendy,Angers,Angers SCO,70,high,✅
-Ferland Mendy,F. Mendy,mendy,Real Madrid,Real Madrid CF,83,high,✅
-Maya Yoshida,M. Yoshida,yoshida,Sampdoria,FC Schalke 04,73,high,✅
-Bamba Dieng,B. Dieng,dieng,Marseille,Olympique de Marseille,74,high,✅
-Sada Thioub,21Â T. Thioub,thioub,Saint-ï¿½tienne / Angers,Pau FC,60,unique_lastname,✅
-Cristhian Mosquera,Cristhian Mosquera,mosquera,Valencia,Valencia CF,66,high,✅
-Tanguy Ndombele,T. Ndombele,ndombele,Tottenham / Lyon,Tottenham Hotspur,79,high,✅
-Marc Roca,Marc Roca,roca,Bayern Munich,Leeds United,76,high,✅
-Brandon Williams,B. Williams,williams,Norwich City,Manchester United,73,high,✅
-Lucas Moura,Lucas Moura,moura,Tottenham,Tottenham Hotspur,80,high,✅
-Raheem Sterling,R. Sterling,sterling,Manchester City,Chelsea,86,high,✅
-Lorenzo Pellegrini,L. Pellegrini,pellegrini,Roma,Roma,84,high,✅
-Maxence Rivera,M. Rivera,rivera,Saint-ï¿½tienne,AS Saint-Ãtienne,64,high,✅
-Yusuf Demir,Y. Demir,demir,Barcelona,SK Rapid Wien,71,high,✅
-Pietro Pellegri,P. Pellegri,pellegri,Torino / Milan,Torino F.C.,69,high,✅
-Toni Kroos,T. Kroos,kroos,Real Madrid,Real Madrid CF,88,high,✅
-Nahuel Molina,N. Molina,molina,Udinese,AtlÃ©tico de Madrid,78,high,✅
-Oussama Idrissi,O. Idrissi,idrissi,Sevilla / Cï¿½diz,Feyenoord,76,high,✅
-Musa Barrow,M. Barrow,barrow,Bologna,Bologna,77,high,✅
-Chris Richards,C. Richards,richards,Hoffenheim / Bayern Munich,Crystal Palace,74,high,✅
-Andrea Carboni,A. Carboni,carboni,Cagliari,AC Monza,70,high,✅
-Jeremie Frimpong,J. Frimpong,frimpong,Leverkusen,Bayer 04 Leverkusen,80,high,✅
-Enock Mwepu,E. Mwepu,mwepu,Brighton,Brighton & Hove Albion,76,high,✅
-Jay Rodriguez,J. Rodriguez,rodriguez,Burnley,Burnley,74,high,✅
-Tammy Abraham,T. Abraham,abraham,Roma,Roma,82,high,✅
-Marco John,M. John,john,Hoffenheim,TSG Hoffenheim,67,high,✅
-Daniel Caligiuri,D. Caligiuri,caligiuri,Augsburg,FC Augsburg,75,high,✅
-Dejan Kulusevski,D. Kulusevski,kulusevski,Tottenham / Juventus,Tottenham Hotspur,81,high,✅
-Jonjo Shelvey,J. Shelvey,shelvey,Newcastle Utd,Newcastle United,77,high,✅
-Pierre Kalulu,P. Kalulu,kalulu,Milan,AC Milan,78,high,✅
-Mathew Ryan,M. Ryan,ryan,Real Sociedad,F.C. KÃ¸benhavn,78,high,✅
-Moise Kean,M. Kean,kean,Everton / Juventus,Juventus,78,high,✅
-Patrick Wimmer,P. Wimmer,wimmer,Arminia,VfL Wolfsburg,76,high,✅
-Kyle Walker,K. Walker,walker,Manchester City,Manchester City,85,high,✅
-Andy Delort,A. Delort,delort,Nice / Montpellier,OGC Nice,80,high,✅
-Vanderson,Vanderson,vanderson,Monaco,AS Monaco,76,high,✅
-Emerson,Emerson,emerson,Tottenham / Barcelona,Chelsea,77,high,✅
-Abdoulaye Sylla,A. Sylla,sylla,Nantes,Club Brugge KV,62,high,✅
-Mamadou Sylla,M. Sylla,sylla,Alavï¿½s / Rayo Vallecano,FC Utrecht,68,high,✅
-Chem Campbell,C. Campbell,campbell,Wolves,Wolverhampton Wanderers,60,high,✅
-Jarrod Bowen,J. Bowen,bowen,West Ham,West Ham United,80,high,✅
-Christoph Baumgartner,C. Baumgartner,baumgartner,Hoffenheim,TSG Hoffenheim,78,high,✅
-Tiago Ribeiro,TomÃ¡s Ribeiro,ribeiro,Monaco,Grasshopper Club ZÃ¼rich,69,high,✅
-Raï¿½l Guti,RaÃºl Guti,guti,Elche,Elche CF,72,high,✅
-Aaron Connolly,A. Connolly,connolly,Brighton,Venezia FC,69,high,✅
-Yan Valery,Y. Valery,valery,Southampton,Southampton,71,high,✅
-Mathys Tel,M. Tel,tel,Rennes,FC Bayern MÃ¼nchen,64,high,✅
-Xavi Simons,X. Simons,simons,Paris S-G,PSV,73,high,✅
-Nedim Bajrami,N. Bajrami,bajrami,Empoli,Empoli,76,high,✅
-Antonios Papadopoulos,A. Papadopoulos,papadopoulos,Dortmund,Borussia Dortmund II,66,high,✅
-Manuel Locatelli,M. Locatelli,locatelli,Juventus,Juventus,82,high,✅
-Martï¿½n Montoya,Montoya,montoya,Betis,Real Betis BalompiÃ©,75,high,✅
-Santiago Arzamendia,S. Arzamendia,arzamendia,Cï¿½diz,CÃ¡diz CF,70,high,✅
-Mauro Arambarri,M. Arambarri,arambarri,Getafe,Getafe CF,80,high,✅
-Martin Palumbo,M. Palumbo,palumbo,Juventus,Udinese Calcio,60,high,✅
-Dango Ouattara,D. Ouattara,ouattara,Lorient,FC Lorient,63,high,✅
-Lago Junior,L. Bayere Junior,junior,Mallorca,Hammarby IF,55,high,✅
-Fabinho,Fabinho,fabinho,Liverpool,Liverpool,87,high,✅
-Sean Longstaff,S. Longstaff,longstaff,Newcastle Utd,Newcastle United,74,high,✅
-Roberto Firmino,Roberto Firmino,firmino,Liverpool,Liverpool,83,high,✅
-Anwar El Ghazi,A. El Ghazi,ghazi,Everton / Aston Villa,Aston Villa,75,high,✅
-Federico Di Francesco,F. Di Francesco,francesco,Empoli,Lecce,76,high,✅
-Jacob Bruun Larsen,J. Larsen,larsen,Hoffenheim,Trabzonspor,75,high,✅
-Myziane Maolida,M. Maolida,maolida,Nice / Hertha BSC,Hertha BSC,71,high,✅
-Santiago Arias,S. Arias,arias,Granada,AtlÃ©tico de Madrid,79,high,✅
-Gideon Mensah,G. Mensah,mensah,Bordeaux,,70,high,✅
-Miguel,Miguel,miguel,Alavï¿½s,Deportivo AlavÃ©s,69,high,✅
-Joel Ward,J. Ward,ward,Crystal Palace,Crystal Palace,74,high,✅
-Ander Herrera,A. Herrera,herrera,Paris S-G,River Plate,72,high,✅
-Federico Valverde,F. Valverde,valverde,Real Madrid,Real Madrid CF,84,high,✅
-Rï¿½ben Dias,RÃºben Dias,dias,Manchester City,Manchester City,88,high,✅
-Sven Michel,S. Michel,michel,Union Berlin,1. FC Union Berlin,73,high,✅
-Renato Sanches,Renato Sanches,sanches,Lille,Paris Saint-Germain,80,high,✅
-Andy Diouf,A. Diouf,diouf,Rennes,FC Basel 1893,63,high,✅
-Stefan Bell,S. Bell,bell,Mainz 05,1. FSV Mainz 05,75,high,✅
-Timothy Weah,T. Weah,weah,Lille,LOSC Lille,74,high,✅
-Moisï¿½s Caicedo,M. Caicedo,caicedo,Brighton,Brighton & Hove Albion,70,high,✅
-Shane Duffy,S. Duffy,duffy,Brighton,Fulham,74,high,✅
-Cole Palmer,C. Palmer,palmer,Manchester City,Manchester City,67,high,✅
-Dani Raba,Dani Raba,raba,Granada / Villarreal,CD LeganÃ©s,72,high,✅
-Valentin Rongier,V. Rongier,rongier,Marseille,Olympique de Marseille,78,high,✅
-Marvin Friedrich,M. Friedrich,friedrich,Union Berlin / M'Gladbach,Borussia MÃ¶nchengladbach,77,high,✅
-Mohamed Ali Cho,M. Cho,cho,Angers,Real Sociedad,70,high,✅
-Marcus Coco,M. Coco,coco,Nantes,FC Nantes,71,high,✅
-Nico Elvedi,N. Elvedi,elvedi,M'Gladbach,Borussia MÃ¶nchengladbach,77,high,✅
-Jesï¿½s Corona,J. Corona,corona,Sevilla,Sevilla FC,81,high,✅
-Krepin Diatta,K. Diatta,diatta,Monaco,AS Monaco,74,high,✅
-Jack Harrison,J. Harrison,harrison,Leeds United,Leeds United,77,high,✅
-Marcus Thuram,M. Thuram,thuram,M'Gladbach,Borussia MÃ¶nchengladbach,78,high,✅
-Samuel Kalu,S. Kalu,kalu,Watford / Bordeaux,Watford,72,high,✅
-Bradley Barcola,B. Barcola,barcola,Lyon,Olympique Lyonnais,63,high,✅
-Joshua King,J. King,king,Watford,FenerbahÃ§e SK,75,high,✅
-Aleix Vidal,A. Vidal,vidal,Espanyol,Ayacucho,69,high,✅
-Waldemar Anton,W. Anton,anton,Stuttgart,VfB Stuttgart,75,high,✅
-Will Hughes,W. Hughes,hughes,Crystal Palace,Crystal Palace,75,high,✅
-Konrad De La Fuente,K. de la Fuente,fuente,Marseille,Olympique de Marseille,73,high,✅
-Anthony Martial,A. Martial,martial,Sevilla / Manchester Utd,Manchester United,80,high,✅
-Robin Koch,R. Koch,koch,Leeds United,Leeds United,76,high,✅
-Mads Pedersen,M. Pedersen,pedersen,Augsburg,Feyenoord,74,high,✅
-Jordan Ayew,J. Ayew,ayew,Crystal Palace,Crystal Palace,75,high,✅
-Nuno Tavares,Nuno Tavares,tavares,Arsenal,Olympique de Marseille,73,high,✅
-Mickaï¿½l Cuisance,M. Cuisance,cuisance,Venezia / Bayern Munich,Venezia FC,72,high,✅
-Takehiro Tomiyasu,T. Tomiyasu,tomiyasu,Bologna / Arsenal,Arsenal,79,high,✅
-Romain Faivre,R. Faivre,faivre,Brest / Lyon,Olympique Lyonnais,78,high,✅
-Cï¿½dric Hountondji,C. Hountondji,hountondji,Clermont Foot,Angers SCO,73,high,✅
-Wu Lei,Wu Lei,lei,Espanyol,RCD Espanyol de Barcelona,73,high,✅
-Rodri,Rodri,rodri,Manchester City,Manchester City,87,high,✅
-Martin Braithwaite,M. Braithwaite,braithwaite,Barcelona,FC Barcelona,76,high,✅
-Patrick Berg,P. Berg,berg,Lens,Racing Club de Lens,74,high,✅
-Domingos Duarte,D. Duarte,duarte,Granada,Fortuna Sittard,68,high,✅
-Joe Willock,J. Willock,willock,Newcastle Utd,Newcastle United,75,high,✅
-Ben Gibson,J. Gibson,gibson,Norwich City,Carlisle United,64,unique_lastname,✅
-Keinan Davis,K. Davis,davis,Aston Villa,Aston Villa,72,high,✅
-Romelu Lukaku,R. Lukaku,lukaku,Chelsea,Inter,86,high,✅
-Abdourahmane Barry,A. Barry,barry,Greuther Fï¿½rth,Amiens SC,64,high,✅
-Joselu,Joselu,joselu,Alavï¿½s,RCD Espanyol de Barcelona,80,high,✅
-Max Kruse,M. Kruse,kruse,Wolfsburg / Union Berlin,VfL Wolfsburg,80,high,✅
-Martin Satriano,M. Satriano,satriano,Inter / Brest,Empoli,72,high,✅
-Gianluigi Donnarumma,G. Donnarumma,donnarumma,Paris S-G,Paris Saint-Germain,88,high,✅
-Daniele Baselli,D. Baselli,baselli,Torino / Cagliari,Como,72,high,✅
-William Carvalho,William Carvalho,carvalho,Betis,Real Betis BalompiÃ©,80,high,✅
-Ashley Fletcher,A. Fletcher,fletcher,Watford,Watford,69,high,✅
-Pierre-Emerick Aubameyang,P. Aubameyang,aubameyang,Barcelona / Arsenal,FC Barcelona,85,high,✅
-Frenkie de Jong,F. de Jong,jong,Barcelona,FC Barcelona,87,high,✅
-Nicolas Jackson,N. Jackson,jackson,Villarreal,Villarreal CF,70,high,✅
-Teun Koopmeiners,T. Koopmeiners,koopmeiners,Atalanta,Atalanta,80,high,✅
-Josh Sargent,J. Sargent,sargent,Norwich City,Norwich City,68,high,✅
-Francesco Caputo,M. Caputo,caputo,Sassuolo / Sampdoria,Melbourne City FC,50,unique_lastname,✅
-Jean Lucas,Jean Lucas,lucas,Monaco,AS Monaco,75,high,✅
-Ronaldo Vieira,Ronaldo Vieira,vieira,Sampdoria,U.C. Sampdoria,71,high,✅
-Tom Bischof,T. Bischof,bischof,Hoffenheim,TSG Hoffenheim,62,high,✅
-Trevoh Chalobah,T. Chalobah,chalobah,Chelsea,Chelsea,76,high,✅
-Justin Kluivert,J. Kluivert,kluivert,Nice,Roma,76,high,✅
-Solly March,S. March,march,Brighton,Brighton & Hove Albion,75,high,✅
-Sekou Mara,S. Mara,mara,Bordeaux,Southampton,69,high,✅
-Takumi Minamino,T. Minamino,minamino,Liverpool,AS Monaco,75,high,✅
-Simone Verdi,S. Verdi,verdi,Salernitana / Torino,Torino F.C.,75,high,✅
-Vedat Muriqi,V. Muriqi,muriqi,Lazio / Mallorca,RCD Mallorca,75,high,✅
-Jeremy Sarmiento,J. Sarmiento,sarmiento,Brighton,Brighton & Hove Albion,66,high,✅
-Sam Lammers,S. Lammers,lammers,Eint Frankfurt / Atalanta,Empoli,71,high,✅
-Dani Ceballos,Dani Ceballos,ceballos,Real Madrid,Real Madrid CF,77,high,✅
-Boubacar Kamara,B. Kamara,kamara,Marseille,Aston Villa,80,high,✅
-David Ospina,D. Ospina,ospina,Napoli,Al Nassr,80,high,✅
-Kevin Vogt,K. Vogt,vogt,Hoffenheim,TSG Hoffenheim,76,high,✅
-Juan Bernat,Juan Bernat,bernat,Paris S-G,Paris Saint-Germain,78,high,✅
-Mattï¿½o Guendouzi,M. Guendouzi,guendouzi,Marseille,Olympique de Marseille,80,high,✅
-Rubï¿½n Pardo,RubÃ©n Pardo,pardo,Bordeaux,CD LeganÃ©s,70,high,✅
-Nathan Collins,N. Collins,collins,Burnley,Wolverhampton Wanderers,75,high,✅
-Marcus Ingvartsen,M. Ingvartsen,ingvartsen,Union Berlin / Mainz 05,1. FSV Mainz 05,73,high,✅
-Giovanni Simeone,G. Simeone,simeone,Hellas Verona / Cagliari,Hellas Verona,78,high,✅
-Mathï¿½as Olivera,M. Olivera,olivera,Getafe,Napoli,77,high,✅
-Yann Sommer,Y. Sommer,sommer,M'Gladbach,Borussia MÃ¶nchengladbach,85,high,✅
-Reiss Nelson,R. Nelson,nelson,Arsenal,Arsenal,73,high,✅
-Orbelï¿½n Pineda,O. Pineda,pineda,Celta Vigo,AEK Athens,76,high,✅
-Dimitri Foulquier,D. Foulquier,foulquier,Granada / Valencia,Valencia CF,75,high,✅
-Sonny Perkins,S. Perkins,perkins,West Ham,Leeds United,58,high,✅
-Matt Targett,M. Targett,targett,Aston Villa / Newcastle Utd,Newcastle United,77,high,✅
-Ryan Sessegnon,R. Sessegnon,sessegnon,Tottenham,Tottenham Hotspur,75,high,✅
-Finley Stevens,F. Stevens,stevens,Brentford,Brentford,62,high,✅
-Axel Tuanzebe,A. Tuanzebe,tuanzebe,Aston Villa / Napoli,Manchester United,74,high,✅
-Maxwel Cornet,M. Cornet,cornet,Burnley / Lyon,West Ham United,78,high,✅
-Ansgar Knauff,A. Knauff,knauff,Eint Frankfurt / Dortmund,Eintracht Frankfurt,75,high,✅
-Raï¿½l Moro,RaÃºl Moro,moro,Lazio,Lazio,64,high,✅
-Edmond Tapsoba,E. Tapsoba,tapsoba,Leverkusen,Bayer 04 Leverkusen,81,high,✅
-Jordan Henderson,J. Henderson,henderson,Liverpool,Liverpool,83,high,✅
-Aaron Ramsey,A. Ramsey,ramsey,Juventus,OGC Nice,76,high,✅
-Albin Ekdal,A. Ekdal,ekdal,Sampdoria,Spezia,75,high,✅
-Valon Berisha,V. Berisha,berisha,Reims,Hammarby IF,73,high,✅
-Timothy Chandler,T. Chandler,chandler,Eint Frankfurt,Eintracht Frankfurt,72,high,✅
-Matteo Lovato,M. Lovato,lovato,Atalanta / Cagliari,US Salernitana 1919,73,high,✅
-R?zvan Marin,R. Marin,marin,Cagliari,Empoli,73,high,✅
-Pathï¿½ Ciss,P. Ciss,ciss,Rayo Vallecano,Rayo Vallecano,73,high,✅
-Curtis Jones,C. Jones,jones,Liverpool,Liverpool,76,high,✅
-Phil Jones,P. Jones,jones,Manchester Utd,Manchester United,73,high,✅
-Maxime Lopez,M. Lopez,lopez,Sassuolo,U.S. Sassuolo Calcio,78,high,✅
-Giangiacomo Magnani,G. Magnani,magnani,Sampdoria / Hellas Verona,Hellas Verona,74,high,✅
+Salva Sevilla,Salva Sevilla,sevilla,Mallorca,Deportivo AlavÃ©s,75,high,✅
+Kieran Tierney,K. Tierney,tierney,Arsenal,Arsenal,81,high,✅
+Facundo Pellistri,F. Pellistri,pellistri,Alavï¿½s,Manchester United,70,high,✅
+Giacomo Bonaventura,G. Bonaventura,bonaventura,Fiorentina,Fiorentina,78,high,✅
+James Tarkowski,J. Tarkowski,tarkowski,Burnley,Everton,79,high,✅
+Javairï¿½ Dilrosun,J. Dilrosun,dilrosun,Bordeaux,Feyenoord,72,high,✅
+Chris Smalling,C. Smalling,smalling,Roma,Roma,81,high,✅
+Masaya Okugawa,M. Okugawa,okugawa,Arminia,DSC Arminia Bielefeld,75,high,✅
+Angelo Ogbonna,A. Ogbonna,ogbonna,West Ham,West Ham United,79,high,✅
+Danny Ings,D. Ings,ings,Aston Villa,Aston Villa,79,high,✅
+Manuel Akanji,M. Akanji,akanji,Dortmund,Borussia Dortmund,81,high,✅
+Enzo Roco,22Â B. Roco,roco,Elche,CD Huachipato,56,unique_lastname,✅
+Jonathan Tah,J. Tah,tah,Leverkusen,Bayer 04 Leverkusen,82,high,✅
+Edoardo Vergani,E. Vergani,vergani,Salernitana,US Salernitana 1919,64,high,✅
+Teemu Pukki,T. Pukki,pukki,Norwich City,Norwich City,75,high,✅
+Stefan Strandberg,S. Strandberg,strandberg,Salernitana,VÃ¥lerenga Fotball,71,high,✅
